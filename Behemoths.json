@@ -1,0 +1,116 @@
+{
+	"Charrogg": {
+		"Strong" : "Blaze",
+		"Weak" : "Frost",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Embermane": {
+		"Strong" : "Blaze",
+		"Weak" : "Frost",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Hellion": {
+		"Strong" : "Blaze",
+		"Weak" : "Frost",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Boreus": {
+		"Strong" : "Frost",
+		"Weak" : "Blaze",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Pangar": {
+		"Strong" : "Frost",
+		"Weak" : "Blaze",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Skraev": {
+		"Strong" : "Frost",
+		"Weak" : "Blaze",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Drask": {
+		"Strong" : "Shock",
+		"Weak" : "Terra",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Nayzaga": {
+		"Strong" : "Shock",
+		"Weak" : "Terra",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Stormclaw": {
+		"Strong" : "Shock",
+		"Weak" : "Terra",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Kharabak": {
+		"Strong" : "Terra",
+		"Weak" : "Shock",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Koshai": {
+		"Strong" : "Terra",
+		"Weak" : "Shock",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Skarn": {
+		"Strong" : "Terra",
+		"Weak" : "Shock",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Gnasher": {
+		"Strong" : "Neutral",
+		"Weak" : "Neutral",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Quillshot": {
+		"Strong" : "Neutral",
+		"Weak" : "Neutral",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Shrike": {
+		"Strong" : "Neutral",
+		"Weak" : "Neutral",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Shroud": {
+		"Strong" : "Umbral",
+		"Weak" : "Radiant",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Riftstalker": {
+		"Strong" : "Umbral",
+		"Weak" : "Radiant",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Rezakiri": {
+		"Strong" : "Radiant",
+		"Weak" : "Umbral",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			},
+	"Valomyr": {
+		"Strong" : "Radiant",
+		"Weak" : "Umbral",
+		"Prefix" : "Dreadfrost",		
+		"Dye" : "Plume"
+			}
+}			

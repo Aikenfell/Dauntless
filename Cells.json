@@ -1,0 +1,59 @@
+{
+    "Defence": {
+        "Assassin's Vigour": "Grants Health after breaking a Behemoth part",
+        "Bloodless": "Protects against Wounded and Crippling Wounds statuses.",
+        "Fireproof": "Protects against being set on fire.",
+        "Fortress": "Grants a small shield after avoiding damage for a short time.",
+        "Guardian": "Grants a portion of any shield applied to you to your nearest ally.",
+        "Iceborne": "Increases Defense when at low health, and at later ranks, grants life steal",
+        "Insulated": "Protects against Shocked status effect and allows you to attack electric shields.",
+        "Nine Lives": "Grants a chance to reduce damage, and later the ability to cheat death.",
+        "Shellshock Resist": "Protects against the explosion damage and status effect Shellshock.",
+        "Sturdy": "Prevents being staggered on a cooldown.",
+        "Tough": "Increases Max Health.",
+        "Warmth": "Protects against Chilled and Frozen status effects."
+    },
+    "Mobility": {
+        "Agility": "Reduces the stamina cost of dodging.",
+        "Conditioning": "Increases Stamina Regen.",
+        "Endurance": "Increases Max Stamina.",
+        "Fleet Footed": "Temporarily increases Movement Speed after a dodge.",
+        "Nimble": "Restores Stamina when dodging through behemoth attacks.",
+        "Swift": "Increases Movement Speed when your weapon is sheathed."
+	},
+    "Power": {
+        "Aetherhunter": "Increases damage against aether charged Behemoths.",
+        "Deconstruction": "Bonus damage against objects created by Behemoths.",
+        "Knockout King": "Percent increase to Stagger damage.",
+        "Overpower": "Increases damage against staggered Behemoths.",
+        "Pacifier": "Increases Stagger damage against enraged Behemoths.",
+        "Rage": "Increases your damage when your health is low.",
+        "Ragehunter": "Increases damage against enraged Behemoths.",
+        "Sharpened": "Percent increase to part damage."    
+	},
+    "Technique": {
+        "Acidic": "Increases Wound damage at the cost of Part damage.",
+        "Adrenaline": "Increases damage dealt based on stamina spent.",
+        "Barbed": "Adds a flat amount of Wound damage on hit.",
+        "Bladestorm": "Adds a flat amount of Part damage on hit.",
+        "Cunning": "Grants a chance to deal double damage.",
+        "Evasive Fury": "Temporarily increases attack speed when dodging through a Behemoth's attack.",
+        "Merciless": "Increases Wound damage against staggered Behemoths.",
+        "Molten": "Grants Molten Heart drops on cooldown.",
+        "Predator": "Increases damage after avoiding damage for a short time.",
+        "Savagery": "Increases damage against Wounded parts.",
+        "Weighted Strikes": "Adds a flat amount of Stagger damage on hit. At later ranks, allows more weapon attacks to interrupt.",
+        "Wild Frenzy": "Increases Attack Speed when at low health."
+    },
+    "Utility": {
+        "Aetherborne": "Increases the benefits of using aether vents.",
+        "Aetheric Attunement": "Percent increase to Lantern Charge gained from attacks.",
+        "Aetheric Frenzy": "Gains a flat amount of Lantern Charge on each weapon hit.",
+        "Conduit": "Using a Lantern's hold ability increases all Slayers' attack speed temporarily.",
+        "Energized": "Increases weapon meter gain rate.",
+        "Lucent": "Flask heals over time and generates lantern charge",
+        "Medic": "Improves your ability to revive allies.",
+        "Stunning Vigour": "Restores some health whenever a Behemoth is staggered.",
+        "Vampiric": "Restores some health whenever a Behemoth part is Wounded."
+    }
+}
