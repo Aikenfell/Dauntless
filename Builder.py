@@ -4,15 +4,15 @@ from itertools import product
 import math
 
 def resource_path(relative_path):
-##    """ Get absolute path to resource, works for dev and for PyInstaller """
-##    try:
-##        # PyInstaller creates a temp folder and stores path in _MEIPASS
-##        base_path = sys._MEIPASS
-##    except Exception:
-##        base_path = os.path.abspath(".")
-##
-##    return os.path.join(base_path, relative_path)
-    return(relative_path)
+    """ Get absolute path to resource, works for dev and for PyInstaller """
+    try:
+        # PyInstaller creates a temp folder and stores path in _MEIPASS
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+
+    return os.path.join(base_path, relative_path)
+##    return(relative_path)
     
 
 with open(resource_path("Cells.json")) as f:
@@ -58,6 +58,12 @@ def checker(item,source):
         return(True)
     else:
         return(False)
+def ex(crit,weaps):
+        pas = []
+        for item in weaps:
+            if Gear[item]["Region"] == crit:
+                pas.append(item)
+        return(pas)
 
 def match(searching,locks):
     matches = []
@@ -127,12 +133,12 @@ def match(searching,locks):
         legs = [locks[4]]
     print(locks[5])
     if locks[5] != "Free" and locks[0] == "Free":
-        rem = types.remove(locks[5])
-        for item in weapons:
-            if Gear[item]["Region"] in types:
-                weapons.remove(item)
-                print(item)
-    z = product(weapons,head,chest,legs,hands)
+        print(ex(locks[5],weapons),"vawdverwvqewv qe")
+        z = product(ex(locks[5],weapons),head,chest,legs,hands)
+
+        
+    else:
+        z = product(weapons,head,chest,legs,hands)
 
     tt = []
     final = open("test.txt","a")
@@ -365,25 +371,49 @@ def find():
     l5.grid(row=19, column=1)
 
 ######################################################################Weapon Slot
-    Label(master, text="General Weapon Lock").grid(row=16, column=3)
+    Label(master, text="General Weapon Lock").grid(row=15, column=4)
     l6c = StringVar(master)
     l6c.set("Free") # default value
 
     l6 = OptionMenu(master, l6c, *types)
-    l6.grid(row=18, column=3)
+    l6.grid(row=15, column=3)
 
 ######################################################################General Range Lock
+    Label(master, text="Rejected Perk 1").grid(row=16, column=4)
+    e1c = StringVar(master)
+    e1c.set("None") # default value
+
+    e1 = OptionMenu(master, e1c, *clist)
+    e1.grid(row=16, column=3)
+
+########################################################################Perk Exclusion 1
+    Label(master, text="Rejected Perk 2").grid(row=17, column=4)
+    e2c = StringVar(master)
+    e2c.set("None") # default value
+
+    e2 = OptionMenu(master, e2c, *clist)
+    e2.grid(row=17, column=3)
+
+########################################################################Perk Exclusion 2
+    Label(master, text="Rejected Perk 3").grid(row=18, column=4)
+    e3c = StringVar(master)
+    e3c.set("None") # default value
+
+    e3 = OptionMenu(master, e3c, *clist)
+    e3.grid(row=18, column=3)
+
+########################################################################Perk Exclusion 3
 
 
 
-    Button(master, text='Build',command=lambda: [build([[p1c.get(),r1c.get()],[p2c.get(),r2c.get()],[p3c.get(),r3c.get()],[p4c.get(),r4c.get()],[p5c.get(),r5c.get()],[p6c.get(),r6c.get()],[p7c.get(),r7c.get()],[p8c.get(),r8c.get()],[p9c.get(),r9c.get()],[p10c.get(),r10c.get()],[p11c.get(),r11c.get()],[p12c.get(),r12c.get()]],[l1c.get(),l2c.get(),l3c.get(),l4c.get(),l5c.get(),l6c.get()])]).grid(row=25, column=1, sticky=W, pady=4)
+    Button(master, text='Build',command=lambda: [build([[p1c.get(),r1c.get()],[p2c.get(),r2c.get()],[p3c.get(),r3c.get()],[p4c.get(),r4c.get()],[p5c.get(),r5c.get()],[p6c.get(),r6c.get()],[p7c.get(),r7c.get()],[p8c.get(),r8c.get()],[p9c.get(),r9c.get()],[p10c.get(),r10c.get()],[p11c.get(),r11c.get()],[p12c.get(),r12c.get()]],[l1c.get(),l2c.get(),l3c.get(),l4c.get(),l5c.get(),l6c.get()],[e1c.get(),e2c.get(),e3c.get(),])]).grid(row=25, column=1, sticky=W, pady=4)
 
     Button(master, text='Quit Program',command=lambda: [master.quit()]).grid(row=25, column=0, sticky=W, pady=4)
 #[[],[]]
     mainloop()
     master.destroy()
 
-def build(Sets,Locks):
+def build(Sets,Locks,rej):
     Criteria = {}
 #    Locks = [Lock1,Lock2,Lock3,Lock4,Lock5]
 #    Sets = [Set1,Set2,Set3,Set4,Set5,Set6,Set7,Set8,Set9,Set10,Set11,Set12]
@@ -417,7 +447,7 @@ def build(Sets,Locks):
     for item in con:
         test1 = extract(item)
         test2 = values
-        val = perfect(test1,test2,item)
+        val = perfect(test1,test2,item,rej)
 #        print(test2)
         if val == False:
             fin = list(item)
@@ -441,7 +471,8 @@ def build(Sets,Locks):
     final.close()
     print("Done")
 
-def perfect(setii,crit,arm):
+def perfect(setii,crit,arm,rej):
+#    print(rej)
     crit = dict(crit)
     orig = dict(crit)
     seti = setii
@@ -468,8 +499,10 @@ def perfect(setii,crit,arm):
         if cri[item] != 0:
     #            print(item)
             fail = True
+    for item in rej:
+        if item in setii:
+            fail = True
     
-
 
     return(fail)
 
