@@ -1,0 +1,599 @@
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 2, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 2, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 2, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 2, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 2, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 2, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 2, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 2, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 2, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 2, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 2, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 2, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 2, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 2, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Boreus Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Rage': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 2, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Rage': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Bloodless': 1, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 2, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Gnasher Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Tough': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Medic': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 2, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Medic': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Nayzaga Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Nayzaga Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Medic': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 2, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Nayzaga Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Medic': 1, 'Guardian': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Nayzaga Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Medic': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Skarn Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Guardian': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Boreus Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Savagery': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Tough': 1, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Boreus Chest', 'Nayzaga Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 1, 'Rage': 1, 'Insulated': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Skarn Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Guardian': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Gnasher Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Tough': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Embermane Legs', 'Pangar Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Evasion': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Quillshot Head', 'Skarn Chest', 'Nayzaga Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Savagery': 1, 'Guardian': 1, 'Insulated': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Gnasher Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 4, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Embermane Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Guardian': 1, 'Evasion': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Skarn Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Guardian': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Gnasher Head', 'Skarn Chest', 'Pangar Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Bloodless': 1, 'Guardian': 1, 'Warmth': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Nayzaga Chest', 'Pangar Legs', 'Valomyr Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Medic': 1, 'Warmth': 1, 'Lucent': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Gnasher Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 4, 'Fireproof': 1, 'Tough': 1, 'Iceborne': 1, 'Technique': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Boreus Chest', 'Pangar Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Rage': 1, 'Warmth': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Nayzaga Legs', 'Skarn Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Insulated': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Exotic Armor', 'Skarn Chest', 'Embermane Legs', 'Skarn Hands', {'Utility': 1, 'None': 2, 'Power': 1, 'Defence': 5, 'Guardian': 1, 'Evasion': 1, 'Fortress': 1}]
+
+['Charrogg Exotic Weapon', 'Charrogg Head', 'Boreus Chest', 'Skarn Legs', 'Pangar Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Fireproof': 1, 'Rage': 1, 'Guardian': 1, 'Knockout King': 1}]
+
+['Charrogg Exotic Weapon', 'Skarn Head', 'Gnasher Chest', 'Skarn Legs', 'Valomyr Hands', {'Utility': 1, 'None': 1, 'Power': 1, 'Defence': 5, 'Tough': 2, 'Guardian': 1, 'Lucent': 1}]

@@ -1,0 +1,3 @@
+['Riftstalker Hammer', 'Hellion Head', 'Drask Chest', 'Koshai Legs', 'Gnasher Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Ragehunter': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Predator': 1}]
+
+['Hellion Hammer', 'Hellion Head', 'Koshai Chest', 'Koshai Legs', 'Rezakiri Hands', {'Utility': 3, 'Overpower': 1, 'Power': 2, 'Ragehunter': 1, 'Technique': 2, 'Predator': 2, 'Conduit': 1}]

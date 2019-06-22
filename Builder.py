@@ -454,6 +454,7 @@ def build(Sets,Locks,rej):
             fin.append(extract(item))
             mat.append(str(fin))
 #            print(item)
+    print(len(mat))
     window = Tk()
     mat = list(set(mat))
     Label(window, text="Please Enter The Name Of The File You Want The Results To Be In").grid(row=1, column=0)
@@ -478,6 +479,7 @@ def perfect(setii,crit,arm,rej):
     seti = setii
     cri = crit
 #    print(seti,"set perks")
+#    print(cri,"criteria perks")
 
     for item in seti:
 #        print(item)
@@ -500,10 +502,9 @@ def perfect(setii,crit,arm,rej):
     #            print(item)
             fail = True
     for item in rej:
-        if item in setii:
+        if item in setii and item != "None":
             fail = True
     
-
     return(fail)
 
 def celcheck(setii,crit):
@@ -561,7 +562,7 @@ def extract(Set):
 
 
 
-#x = extract(['Drask Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands'])
+#x = extract(['Charrogg Exotic Weapon', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands'])
 #print(x)
 find()
-#perfect({"Rage": 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Utility': 1, 'Iceborne': 1, 'Conduit': 1, 'Overpower': 2, 'Power': 3, 'Defence': 1},{'Aetheric Attunement': 2, 'Conduit': 2, 'Iceborne': 2, 'Overpower': 2, 'Rage': 2, 'Wild Frenzy': 2},('Charrogg Sword', 'Hellion Head', 'Charrogg Chest', 'Charrogg Legs', 'Charrogg Hands'))
+#perfect(extract(['Charrogg Exotic Weapon', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands']),{'Aetheric Attunement': 2},('Charrogg Exotic Weapon', 'Hellion Head', 'Charrogg Chest', 'Charrogg Legs', 'Charrogg Hands'),[])
