@@ -249,45 +249,43 @@
         "Description": "Protects against Shocked status effect and allows you to attack electric shields.",
         "Type": "Defence",
         "Tier 1": {
-            "Description": "",
+            "Description": "Reduces duration of Shocked status by 25%",
             "Buffs": {
-                "Test 1": "",
-                "Test 2": ""
+                "ShockResist": 25
             }
         },
         "Tier 2": {
-            "Description": "",
+            "Description": "Reduces duration of Shocked status by 50%",
             "Buffs": {
-                "Test 1": "",
-                "Test 2": ""
+                "ShockResist": 50
             }
         },
         "Tier 3": {
-            "Description": "",
+            "Description": "Reduces duration of Shocked status by 75%",
             "Buffs": {
-                "Test 1": "",
-                "Test 2": ""
+                "ShockResist": 75
             }
         },
         "Tier 4": {
-            "Description": "",
+            "Description": "Reduces duration of Shocked status by 75%\nReduces knockback and damage of hitting electrified shields.",
             "Buffs": {
-                "Test 1": "",
-                "Test 2": ""
+                "ShockResist": 75
+                "ShockbackResist": 50
             }
         },
         "Tier 5": {
-            "Description": "",
+            "Description": "Reduces duration of Shocked status by 75%\nPrevents knockback and damage of hitting electrified shields.",
             "Buffs": {
-                "Test 1": "",
-                "Test 2": ""
+                "ShockResist": 75
+                "ShockbackResist": 100
             }
         },
         "Tier 6": {
-            "Description": "",
+            "Description": "Immune to Shocked status\nPrevents knockback and damage of hitting electrified shields.",
             "Buffs": {
-                "Test 1": "",
-                "Test 2": ""
+                "ShockResist": 100
+                "ShockbackResist": 100
+            }
             }
         }
     },
