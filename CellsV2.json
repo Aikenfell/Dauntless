@@ -269,23 +269,22 @@
         "Tier 4": {
             "Description": "Reduces duration of Shocked status by 75%\nReduces knockback and damage of hitting electrified shields.",
             "Buffs": {
-                "ShockResist": 75
+                "ShockResist": 75,
                 "ShockbackResist": 50
             }
         },
         "Tier 5": {
             "Description": "Reduces duration of Shocked status by 75%\nPrevents knockback and damage of hitting electrified shields.",
             "Buffs": {
-                "ShockResist": 75
+                "ShockResist": 75,
                 "ShockbackResist": 100
             }
         },
         "Tier 6": {
             "Description": "Immune to Shocked status\nPrevents knockback and damage of hitting electrified shields.",
             "Buffs": {
-                "ShockResist": 100
+                "ShockResist": 100,
                 "ShockbackResist": 100
-            }
             }
         }
     },
