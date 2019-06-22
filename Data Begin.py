@@ -2,8 +2,8 @@ import json
 import csv
 
 ldict = {}
-for item in range(0,15):
-    ldict.update({item : ["",{}]})
+for item in range(0,16):
+    ldict.update({item : {"Power" : 0,"Mats" : {}}})
 
 def mergea(val):
     d3 = {"Cell" : "" , "Slot" : "", "Unique" : "", "Ingame Name" : "", "Description" : "", "Equip Type" : "Armor"}
@@ -54,7 +54,7 @@ def initdata():
     print("Saved")
 
 def toexcel():
-    with open("Equips.json") as f:
+    with open("EquipsV2.json") as f:
         Gear = json.load(f)
     with open('Weapon Data.csv', 'w', newline="\n") as csvfile:
         fieldnames = ["Name", "Innate Cell", "Slot 1", "Slot 2","ID","Element","Unique","Description"]
@@ -76,34 +76,167 @@ def toexcel():
                 writer.writerow({'ID': item, "Innate Cell": Gear[item]["Cell"], "Name": Gear[item]["Ingame Name"], "Slot 1": Gear[item]["Slot"], "Strength": Gear[item]["Resists"], "Description": Gear[item]["Description"], "Unique": Gear[item]["Unique"], 'Weakness': Gear[item]["Weak"]})
 
 def fromexcel():
-    with open("Equips.json") as f:
+    with open("EquipsV2.json") as f:
         Gear = json.load(f)
     with open('Weapon Data.csv', newline="\n") as csvfile:
         wfile = csv.reader(csvfile, delimiter=',', quotechar='|')
 
         for row in wfile:
-            if row[4] not in ["ID","Repeaters","Rezakiri Exotic","Shroud Exotic","Charrogg Exotic"]:
+            if row[4] not in ["ID"]:
                 Gear[row[4]].update({"Ingame Name": row[0]})
                 Gear[row[4]].update({"Unique": row[6]})
                 Gear[row[4]].update({"Slot 1": row[2]})
                 Gear[row[4]].update({"Slot 2": row[3]})
                 Gear[row[4]].update({"Cell": row[1]})
                 
-        with open("Equips"+".json", "w") as filez:
+        with open("EquipsV2"+".json", "w") as filez:
             json.dump(Gear, filez, indent=4)
 
     with open('Armor Data.csv', newline="\n") as csvfile:
         afile = csv.reader(csvfile, delimiter=',', quotechar='|')
         for row in afile:
-            if row[3] not in ["ID","Rezakiri Exotic","Shroud Exotic","Charrogg Exotic"]:
+            if row[3] not in ["ID"]:
                 Gear[row[3]].update({"Ingame Name": row[0]})
                 Gear[row[3]].update({"Unique": row[6]})
                 Gear[row[3]].update({"Slot": row[2]})
                 Gear[row[3]].update({"Cell": row[1]})
                 
-        with open("Equips"+".json", "w") as filez:
+        with open("EquipsV2"+".json", "w") as filez:
             json.dump(Gear, filez, indent=4)
 
+
+def elements():
+    with open("EquipsV2.json") as f:
+        Gear = json.load(f)
+    with open("Behemoths.json") as f:
+        Base = json.load(f)
+
+    for item in Gear:
+#        print(item)
+
+        if item != "Repeaters":
+            if Gear[item]["Equip Type"] == "Armor":
+                Gear[item].update({"Resists" : Base[Gear[item]["Source Behemoth"]]["Strong"],"Weakness" : Base[Gear[item]["Source Behemoth"]]["Weak"]})
+            elif Gear[item]["Equip Type"] == "Weapon":
+                Gear[item].update({"Element" : Base[Gear[item]["Source Behemoth"]]["Strong"]})
+    with open("EquipsV2"+".json", "w") as filez:
+        json.dump(Gear, filez, indent=4)
+
+
+
+def mats():
+    with open("EquipsV2.json") as f:
+        Gear = json.load(f)
+
+    for item in Gear:
+#        print(Gear[item][e])
+        if Gear[item]["Equip Type"] == "Weapon":
+            if item != "Repeaters":
+                if Gear[item]["Element"] in ["Blaze","Frost","Shock","Terra","Neutral"]:
+                    Gear[item]["Levels"]["0"]["Mats"] = {"Rams" : 150}
+                    Gear[item]["Levels"]["1"]["Mats"] = {"Rams" : 40 , Gear[item]["Element"]+" Orbs" : 7}
+                    Gear[item]["Levels"]["2"]["Mats"] = {"Rams" : 60 , Gear[item]["Element"]+" Orbs" : 7}
+                    Gear[item]["Levels"]["3"]["Mats"] = {"Rams" : 100 , Gear[item]["Element"]+" Orbs" : 8}
+                    Gear[item]["Levels"]["4"]["Mats"] = {"Rams" : 140 , Gear[item]["Element"]+" Orbs" : 8}
+                    Gear[item]["Levels"]["5"]["Mats"] = {"Rams" : 160 , Gear[item]["Element"]+" Orbs" : 9}
+                    Gear[item]["Levels"]["6"]["Mats"] = {"Rams" : 220 , Gear[item]["Element"]+" Orbs" : 9 , "Dull Arcstone" : 12}
+                    Gear[item]["Levels"]["7"]["Mats"] = {"Rams" : 240 , Gear[item]["Element"]+" Orbs" : 10 , "Dull Arcstone" : 15}
+                    Gear[item]["Levels"]["8"]["Mats"] = {"Rams" : 290 , Gear[item]["Element"]+" Orbs" : 10 , "Dull Arcstone" : 18 , "Shining Arcstone" : 20}
+                    Gear[item]["Levels"]["9"]["Mats"] = {"Rams" : 350 , Gear[item]["Element"]+" Orbs" : 11 , "Dull Arcstone" : 21 , "Shining Arcstone" : 40}
+                    Gear[item]["Levels"]["10"]["Mats"] = {"Rams" : 400 , Gear[item]["Element"]+" Orbs" : 11 , "Dull Arcstone" : 24 , "Shining Arcstone" : 60}
+                    Gear[item]["Levels"]["11"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 20}
+                    Gear[item]["Levels"]["12"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 25}
+                    Gear[item]["Levels"]["13"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 30}
+                    Gear[item]["Levels"]["14"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 35}
+                    Gear[item]["Levels"]["15"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 40}
+                else:
+                    Gear[item]["Levels"]["0"]["Mats"] = {"Rams" : 150}
+                    Gear[item]["Levels"]["1"]["Mats"] = {"Rams" : 40 , "Dull Arcstone" : 6}
+                    Gear[item]["Levels"]["2"]["Mats"] = {"Rams" : 60 , "Dull Arcstone" : 8}
+                    Gear[item]["Levels"]["3"]["Mats"] = {"Rams" : 100 , "Dull Arcstone" : 9}
+                    Gear[item]["Levels"]["4"]["Mats"] = {"Rams" : 140 , "Dull Arcstone" : 10}
+                    Gear[item]["Levels"]["5"]["Mats"] = {"Rams" : 160 , "Dull Arcstone" : 11}
+                    Gear[item]["Levels"]["6"]["Mats"] = {"Rams" : 220 , "Dull Arcstone" : 13}
+                    Gear[item]["Levels"]["7"]["Mats"] = {"Rams" : 240 , "Dull Arcstone" : 14}
+                    Gear[item]["Levels"]["8"]["Mats"] = {"Rams" : 290 , "Dull Arcstone" : 15 , "Shining Arcstone" : 25}
+                    Gear[item]["Levels"]["9"]["Mats"] = {"Rams" : 350 , "Dull Arcstone" : 18 , "Shining Arcstone" : 50}
+                    Gear[item]["Levels"]["10"]["Mats"] = {"Rams" : 400 , "Dull Arcstone" : 23 , "Shining Arcstone" : 75}
+                    Gear[item]["Levels"]["11"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 20}
+                    Gear[item]["Levels"]["12"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 25}
+                    Gear[item]["Levels"]["13"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 30}
+                    Gear[item]["Levels"]["14"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 35}
+                    Gear[item]["Levels"]["15"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 40}
+                Gear[item]["Levels"]["0"]["Power"] = 15
+                Gear[item]["Levels"]["1"]["Power"] = 25
+                Gear[item]["Levels"]["2"]["Power"] = 35
+                Gear[item]["Levels"]["3"]["Power"] = 45
+                Gear[item]["Levels"]["4"]["Power"] = 55
+                Gear[item]["Levels"]["5"]["Power"] = 65
+                Gear[item]["Levels"]["6"]["Power"] = 75
+                Gear[item]["Levels"]["7"]["Power"] = 85
+                Gear[item]["Levels"]["8"]["Power"] = 95
+                Gear[item]["Levels"]["9"]["Power"] = 105
+                Gear[item]["Levels"]["10"]["Power"] = 125
+                Gear[item]["Levels"]["11"]["Power"] = 127.5
+                Gear[item]["Levels"]["12"]["Power"] = 130
+                Gear[item]["Levels"]["13"]["Power"] = 132.5
+                Gear[item]["Levels"]["14"]["Power"] = 135
+                Gear[item]["Levels"]["15"]["Power"] = 137.5
+
+        if Gear[item]["Equip Type"] == "Armor":
+            if Gear[item]["Resists"] in ["Blaze","Frost","Shock","Terra","Neutral"]:
+                Gear[item]["Levels"]["0"]["Mats"] = {"Rams" : 40}
+                Gear[item]["Levels"]["1"]["Mats"] = {"Rams" : 10 , Gear[item]["Resists"]+" Orbs" : 1}
+                Gear[item]["Levels"]["2"]["Mats"] = {"Rams" : 15 , Gear[item]["Resists"]+" Orbs" : 1}
+                Gear[item]["Levels"]["3"]["Mats"] = {"Rams" : 25 , Gear[item]["Resists"]+" Orbs" : 2}
+                Gear[item]["Levels"]["4"]["Mats"] = {"Rams" : 35 , Gear[item]["Resists"]+" Orbs" : 2}
+                Gear[item]["Levels"]["5"]["Mats"] = {"Rams" : 40 , Gear[item]["Resists"]+" Orbs" : 2}
+                Gear[item]["Levels"]["6"]["Mats"] = {"Rams" : 55 , Gear[item]["Resists"]+" Orbs" : 3 , "Dull Arcstone" : 3}
+                Gear[item]["Levels"]["7"]["Mats"] = {"Rams" : 60 , Gear[item]["Resists"]+" Orbs" : 4 , "Dull Arcstone" : 4}
+                Gear[item]["Levels"]["8"]["Mats"] = {"Rams" : 75 , Gear[item]["Resists"]+" Orbs" : 5 , "Dull Arcstone" : 5 , "Shining Arcstone" : 20}
+                Gear[item]["Levels"]["9"]["Mats"] = {"Rams" : 90 , Gear[item]["Resists"]+" Orbs" : 6 , "Dull Arcstone" : 6 , "Shining Arcstone" : 40}
+                Gear[item]["Levels"]["10"]["Mats"] = {"Rams" : 100 , Gear[item]["Resists"]+" Orbs" : 7 , "Dull Arcstone" : 7 , "Shining Arcstone" : 60}
+                Gear[item]["Levels"]["11"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 5}
+                Gear[item]["Levels"]["12"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 6}
+                Gear[item]["Levels"]["13"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 7}
+                Gear[item]["Levels"]["14"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 8}
+                Gear[item]["Levels"]["15"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 9}
+            else:
+                Gear[item]["Levels"]["0"]["Mats"] = {"Rams" : 40}
+                Gear[item]["Levels"]["1"]["Mats"] = {"Rams" : 10 , "Dull Arcstone" : 2}
+                Gear[item]["Levels"]["2"]["Mats"] = {"Rams" : 15 , "Dull Arcstone" : 2}
+                Gear[item]["Levels"]["3"]["Mats"] = {"Rams" : 25 , "Dull Arcstone" : 2}
+                Gear[item]["Levels"]["4"]["Mats"] = {"Rams" : 35 , "Dull Arcstone" : 2}
+                Gear[item]["Levels"]["5"]["Mats"] = {"Rams" : 40 , "Dull Arcstone" : 3}
+                Gear[item]["Levels"]["6"]["Mats"] = {"Rams" : 55 , "Dull Arcstone" : 3}
+                Gear[item]["Levels"]["7"]["Mats"] = {"Rams" : 60 , "Dull Arcstone" : 3}
+                Gear[item]["Levels"]["8"]["Mats"] = {"Rams" : 75 , "Dull Arcstone" : 4 , "Shining Arcstone" : 7}
+                Gear[item]["Levels"]["9"]["Mats"] = {"Rams" : 90 , "Dull Arcstone" : 4 , "Shining Arcstone" : 13}
+                Gear[item]["Levels"]["10"]["Mats"] = {"Rams" : 100 , "Dull Arcstone" : 5 , "Shining Arcstone" : 20}
+                Gear[item]["Levels"]["11"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 5}
+                Gear[item]["Levels"]["12"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 6}
+                Gear[item]["Levels"]["13"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 7}
+                Gear[item]["Levels"]["14"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 8}
+                Gear[item]["Levels"]["15"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 9}
+            Gear[item]["Levels"]["0"]["Power"] = 15
+            Gear[item]["Levels"]["1"]["Power"] = 25
+            Gear[item]["Levels"]["2"]["Power"] = 35
+            Gear[item]["Levels"]["3"]["Power"] = 45
+            Gear[item]["Levels"]["4"]["Power"] = 55
+            Gear[item]["Levels"]["5"]["Power"] = 65
+            Gear[item]["Levels"]["6"]["Power"] = 75
+            Gear[item]["Levels"]["7"]["Power"] = 85
+            Gear[item]["Levels"]["8"]["Power"] = 95
+            Gear[item]["Levels"]["9"]["Power"] = 105
+            Gear[item]["Levels"]["10"]["Power"] = 125
+            Gear[item]["Levels"]["11"]["Power"] = 127.5
+            Gear[item]["Levels"]["12"]["Power"] = 130
+            Gear[item]["Levels"]["13"]["Power"] = 132.5
+            Gear[item]["Levels"]["14"]["Power"] = 135
+            Gear[item]["Levels"]["15"]["Power"] = 137.5
+
+    with open("EquipsV2"+".json", "w") as filez:
+        json.dump(Gear, filez, indent=4)
 
 
 
@@ -176,6 +309,8 @@ def split():
         for item in Behemoths:
                 writer.writerow({'Heads': Gear[item+" "+"Head"]["Ingame Name"], 'Chest': Gear[item+" "+"Chest"]["Ingame Name"], 'Gloves': Gear[item+" "+"Hands"]["Ingame Name"], 'Legs': Gear[item+" "+"Legs"]["Ingame Name"]})
 
-#fromexcel()
 #split()
 initdata()
+fromexcel()
+elements()
+mats()
