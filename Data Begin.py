@@ -238,6 +238,20 @@ def mats():
     with open("EquipsV2"+".json", "w") as filez:
         json.dump(Gear, filez, indent=4)
 
+def cellsV2():
+    with open("Cells.json") as f:
+        Data = json.load(f)
+    final = {}
+    for item in Data:
+        for perk in Data[item]:
+            final.update({perk : {"Description" : Data[item][perk] , "Type" : item}})
+            for rank in range(1,7):
+                final[perk].update({"Tier "+str(rank) : {"Description" : "", "Buffs" : {"Test 1" : "", "Test 2" : ""}}})
+
+
+    with open("CellsV2"+".json", "w") as filez:
+        json.dump(final, filez, indent=4)
+
 
 
 def laser():
@@ -310,7 +324,8 @@ def split():
                 writer.writerow({'Heads': Gear[item+" "+"Head"]["Ingame Name"], 'Chest': Gear[item+" "+"Chest"]["Ingame Name"], 'Gloves': Gear[item+" "+"Hands"]["Ingame Name"], 'Legs': Gear[item+" "+"Legs"]["Ingame Name"]})
 
 #split()
-initdata()
-fromexcel()
-elements()
-mats()
+##initdata()
+##fromexcel()
+##elements()
+##mats()
+##cellsV2()
