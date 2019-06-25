@@ -1489,7 +1489,7 @@
 			}
 		},
 		"Tier 5": {
-			"Description": "Deal 127	% damage after not getting hit for 15 seconds. Bonus removed when hit.",
+			"Description": "Deal 127% damage after not getting hit for 15 seconds. Bonus removed when hit.",
 			"Buffs": {
 				"FlawlessDamage": 27
 			}
@@ -1581,7 +1581,7 @@
 			"Buffs": {
 				"FlatStaggerDamage": 40,
 				"DodgeStaggerFlat": 400,
-				"Boop": 1000,
+				"Boop": 1000
 			}
 		}
 	},
@@ -1729,37 +1729,37 @@
 		"Tier 1": {
 			"Description": "+3.0 Lantern Charge on Hit",
 			"Buffs": {
-				"FlatCharge" : 3 
+				"FlatCharge": 3
 			}
 		},
 		"Tier 2": {
 			"Description": "+4.0 Lantern Charge on Hit",
 			"Buffs": {
-				"FlatCharge" : 4 
+				"FlatCharge": 4
 			}
 		},
 		"Tier 3": {
 			"Description": "+5.0 Lantern Charge on Hit",
 			"Buffs": {
-				"FlatCharge" : 5 
+				"FlatCharge": 5
 			}
 		},
 		"Tier 4": {
 			"Description": "+7.5 Lantern Charge on Hit",
 			"Buffs": {
-				"FlatCharge" : 7.5 
+				"FlatCharge": 7.5
 			}
 		},
 		"Tier 5": {
 			"Description": "+10.0 Lantern Charge on Hit",
 			"Buffs": {
-				"FlatCharge" : 10 
+				"FlatCharge": 10
 			}
 		},
 		"Tier 6": {
 			"Description": "+12.5 Lantern Charge on Hit",
 			"Buffs": {
-				"FlatCharge" : 12.5 
+				"FlatCharge": 12.5
 			}
 		}
 	},
@@ -1929,7 +1929,7 @@
 			"Buffs": {
 				"ReviveHP": 40,
 				"ReviveSpeedBonus": 66,
-				"ReviveShield": 300,
+				"ReviveShield": 300
 			}
 		}
 	},
@@ -2012,5 +2012,5 @@
 				"StaggerHeal": 200
 			}
 		}
-	},
+	}
 }
