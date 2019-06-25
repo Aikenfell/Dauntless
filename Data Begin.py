@@ -166,22 +166,22 @@ def mats():
                     Gear[item]["Levels"]["13"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 30}
                     Gear[item]["Levels"]["14"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 35}
                     Gear[item]["Levels"]["15"]["Mats"] = {"Rams" : 600 , "Peerless Arcstone" : 40}
-                Gear[item]["Levels"]["0"]["Power"] = 15
-                Gear[item]["Levels"]["1"]["Power"] = 25
-                Gear[item]["Levels"]["2"]["Power"] = 35
-                Gear[item]["Levels"]["3"]["Power"] = 45
-                Gear[item]["Levels"]["4"]["Power"] = 55
-                Gear[item]["Levels"]["5"]["Power"] = 65
-                Gear[item]["Levels"]["6"]["Power"] = 75
-                Gear[item]["Levels"]["7"]["Power"] = 85
-                Gear[item]["Levels"]["8"]["Power"] = 95
-                Gear[item]["Levels"]["9"]["Power"] = 105
-                Gear[item]["Levels"]["10"]["Power"] = 125
-                Gear[item]["Levels"]["11"]["Power"] = 127.5
-                Gear[item]["Levels"]["12"]["Power"] = 130
-                Gear[item]["Levels"]["13"]["Power"] = 132.5
-                Gear[item]["Levels"]["14"]["Power"] = 135
-                Gear[item]["Levels"]["15"]["Power"] = 137.5
+                Gear[item]["Levels"]["0"]["Power"] = 100
+                Gear[item]["Levels"]["1"]["Power"] = 140
+                Gear[item]["Levels"]["2"]["Power"] = 180
+                Gear[item]["Levels"]["3"]["Power"] = 220
+                Gear[item]["Levels"]["4"]["Power"] = 260
+                Gear[item]["Levels"]["5"]["Power"] = 300
+                Gear[item]["Levels"]["6"]["Power"] = 340
+                Gear[item]["Levels"]["7"]["Power"] = 380
+                Gear[item]["Levels"]["8"]["Power"] = 420
+                Gear[item]["Levels"]["9"]["Power"] = 460
+                Gear[item]["Levels"]["10"]["Power"] = 500
+                Gear[item]["Levels"]["11"]["Power"] = 510
+                Gear[item]["Levels"]["12"]["Power"] = 520
+                Gear[item]["Levels"]["13"]["Power"] = 530
+                Gear[item]["Levels"]["14"]["Power"] = 540
+                Gear[item]["Levels"]["15"]["Power"] = 550
 
         if Gear[item]["Equip Type"] == "Armor":
             if Gear[item]["Resists"] in ["Blaze","Frost","Shock","Terra","Neutral"]:
