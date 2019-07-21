@@ -1,0 +1,431 @@
+{
+    "Charrogg": {
+        "Strong": "Blaze",
+        "Weak": "Frost",
+        "Prefix": "Firebrand",
+        "Dye": "Smoulder",
+        "Threat Level Range": "4-13",
+        "Power Level Range": "150-425",
+        "Gear": [
+            "Charrogg Head",
+            "Charrogg Chest",
+            "Charrogg Legs",
+            "Charrogg Hands",
+            "Charrogg Sword",
+            "Charrogg Hammer",
+            "Charrogg Chainblades",
+            "Charrogg Axe",
+            "Charrogg War Pike",
+            "Charrogg Exotic Helm",
+            "Charrogg Exotic Weapon"
+        ]
+    },
+    "Embermane": {
+        "Strong": "Blaze",
+        "Weak": "Frost",
+        "Prefix": "Bloodfire",
+        "Dye": "Bloodfire",
+        "Threat Level Range": "1-15",
+        "Power Level Range": "50-475",
+        "Gear": [
+            "Embermane Head",
+            "Embermane Chest",
+            "Embermane Legs",
+            "Embermane Hands",
+            "Embermane Sword",
+            "Embermane Hammer",
+            "Embermane Chainblades",
+            "Embermane Axe",
+            "Embermane War Pike"
+        ]
+    },
+    "Hellion": {
+        "Strong": "Blaze",
+        "Weak": "Frost",
+        "Prefix": "Scorchstone",
+        "Dye": "Wildfire",
+        "Threat Level Range": "12-16",
+        "Power Level Range": "400-500",
+        "Gear": [
+            "Hellion Head",
+            "Hellion Chest",
+            "Hellion Legs",
+            "Hellion Hands",
+            "Hellion Sword",
+            "Hellion Hammer",
+            "Hellion Chainblades",
+            "Hellion Axe",
+            "Hellion War Pike"
+        ]
+    },
+    "Boreus": {
+        "Strong": "Frost",
+        "Weak": "Blaze",
+        "Prefix": "Dreadfrost",
+        "Dye": "Dominion",
+        "Threat Level Range": "3-15",
+        "Power Level Range": "100-475",
+        "Gear": [
+            "Boreus Head",
+            "Boreus Chest",
+            "Boreus Legs",
+            "Boreus Hands",
+            "Boreus Sword",
+            "Boreus Hammer",
+            "Boreus Chainblades",
+            "Boreus Axe",
+            "Boreus War Pike"
+        ]
+    },
+    "Pangar": {
+        "Strong": "Frost",
+        "Weak": "Blaze",
+        "Prefix": "Frostback",
+        "Dye": "Subzero",
+        "Threat Level Range": "7-15",
+        "Power Level Range": "275-475",
+        "Gear": [
+            "Pangar Head",
+            "Pangar Chest",
+            "Pangar Legs",
+            "Pangar Hands",
+            "Pangar Sword",
+            "Pangar Hammer",
+            "Pangar Chainblades",
+            "Pangar Axe",
+            "Pangar War Pike"
+        ]
+    },
+    "Skraev": {
+        "Strong": "Frost",
+        "Weak": "Blaze",
+        "Prefix": "Winterhorn",
+        "Dye": "Sagacity",
+        "Threat Level Range": "4",
+        "Power Level Range": "150",
+        "Gear": [
+            "Skraev Head",
+            "Skraev Chest",
+            "Skraev Legs",
+            "Skraev Hands",
+            "Skraev Sword",
+            "Skraev Hammer",
+            "Skraev Chainblades",
+            "Skraev Axe",
+            "Skraev War Pike"
+        ]
+    },
+    "Drask": {
+        "Strong": "Shock",
+        "Weak": "Terra",
+        "Prefix": "Thunderdeep",
+        "Dye": "Virtuoso",
+        "Threat Level Range": "2-14",
+        "Power Level Range": "75-450",
+        "Gear": [
+            "Drask Head",
+            "Drask Chest",
+            "Drask Legs",
+            "Drask Hands",
+            "Drask Sword",
+            "Drask Hammer",
+            "Drask Chainblades",
+            "Drask Axe",
+            "Drask War Pike"
+        ]
+    },
+    "Nayzaga": {
+        "Strong": "Shock",
+        "Weak": "Terra",
+        "Prefix": "Shockjaw",
+        "Dye": "Rockstar",
+        "Threat Level Range": "11-15",
+        "Power Level Range": "375-475",
+        "Gear": [
+            "Nayzaga Head",
+            "Nayzaga Chest",
+            "Nayzaga Legs",
+            "Nayzaga Hands",
+            "Nayzaga Sword",
+            "Nayzaga Hammer",
+            "Nayzaga Chainblades",
+            "Nayzaga Axe",
+            "Nayzaga War Pike"
+        ]
+    },
+    "Stormclaw": {
+        "Strong": "Shock",
+        "Weak": "Terra",
+        "Prefix": "Dynamo",
+        "Dye": "Scintilla",
+        "Threat Level Range": "6",
+        "Power Level Range": "250",
+        "Gear": [
+            "Stormclaw Head",
+            "Stormclaw Chest",
+            "Stormclaw Legs",
+            "Stormclaw Hands",
+            "Stormclaw Sword",
+            "Stormclaw Hammer",
+            "Stormclaw Chainblades",
+            "Stormclaw Axe",
+            "Stormclaw War Pike"
+        ]
+    },
+    "Kharabak": {
+        "Strong": "Terra",
+        "Weak": "Shock",
+        "Prefix": "Razorwing",
+        "Dye": "Progenitor",
+        "Threat Level Range": "10-14",
+        "Power Level Range": "350-450",
+        "Gear": [
+            "Kharabak Head",
+            "Kharabak Chest",
+            "Kharabak Legs",
+            "Kharabak Hands",
+            "Kharabak Sword",
+            "Kharabak Hammer",
+            "Kharabak Chainblades",
+            "Kharabak Axe",
+            "Kharabak War Pike"
+        ]
+    },
+    "Koshai": {
+        "Strong": "Terra",
+        "Weak": "Shock",
+        "Prefix": "Thorn Sovereign",
+        "Dye": "Sovereign",
+        "Threat Level Range": "10-17",
+        "Power Level Range": "350-550",
+        "Gear": [
+            "Koshai Head",
+            "Koshai Chest",
+            "Koshai Legs",
+            "Koshai Hands",
+            "Koshai Sword",
+            "Koshai Hammer",
+            "Koshai Chainblades",
+            "Koshai Axe",
+            "Koshai War Pike"
+        ]
+    },
+    "Skarn": {
+        "Strong": "Terra",
+        "Weak": "Shock",
+        "Prefix": "Rockfall",
+        "Dye": "Unbreakable",
+        "Threat Level Range": "8-13",
+        "Power Level Range": "300-425",
+        "Gear": [
+            "Skarn Head",
+            "Skarn Chest",
+            "Skarn Legs",
+            "Skarn Hands",
+            "Skarn Sword",
+            "Skarn Hammer",
+            "Skarn Chainblades",
+            "Skarn Axe",
+            "Skarn War Pike"
+        ]
+    },
+    "Gnasher": {
+        "Strong": "Neutral",
+        "Weak": "Neutral",
+        "Prefix": "Ragetail",
+        "Dye": "Grievance",
+        "Threat Level Range": "1-14",
+        "Power Level Range": "50-450",
+        "Gear": [
+            "Gnasher Head",
+            "Gnasher Chest",
+            "Gnasher Legs",
+            "Gnasher Hands",
+            "Gnasher Sword",
+            "Gnasher Hammer",
+            "Gnasher Chainblades",
+            "Gnasher Axe",
+            "Gnasher War Pike"
+        ]
+    },
+    "Quillshot": {
+        "Strong": "Neutral",
+        "Weak": "Neutral",
+        "Prefix": "Deadeye",
+        "Dye": "Vicious",
+        "Threat Level Range": "12-14",
+        "Power Level Range": "400-450",
+        "Gear": [
+            "Quillshot Head",
+            "Quillshot Chest",
+            "Quillshot Legs",
+            "Quillshot Hands",
+            "Quillshot Sword",
+            "Quillshot Hammer",
+            "Quillshot Chainblades",
+            "Quillshot Axe",
+            "Quillshot War Pike"
+        ]
+    },
+    "Shrike": {
+        "Strong": "Neutral",
+        "Weak": "Neutral",
+        "Prefix": "Moonreaver",
+        "Dye": "Plume",
+        "Threat Level Range": "9-14",
+        "Power Level Range": "325-450",
+        "Gear": [
+            "Shrike Head",
+            "Shrike Chest",
+            "Shrike Legs",
+            "Shrike Hands",
+            "Shrike Sword",
+            "Shrike Hammer",
+            "Shrike Chainblades",
+            "Shrike Axe",
+            "Shrike War Pike"
+        ]
+    },
+    "Shrowd": {
+        "Strong": "Umbral",
+        "Weak": "Radiant",
+        "Prefix": "Enigmatic",
+        "Dye": "Eclipse",
+        "Threat Level Range": "8-16",
+        "Power Level Range": "300-500",
+        "Gear": [
+            "Shrowd Head",
+            "Shrowd Chest",
+            "Shrowd Legs",
+            "Shrowd Hands",
+            "Shrowd Sword",
+            "Shrowd Hammer",
+            "Shrowd Chainblades",
+            "Shrowd Axe",
+            "Shrowd War Pike",
+            "Shrowd Exotic Helm",
+            "Shrowd Exotic Weapon"
+        ]
+    },
+    "Riftstalker": {
+        "Strong": "Umbral",
+        "Weak": "Radiant",
+        "Prefix": "Shadowy ",
+        "Dye": "Riftborn",
+        "Threat Level Range": "9-16",
+        "Power Level Range": "325-500",
+        "Gear": [
+            "Riftstalker Head",
+            "Riftstalker Chest",
+            "Riftstalker Legs",
+            "Riftstalker Hands",
+            "Riftstalker Sword",
+            "Riftstalker Hammer",
+            "Riftstalker Chainblades",
+            "Riftstalker Axe",
+            "Riftstalker War Pike"
+        ]
+    },
+    "Rezakiri": {
+        "Strong": "Radiant",
+        "Weak": "Umbral",
+        "Prefix": "Radiant",
+        "Dye": "Supernova",
+        "Threat Level Range": "17",
+        "Power Level Range": "550",
+        "Gear": [
+            "Rezakiri Head",
+            "Rezakiri Chest",
+            "Rezakiri Legs",
+            "Rezakiri Hands",
+            "Rezakiri Sword",
+            "Rezakiri Hammer",
+            "Rezakiri Chainblades",
+            "Rezakiri Axe",
+            "Rezakiri War Pike",
+            "Rezakiri Exotic Helm",
+            "Rezakiri Exotic Weapon"
+        ]
+    },
+    "Valomyr": {
+        "Strong": "Radiant",
+        "Weak": "Umbral",
+        "Prefix": "Dazzling",
+        "Dye": "Opalescence",
+        "Threat Level Range": "8-16",
+        "Power Level Range": "300-500",
+        "Drops": {
+            "Valomyr Hide": [
+                "Common",
+                "Dire",
+                "All"
+            ],
+            "Fractal Hide": [
+                "Rare",
+                "Dire",
+                "All"
+            ],
+            "Galactic Shard": [
+                "Epic",
+                "Dire",
+                "All"
+            ],
+            "Apocalypse Horn": [
+                "Common",
+                "Dire",
+                "Horns"
+            ],
+            "Volatile Horn": [
+                "Rare",
+                "Dire",
+                "Horns"
+            ],
+            "Protean Fang": [
+                "Common",
+                "Dire",
+                "Head"
+            ],
+            "Fractal Fang": [
+                "Rare",
+                "Dire",
+                "Head"
+            ],
+            "Radiant Dewclaw": [
+                "Common",
+                "Dire",
+                "Legs"
+            ],
+            "Volatile Claw": [
+                "Rare",
+                "Dire",
+                "Legs"
+            ],
+            "Unstable Tailspike": [
+                "Common",
+                "Dire",
+                "Tail"
+            ],
+            "Unstable Spike": [
+                "Rare",
+                "Dire",
+                "Tail"
+            ],
+            "Protean Spike": [
+                "Epic",
+                "Dire",
+                "Tail"
+            ]
+        },
+        "Gear": [
+            "Valomyr Head",
+            "Valomyr Chest",
+            "Valomyr Legs",
+            "Valomyr Hands",
+            "Valomyr Sword",
+            "Valomyr Hammer",
+            "Valomyr Chainblades",
+            "Valomyr Axe",
+            "Valomyr War Pike"
+        ]
+    }
+}

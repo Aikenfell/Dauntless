@@ -1,0 +1,1898 @@
+{
+    "gt2int": {
+        "None": 0,
+        "Head": 1,
+        "Chest": 2,
+        "Legs": 3,
+        "Hands": 4,
+        "Sword": 5,
+        "Hammer": 6,
+        "Chainblades": 7,
+        "Axe": 8,
+        "War Pike": 9,
+        "Repeaters": 10
+    },
+    "int2gt": {
+        "0": "None",
+        "1": "Head",
+        "2": "Chest",
+        "3": "Legs",
+        "4": "Hands",
+        "5": "Sword",
+        "6": "Hammer",
+        "7": "Chainblades",
+        "8": "Axe",
+        "9": "War Pike",
+        "10": "Repeaters"
+    },
+    "ct2int": {
+        "None": 0,
+        "Defence": 1001,
+        "Mobility": 1002,
+        "Power": 1003,
+        "Technique": 1004,
+        "Utility": 1005
+    },
+    "int2ct": {
+        "0": "None",
+        "1001": "Defence",
+        "1002": "Mobility",
+        "1003": "Power",
+        "1004": "Technique",
+        "1005": "Utility"
+    },
+    "gear2int": {
+        "None": 0,
+        "Charrogg Head": {
+            "ID": 1,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 3,
+            "Innate Cell Type": 1001,
+            "Region": 1
+        },
+        "Charrogg Chest": {
+            "ID": 2,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 2
+        },
+        "Charrogg Legs": {
+            "ID": 3,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 25,
+            "Innate Cell Type": 1003,
+            "Region": 3
+        },
+        "Charrogg Hands": {
+            "ID": 4,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 25,
+            "Innate Cell Type": 1003,
+            "Region": 4
+        },
+        "Charrogg Sword": {
+            "ID": 5,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 5
+        },
+        "Charrogg Hammer": {
+            "ID": 6,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 6
+        },
+        "Charrogg Chainblades": {
+            "ID": 7,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 7
+        },
+        "Charrogg Axe": {
+            "ID": 8,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 8
+        },
+        "Charrogg War Pike": {
+            "ID": 9,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 9
+        },
+        "Embermane Head": {
+            "ID": 10,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 33,
+            "Innate Cell Type": 1004,
+            "Region": 1
+        },
+        "Embermane Chest": {
+            "ID": 11,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 33,
+            "Innate Cell Type": 1004,
+            "Region": 2
+        },
+        "Embermane Legs": {
+            "ID": 12,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 16,
+            "Innate Cell Type": 1002,
+            "Region": 3
+        },
+        "Embermane Hands": {
+            "ID": 13,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 3,
+            "Innate Cell Type": 1001,
+            "Region": 4
+        },
+        "Embermane Sword": {
+            "ID": 14,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 33,
+            "Innate Cell Type": 1004,
+            "Region": 5
+        },
+        "Embermane Hammer": {
+            "ID": 15,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 33,
+            "Innate Cell Type": 1004,
+            "Region": 6
+        },
+        "Embermane Chainblades": {
+            "ID": 16,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 33,
+            "Innate Cell Type": 1004,
+            "Region": 7
+        },
+        "Embermane Axe": {
+            "ID": 17,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 33,
+            "Innate Cell Type": 1004,
+            "Region": 8
+        },
+        "Embermane War Pike": {
+            "ID": 18,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 33,
+            "Innate Cell Type": 1004,
+            "Region": 9
+        },
+        "Hellion Head": {
+            "ID": 19,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 26,
+            "Innate Cell Type": 1003,
+            "Region": 1
+        },
+        "Hellion Chest": {
+            "ID": 20,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 35,
+            "Innate Cell Type": 1004,
+            "Region": 2
+        },
+        "Hellion Legs": {
+            "ID": 21,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 4,
+            "Innate Cell Type": 1001,
+            "Region": 3
+        },
+        "Hellion Hands": {
+            "ID": 22,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 35,
+            "Innate Cell Type": 1004,
+            "Region": 4
+        },
+        "Hellion Sword": {
+            "ID": 23,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 23,
+            "Innate Cell Type": 1003,
+            "Region": 5
+        },
+        "Hellion Hammer": {
+            "ID": 24,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 23,
+            "Innate Cell Type": 1003,
+            "Region": 6
+        },
+        "Hellion Chainblades": {
+            "ID": 25,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 23,
+            "Innate Cell Type": 1003,
+            "Region": 7
+        },
+        "Hellion Axe": {
+            "ID": 26,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 23,
+            "Innate Cell Type": 1003,
+            "Region": 8
+        },
+        "Hellion War Pike": {
+            "ID": 27,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 23,
+            "Innate Cell Type": 1003,
+            "Region": 9
+        },
+        "Boreus Head": {
+            "ID": 28,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 1
+        },
+        "Boreus Chest": {
+            "ID": 29,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 25,
+            "Innate Cell Type": 1003,
+            "Region": 2
+        },
+        "Boreus Legs": {
+            "ID": 30,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 6,
+            "Innate Cell Type": 1001,
+            "Region": 3
+        },
+        "Boreus Hands": {
+            "ID": 31,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 25,
+            "Innate Cell Type": 1003,
+            "Region": 4
+        },
+        "Boreus Sword": {
+            "ID": 32,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 5
+        },
+        "Boreus Hammer": {
+            "ID": 33,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 6
+        },
+        "Boreus Chainblades": {
+            "ID": 34,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 7
+        },
+        "Boreus Axe": {
+            "ID": 35,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 8
+        },
+        "Boreus War Pike": {
+            "ID": 36,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 9
+        },
+        "Pangar Head": {
+            "ID": 37,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 22,
+            "Innate Cell Type": 1003,
+            "Region": 1
+        },
+        "Pangar Chest": {
+            "ID": 38,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 4,
+            "Innate Cell Type": 1001,
+            "Region": 2
+        },
+        "Pangar Legs": {
+            "ID": 39,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 12,
+            "Innate Cell Type": 1001,
+            "Region": 3
+        },
+        "Pangar Hands": {
+            "ID": 40,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 22,
+            "Innate Cell Type": 1003,
+            "Region": 4
+        },
+        "Pangar Sword": {
+            "ID": 41,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 22,
+            "Innate Cell Type": 1003,
+            "Region": 5
+        },
+        "Pangar Hammer": {
+            "ID": 42,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 22,
+            "Innate Cell Type": 1003,
+            "Region": 6
+        },
+        "Pangar Chainblades": {
+            "ID": 43,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 38,
+            "Innate Cell Type": 1004,
+            "Region": 7
+        },
+        "Pangar Axe": {
+            "ID": 44,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 22,
+            "Innate Cell Type": 1003,
+            "Region": 8
+        },
+        "Pangar War Pike": {
+            "ID": 45,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 38,
+            "Innate Cell Type": 1004,
+            "Region": 9
+        },
+        "Skraev Head": {
+            "ID": 46,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 17,
+            "Innate Cell Type": 1002,
+            "Region": 1
+        },
+        "Skraev Chest": {
+            "ID": 47,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 29,
+            "Innate Cell Type": 1004,
+            "Region": 2
+        },
+        "Skraev Legs": {
+            "ID": 48,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 29,
+            "Innate Cell Type": 1004,
+            "Region": 3
+        },
+        "Skraev Hands": {
+            "ID": 49,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 12,
+            "Innate Cell Type": 1001,
+            "Region": 4
+        },
+        "Skraev Sword": {
+            "ID": 50,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 18,
+            "Innate Cell Type": 1002,
+            "Region": 5
+        },
+        "Skraev Hammer": {
+            "ID": 51,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 18,
+            "Innate Cell Type": 1002,
+            "Region": 6
+        },
+        "Skraev Chainblades": {
+            "ID": 52,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 18,
+            "Innate Cell Type": 1002,
+            "Region": 7
+        },
+        "Skraev Axe": {
+            "ID": 53,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 18,
+            "Innate Cell Type": 1002,
+            "Region": 8
+        },
+        "Skraev War Pike": {
+            "ID": 54,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 18,
+            "Innate Cell Type": 1002,
+            "Region": 9
+        },
+        "Drask Head": {
+            "ID": 55,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 41,
+            "Innate Cell Type": 1005,
+            "Region": 1
+        },
+        "Drask Chest": {
+            "ID": 56,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 41,
+            "Innate Cell Type": 1005,
+            "Region": 2
+        },
+        "Drask Legs": {
+            "ID": 57,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 17,
+            "Innate Cell Type": 1002,
+            "Region": 3
+        },
+        "Drask Hands": {
+            "ID": 58,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 27,
+            "Innate Cell Type": 1003,
+            "Region": 4
+        },
+        "Drask Sword": {
+            "ID": 59,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 41,
+            "Innate Cell Type": 1005,
+            "Region": 5
+        },
+        "Drask Hammer": {
+            "ID": 60,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1001,
+            "Innate Cell": 41,
+            "Innate Cell Type": 1005,
+            "Region": 6
+        },
+        "Drask Chainblades": {
+            "ID": 61,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 41,
+            "Innate Cell Type": 1005,
+            "Region": 7
+        },
+        "Drask Axe": {
+            "ID": 62,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1001,
+            "Innate Cell": 41,
+            "Innate Cell Type": 1005,
+            "Region": 8
+        },
+        "Drask War Pike": {
+            "ID": 63,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 41,
+            "Innate Cell Type": 1005,
+            "Region": 9
+        },
+        "Nayzaga Head": {
+            "ID": 64,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 46,
+            "Innate Cell Type": 1005,
+            "Region": 1
+        },
+        "Nayzaga Chest": {
+            "ID": 65,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 46,
+            "Innate Cell Type": 1005,
+            "Region": 2
+        },
+        "Nayzaga Legs": {
+            "ID": 66,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 7,
+            "Innate Cell Type": 1001,
+            "Region": 3
+        },
+        "Nayzaga Hands": {
+            "ID": 67,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 41,
+            "Innate Cell Type": 1005,
+            "Region": 4
+        },
+        "Nayzaga Sword": {
+            "ID": 68,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1002,
+            "Innate Cell": 30,
+            "Innate Cell Type": 1004,
+            "Region": 5
+        },
+        "Nayzaga Hammer": {
+            "ID": 69,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 37,
+            "Innate Cell Type": 1004,
+            "Region": 6
+        },
+        "Nayzaga Chainblades": {
+            "ID": 70,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 30,
+            "Innate Cell Type": 1004,
+            "Region": 7
+        },
+        "Nayzaga Axe": {
+            "ID": 71,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 37,
+            "Innate Cell Type": 1004,
+            "Region": 8
+        },
+        "Nayzaga War Pike": {
+            "ID": 72,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 30,
+            "Innate Cell Type": 1004,
+            "Region": 9
+        },
+        "Stormclaw Head": {
+            "ID": 73,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 44,
+            "Innate Cell Type": 1005,
+            "Region": 1
+        },
+        "Stormclaw Chest": {
+            "ID": 74,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 44,
+            "Innate Cell Type": 1005,
+            "Region": 2
+        },
+        "Stormclaw Legs": {
+            "ID": 75,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 42,
+            "Innate Cell Type": 1005,
+            "Region": 3
+        },
+        "Stormclaw Hands": {
+            "ID": 76,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 7,
+            "Innate Cell Type": 1001,
+            "Region": 4
+        },
+        "Stormclaw Sword": {
+            "ID": 77,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 44,
+            "Innate Cell Type": 1005,
+            "Region": 5
+        },
+        "Stormclaw Hammer": {
+            "ID": 78,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 41,
+            "Innate Cell Type": 1005,
+            "Region": 6
+        },
+        "Stormclaw Chainblades": {
+            "ID": 79,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 44,
+            "Innate Cell Type": 1005,
+            "Region": 7
+        },
+        "Stormclaw Axe": {
+            "ID": 80,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 44,
+            "Innate Cell Type": 1005,
+            "Region": 8
+        },
+        "Stormclaw War Pike": {
+            "ID": 81,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 44,
+            "Innate Cell Type": 1005,
+            "Region": 9
+        },
+        "Kharabak Head": {
+            "ID": 82,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 9,
+            "Innate Cell Type": 1001,
+            "Region": 1
+        },
+        "Kharabak Chest": {
+            "ID": 83,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 31,
+            "Innate Cell Type": 1004,
+            "Region": 2
+        },
+        "Kharabak Legs": {
+            "ID": 84,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 3
+        },
+        "Kharabak Hands": {
+            "ID": 85,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 4
+        },
+        "Kharabak Sword": {
+            "ID": 86,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1002,
+            "Innate Cell": 31,
+            "Innate Cell Type": 1004,
+            "Region": 5
+        },
+        "Kharabak Hammer": {
+            "ID": 87,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 21,
+            "Innate Cell Type": 1003,
+            "Region": 6
+        },
+        "Kharabak Chainblades": {
+            "ID": 88,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1002,
+            "Innate Cell": 31,
+            "Innate Cell Type": 1004,
+            "Region": 7
+        },
+        "Kharabak Axe": {
+            "ID": 89,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 21,
+            "Innate Cell Type": 1003,
+            "Region": 8
+        },
+        "Kharabak War Pike": {
+            "ID": 90,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1002,
+            "Innate Cell": 31,
+            "Innate Cell Type": 1004,
+            "Region": 9
+        },
+        "Koshai Head": {
+            "ID": 91,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 13,
+            "Innate Cell Type": 1002,
+            "Region": 1
+        },
+        "Koshai Chest": {
+            "ID": 92,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 36,
+            "Innate Cell Type": 1004,
+            "Region": 2
+        },
+        "Koshai Legs": {
+            "ID": 93,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 36,
+            "Innate Cell Type": 1004,
+            "Region": 3
+        },
+        "Koshai Hands": {
+            "ID": 94,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 33,
+            "Innate Cell Type": 1004,
+            "Region": 4
+        },
+        "Koshai Sword": {
+            "ID": 95,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 27,
+            "Innate Cell Type": 1003,
+            "Region": 5
+        },
+        "Koshai Hammer": {
+            "ID": 96,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 27,
+            "Innate Cell Type": 1003,
+            "Region": 6
+        },
+        "Koshai Chainblades": {
+            "ID": 97,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 27,
+            "Innate Cell Type": 1003,
+            "Region": 7
+        },
+        "Koshai Axe": {
+            "ID": 98,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 27,
+            "Innate Cell Type": 1003,
+            "Region": 8
+        },
+        "Koshai War Pike": {
+            "ID": 99,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 27,
+            "Innate Cell Type": 1003,
+            "Region": 9
+        },
+        "Skarn Head": {
+            "ID": 100,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 11,
+            "Innate Cell Type": 1001,
+            "Region": 1
+        },
+        "Skarn Chest": {
+            "ID": 101,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 5,
+            "Innate Cell Type": 1001,
+            "Region": 2
+        },
+        "Skarn Legs": {
+            "ID": 102,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 5,
+            "Innate Cell Type": 1001,
+            "Region": 3
+        },
+        "Skarn Hands": {
+            "ID": 103,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 4,
+            "Innate Cell Type": 1001,
+            "Region": 4
+        },
+        "Skarn Sword": {
+            "ID": 104,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 22,
+            "Innate Cell Type": 1003,
+            "Region": 5
+        },
+        "Skarn Hammer": {
+            "ID": 105,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 22,
+            "Innate Cell Type": 1003,
+            "Region": 6
+        },
+        "Skarn Chainblades": {
+            "ID": 106,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 38,
+            "Innate Cell Type": 1004,
+            "Region": 7
+        },
+        "Skarn Axe": {
+            "ID": 107,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 22,
+            "Innate Cell Type": 1003,
+            "Region": 8
+        },
+        "Skarn War Pike": {
+            "ID": 108,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 38,
+            "Innate Cell Type": 1004,
+            "Region": 9
+        },
+        "Gnasher Head": {
+            "ID": 109,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 2,
+            "Innate Cell Type": 1001,
+            "Region": 1
+        },
+        "Gnasher Chest": {
+            "ID": 110,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 11,
+            "Innate Cell Type": 1001,
+            "Region": 2
+        },
+        "Gnasher Legs": {
+            "ID": 111,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 11,
+            "Innate Cell Type": 1001,
+            "Region": 3
+        },
+        "Gnasher Hands": {
+            "ID": 112,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 26,
+            "Innate Cell Type": 1003,
+            "Region": 4
+        },
+        "Gnasher Sword": {
+            "ID": 113,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1001,
+            "Innate Cell": 26,
+            "Innate Cell Type": 1003,
+            "Region": 5
+        },
+        "Gnasher Hammer": {
+            "ID": 114,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 26,
+            "Innate Cell Type": 1003,
+            "Region": 6
+        },
+        "Gnasher Chainblades": {
+            "ID": 115,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 26,
+            "Innate Cell Type": 1003,
+            "Region": 7
+        },
+        "Gnasher Axe": {
+            "ID": 116,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 26,
+            "Innate Cell Type": 1003,
+            "Region": 8
+        },
+        "Gnasher War Pike": {
+            "ID": 117,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1001,
+            "Innate Cell": 26,
+            "Innate Cell Type": 1003,
+            "Region": 9
+        },
+        "Quillshot Head": {
+            "ID": 118,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 37,
+            "Innate Cell Type": 1004,
+            "Region": 1
+        },
+        "Quillshot Chest": {
+            "ID": 119,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 37,
+            "Innate Cell Type": 1004,
+            "Region": 2
+        },
+        "Quillshot Legs": {
+            "ID": 120,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 9,
+            "Innate Cell Type": 1001,
+            "Region": 3
+        },
+        "Quillshot Hands": {
+            "ID": 121,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 30,
+            "Innate Cell Type": 1004,
+            "Region": 4
+        },
+        "Quillshot Sword": {
+            "ID": 122,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 28,
+            "Innate Cell Type": 1004,
+            "Region": 5
+        },
+        "Quillshot Hammer": {
+            "ID": 123,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 28,
+            "Innate Cell Type": 1004,
+            "Region": 6
+        },
+        "Quillshot Chainblades": {
+            "ID": 124,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 28,
+            "Innate Cell Type": 1004,
+            "Region": 7
+        },
+        "Quillshot Axe": {
+            "ID": 125,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 28,
+            "Innate Cell Type": 1004,
+            "Region": 8
+        },
+        "Quillshot War Pike": {
+            "ID": 126,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 28,
+            "Innate Cell Type": 1004,
+            "Region": 9
+        },
+        "Shrike Head": {
+            "ID": 127,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 16,
+            "Innate Cell Type": 1002,
+            "Region": 1
+        },
+        "Shrike Chest": {
+            "ID": 128,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 16,
+            "Innate Cell Type": 1002,
+            "Region": 2
+        },
+        "Shrike Legs": {
+            "ID": 129,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 2,
+            "Innate Cell Type": 1001,
+            "Region": 3
+        },
+        "Shrike Hands": {
+            "ID": 130,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 38,
+            "Innate Cell Type": 1004,
+            "Region": 4
+        },
+        "Shrike Sword": {
+            "ID": 131,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1002,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 5
+        },
+        "Shrike Hammer": {
+            "ID": 132,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 6
+        },
+        "Shrike Chainblades": {
+            "ID": 133,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 7
+        },
+        "Shrike Axe": {
+            "ID": 134,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 8
+        },
+        "Shrike War Pike": {
+            "ID": 135,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 14,
+            "Innate Cell Type": 1002,
+            "Region": 9
+        },
+        "Shrowd Head": {
+            "ID": 136,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 25,
+            "Innate Cell Type": 1003,
+            "Region": 1
+        },
+        "Shrowd Chest": {
+            "ID": 137,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 25,
+            "Innate Cell Type": 1003,
+            "Region": 2
+        },
+        "Shrowd Legs": {
+            "ID": 138,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 8,
+            "Innate Cell Type": 1001,
+            "Region": 3
+        },
+        "Shrowd Hands": {
+            "ID": 139,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 46,
+            "Innate Cell Type": 1005,
+            "Region": 4
+        },
+        "Shrowd Sword": {
+            "ID": 140,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 5
+        },
+        "Shrowd Hammer": {
+            "ID": 141,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 6
+        },
+        "Shrowd Chainblades": {
+            "ID": 142,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 7
+        },
+        "Shrowd Axe": {
+            "ID": 143,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 8
+        },
+        "Shrowd War Pike": {
+            "ID": 144,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 1004,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 9
+        },
+        "Riftstalker Head": {
+            "ID": 145,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 41,
+            "Innate Cell Type": 1005,
+            "Region": 1
+        },
+        "Riftstalker Chest": {
+            "ID": 146,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 43,
+            "Innate Cell Type": 1005,
+            "Region": 2
+        },
+        "Riftstalker Legs": {
+            "ID": 147,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 43,
+            "Innate Cell Type": 1005,
+            "Region": 3
+        },
+        "Riftstalker Hands": {
+            "ID": 148,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 16,
+            "Innate Cell Type": 1002,
+            "Region": 4
+        },
+        "Riftstalker Sword": {
+            "ID": 149,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 39,
+            "Innate Cell Type": 1004,
+            "Region": 5
+        },
+        "Riftstalker Hammer": {
+            "ID": 150,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 39,
+            "Innate Cell Type": 1004,
+            "Region": 6
+        },
+        "Riftstalker Chainblades": {
+            "ID": 151,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 39,
+            "Innate Cell Type": 1004,
+            "Region": 7
+        },
+        "Riftstalker Axe": {
+            "ID": 152,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 39,
+            "Innate Cell Type": 1004,
+            "Region": 8
+        },
+        "Riftstalker War Pike": {
+            "ID": 153,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 39,
+            "Innate Cell Type": 1004,
+            "Region": 9
+        },
+        "Rezakiri Head": {
+            "ID": 154,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 43,
+            "Innate Cell Type": 1005,
+            "Region": 1
+        },
+        "Rezakiri Chest": {
+            "ID": 155,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 2
+        },
+        "Rezakiri Legs": {
+            "ID": 156,
+            "Cell Slot One Type": 1002,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 13,
+            "Innate Cell Type": 1002,
+            "Region": 3
+        },
+        "Rezakiri Hands": {
+            "ID": 157,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 43,
+            "Innate Cell Type": 1005,
+            "Region": 4
+        },
+        "Rezakiri Sword": {
+            "ID": 158,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 5
+        },
+        "Rezakiri Hammer": {
+            "ID": 159,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1002,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 6
+        },
+        "Rezakiri Chainblades": {
+            "ID": 160,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 7
+        },
+        "Rezakiri Axe": {
+            "ID": 161,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1002,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 8
+        },
+        "Rezakiri War Pike": {
+            "ID": 162,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1003,
+            "Innate Cell": 32,
+            "Innate Cell Type": 1004,
+            "Region": 9
+        },
+        "Valomyr Head": {
+            "ID": 163,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 45,
+            "Innate Cell Type": 1005,
+            "Region": 1
+        },
+        "Valomyr Chest": {
+            "ID": 164,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 8,
+            "Innate Cell Type": 1001,
+            "Region": 2
+        },
+        "Valomyr Legs": {
+            "ID": 165,
+            "Cell Slot One Type": 1005,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 3
+        },
+        "Valomyr Hands": {
+            "ID": 166,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 45,
+            "Innate Cell Type": 1005,
+            "Region": 4
+        },
+        "Valomyr Sword": {
+            "ID": 167,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 5
+        },
+        "Valomyr Hammer": {
+            "ID": 168,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 6
+        },
+        "Valomyr Chainblades": {
+            "ID": 169,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 7
+        },
+        "Valomyr Axe": {
+            "ID": 170,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 8
+        },
+        "Valomyr War Pike": {
+            "ID": 171,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 20,
+            "Innate Cell Type": 1003,
+            "Region": 9
+        },
+        "Charrogg Exotic Helm": {
+            "ID": 172,
+            "Cell Slot One Type": 1001,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 0,
+            "Innate Cell Type": 0,
+            "Region": 1
+        },
+        "Charrogg Exotic Weapon": {
+            "ID": 173,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1001,
+            "Innate Cell": 0,
+            "Innate Cell Type": 0,
+            "Region": 6
+        },
+        "Shrowd Exotic Helm": {
+            "ID": 174,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 0,
+            "Innate Cell Type": 0,
+            "Region": 1
+        },
+        "Shrowd Exotic Weapon": {
+            "ID": 175,
+            "Cell Slot One Type": 1003,
+            "Cell Slot Two Type": 1005,
+            "Innate Cell": 0,
+            "Innate Cell Type": 0,
+            "Region": 5
+        },
+        "Rezakiri Exotic Helm": {
+            "ID": 176,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 0,
+            "Innate Cell": 0,
+            "Innate Cell Type": 0,
+            "Region": 1
+        },
+        "Rezakiri Exotic Weapon": {
+            "ID": 177,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1002,
+            "Innate Cell": 0,
+            "Innate Cell Type": 0,
+            "Region": 9
+        },
+        "Repeaters": {
+            "ID": 178,
+            "Cell Slot One Type": 1004,
+            "Cell Slot Two Type": 1002,
+            "Innate Cell": 0,
+            "Innate Cell Type": 0,
+            "Region": 10
+        }
+    },
+    "int2gear": {
+        "0": "None",
+        "1": "Charrogg Head",
+        "2": "Charrogg Chest",
+        "3": "Charrogg Legs",
+        "4": "Charrogg Hands",
+        "5": "Charrogg Sword",
+        "6": "Charrogg Hammer",
+        "7": "Charrogg Chainblades",
+        "8": "Charrogg Axe",
+        "9": "Charrogg War Pike",
+        "10": "Embermane Head",
+        "11": "Embermane Chest",
+        "12": "Embermane Legs",
+        "13": "Embermane Hands",
+        "14": "Embermane Sword",
+        "15": "Embermane Hammer",
+        "16": "Embermane Chainblades",
+        "17": "Embermane Axe",
+        "18": "Embermane War Pike",
+        "19": "Hellion Head",
+        "20": "Hellion Chest",
+        "21": "Hellion Legs",
+        "22": "Hellion Hands",
+        "23": "Hellion Sword",
+        "24": "Hellion Hammer",
+        "25": "Hellion Chainblades",
+        "26": "Hellion Axe",
+        "27": "Hellion War Pike",
+        "28": "Boreus Head",
+        "29": "Boreus Chest",
+        "30": "Boreus Legs",
+        "31": "Boreus Hands",
+        "32": "Boreus Sword",
+        "33": "Boreus Hammer",
+        "34": "Boreus Chainblades",
+        "35": "Boreus Axe",
+        "36": "Boreus War Pike",
+        "37": "Pangar Head",
+        "38": "Pangar Chest",
+        "39": "Pangar Legs",
+        "40": "Pangar Hands",
+        "41": "Pangar Sword",
+        "42": "Pangar Hammer",
+        "43": "Pangar Chainblades",
+        "44": "Pangar Axe",
+        "45": "Pangar War Pike",
+        "46": "Skraev Head",
+        "47": "Skraev Chest",
+        "48": "Skraev Legs",
+        "49": "Skraev Hands",
+        "50": "Skraev Sword",
+        "51": "Skraev Hammer",
+        "52": "Skraev Chainblades",
+        "53": "Skraev Axe",
+        "54": "Skraev War Pike",
+        "55": "Drask Head",
+        "56": "Drask Chest",
+        "57": "Drask Legs",
+        "58": "Drask Hands",
+        "59": "Drask Sword",
+        "60": "Drask Hammer",
+        "61": "Drask Chainblades",
+        "62": "Drask Axe",
+        "63": "Drask War Pike",
+        "64": "Nayzaga Head",
+        "65": "Nayzaga Chest",
+        "66": "Nayzaga Legs",
+        "67": "Nayzaga Hands",
+        "68": "Nayzaga Sword",
+        "69": "Nayzaga Hammer",
+        "70": "Nayzaga Chainblades",
+        "71": "Nayzaga Axe",
+        "72": "Nayzaga War Pike",
+        "73": "Stormclaw Head",
+        "74": "Stormclaw Chest",
+        "75": "Stormclaw Legs",
+        "76": "Stormclaw Hands",
+        "77": "Stormclaw Sword",
+        "78": "Stormclaw Hammer",
+        "79": "Stormclaw Chainblades",
+        "80": "Stormclaw Axe",
+        "81": "Stormclaw War Pike",
+        "82": "Kharabak Head",
+        "83": "Kharabak Chest",
+        "84": "Kharabak Legs",
+        "85": "Kharabak Hands",
+        "86": "Kharabak Sword",
+        "87": "Kharabak Hammer",
+        "88": "Kharabak Chainblades",
+        "89": "Kharabak Axe",
+        "90": "Kharabak War Pike",
+        "91": "Koshai Head",
+        "92": "Koshai Chest",
+        "93": "Koshai Legs",
+        "94": "Koshai Hands",
+        "95": "Koshai Sword",
+        "96": "Koshai Hammer",
+        "97": "Koshai Chainblades",
+        "98": "Koshai Axe",
+        "99": "Koshai War Pike",
+        "100": "Skarn Head",
+        "101": "Skarn Chest",
+        "102": "Skarn Legs",
+        "103": "Skarn Hands",
+        "104": "Skarn Sword",
+        "105": "Skarn Hammer",
+        "106": "Skarn Chainblades",
+        "107": "Skarn Axe",
+        "108": "Skarn War Pike",
+        "109": "Gnasher Head",
+        "110": "Gnasher Chest",
+        "111": "Gnasher Legs",
+        "112": "Gnasher Hands",
+        "113": "Gnasher Sword",
+        "114": "Gnasher Hammer",
+        "115": "Gnasher Chainblades",
+        "116": "Gnasher Axe",
+        "117": "Gnasher War Pike",
+        "118": "Quillshot Head",
+        "119": "Quillshot Chest",
+        "120": "Quillshot Legs",
+        "121": "Quillshot Hands",
+        "122": "Quillshot Sword",
+        "123": "Quillshot Hammer",
+        "124": "Quillshot Chainblades",
+        "125": "Quillshot Axe",
+        "126": "Quillshot War Pike",
+        "127": "Shrike Head",
+        "128": "Shrike Chest",
+        "129": "Shrike Legs",
+        "130": "Shrike Hands",
+        "131": "Shrike Sword",
+        "132": "Shrike Hammer",
+        "133": "Shrike Chainblades",
+        "134": "Shrike Axe",
+        "135": "Shrike War Pike",
+        "136": "Shrowd Head",
+        "137": "Shrowd Chest",
+        "138": "Shrowd Legs",
+        "139": "Shrowd Hands",
+        "140": "Shrowd Sword",
+        "141": "Shrowd Hammer",
+        "142": "Shrowd Chainblades",
+        "143": "Shrowd Axe",
+        "144": "Shrowd War Pike",
+        "145": "Riftstalker Head",
+        "146": "Riftstalker Chest",
+        "147": "Riftstalker Legs",
+        "148": "Riftstalker Hands",
+        "149": "Riftstalker Sword",
+        "150": "Riftstalker Hammer",
+        "151": "Riftstalker Chainblades",
+        "152": "Riftstalker Axe",
+        "153": "Riftstalker War Pike",
+        "154": "Rezakiri Head",
+        "155": "Rezakiri Chest",
+        "156": "Rezakiri Legs",
+        "157": "Rezakiri Hands",
+        "158": "Rezakiri Sword",
+        "159": "Rezakiri Hammer",
+        "160": "Rezakiri Chainblades",
+        "161": "Rezakiri Axe",
+        "162": "Rezakiri War Pike",
+        "163": "Valomyr Head",
+        "164": "Valomyr Chest",
+        "165": "Valomyr Legs",
+        "166": "Valomyr Hands",
+        "167": "Valomyr Sword",
+        "168": "Valomyr Hammer",
+        "169": "Valomyr Chainblades",
+        "170": "Valomyr Axe",
+        "171": "Valomyr War Pike",
+        "172": "Charrogg Exotic Helm",
+        "173": "Charrogg Exotic Weapon",
+        "174": "Shrowd Exotic Helm",
+        "175": "Shrowd Exotic Weapon",
+        "176": "Rezakiri Exotic Helm",
+        "177": "Rezakiri Exotic Weapon",
+        "178": "Repeaters"
+    },
+    "cell2int": {
+        "None": 0,
+        "Assassin's Vigour": {
+            "0": 1,
+            "1": 1001
+        },
+        "Bloodless": {
+            "0": 2,
+            "1": 1001
+        },
+        "Fireproof": {
+            "0": 3,
+            "1": 1001
+        },
+        "Fortress": {
+            "0": 4,
+            "1": 1001
+        },
+        "Guardian": {
+            "0": 5,
+            "1": 1001
+        },
+        "Iceborne": {
+            "0": 6,
+            "1": 1001
+        },
+        "Insulated": {
+            "0": 7,
+            "1": 1001
+        },
+        "Nine Lives": {
+            "0": 8,
+            "1": 1001
+        },
+        "Shellshock Resist": {
+            "0": 9,
+            "1": 1001
+        },
+        "Sturdy": {
+            "0": 10,
+            "1": 1001
+        },
+        "Tough": {
+            "0": 11,
+            "1": 1001
+        },
+        "Warmth": {
+            "0": 12,
+            "1": 1001
+        },
+        "Agility": {
+            "0": 13,
+            "1": 1002
+        },
+        "Conditioning": {
+            "0": 14,
+            "1": 1002
+        },
+        "Endurance": {
+            "0": 15,
+            "1": 1002
+        },
+        "Evasion": {
+            "0": 16,
+            "1": 1002
+        },
+        "Fleet Footed": {
+            "0": 17,
+            "1": 1002
+        },
+        "Nimble": {
+            "0": 18,
+            "1": 1002
+        },
+        "Swift": {
+            "0": 19,
+            "1": 1002
+        },
+        "Aetherhunter": {
+            "0": 20,
+            "1": 1003
+        },
+        "Deconstruction": {
+            "0": 21,
+            "1": 1003
+        },
+        "Knockout King": {
+            "0": 22,
+            "1": 1003
+        },
+        "Overpower": {
+            "0": 23,
+            "1": 1003
+        },
+        "Pacifier": {
+            "0": 24,
+            "1": 1003
+        },
+        "Rage": {
+            "0": 25,
+            "1": 1003
+        },
+        "Ragehunter": {
+            "0": 26,
+            "1": 1003
+        },
+        "Sharpened": {
+            "0": 27,
+            "1": 1003
+        },
+        "Acidic": {
+            "0": 28,
+            "1": 1004
+        },
+        "Adrenaline": {
+            "0": 29,
+            "1": 1004
+        },
+        "Barbed": {
+            "0": 30,
+            "1": 1004
+        },
+        "Bladestorm": {
+            "0": 31,
+            "1": 1004
+        },
+        "Cunning": {
+            "0": 32,
+            "1": 1004
+        },
+        "Evasive Fury": {
+            "0": 33,
+            "1": 1004
+        },
+        "Merciless": {
+            "0": 34,
+            "1": 1004
+        },
+        "Molten": {
+            "0": 35,
+            "1": 1004
+        },
+        "Predator": {
+            "0": 36,
+            "1": 1004
+        },
+        "Savagery": {
+            "0": 37,
+            "1": 1004
+        },
+        "Weighted Strikes": {
+            "0": 38,
+            "1": 1004
+        },
+        "Wild Frenzy": {
+            "0": 39,
+            "1": 1004
+        },
+        "Aetherborne": {
+            "0": 40,
+            "1": 1005
+        },
+        "Aetheric Attunement": {
+            "0": 41,
+            "1": 1005
+        },
+        "Aetheric Frenzy": {
+            "0": 42,
+            "1": 1005
+        },
+        "Conduit": {
+            "0": 43,
+            "1": 1005
+        },
+        "Energized": {
+            "0": 44,
+            "1": 1005
+        },
+        "Lucent": {
+            "0": 45,
+            "1": 1005
+        },
+        "Medic": {
+            "0": 46,
+            "1": 1005
+        },
+        "Stunning Vigour": {
+            "0": 47,
+            "1": 1005
+        },
+        "Vampiric": {
+            "0": 48,
+            "1": 1005
+        }
+    },
+    "int2cell": {
+        "0": "None",
+        "1": "Assassin's Vigour",
+        "2": "Bloodless",
+        "3": "Fireproof",
+        "4": "Fortress",
+        "5": "Guardian",
+        "6": "Iceborne",
+        "7": "Insulated",
+        "8": "Nine Lives",
+        "9": "Shellshock Resist",
+        "10": "Sturdy",
+        "11": "Tough",
+        "12": "Warmth",
+        "13": "Agility",
+        "14": "Conditioning",
+        "15": "Endurance",
+        "16": "Evasion",
+        "17": "Fleet Footed",
+        "18": "Nimble",
+        "19": "Swift",
+        "20": "Aetherhunter",
+        "21": "Deconstruction",
+        "22": "Knockout King",
+        "23": "Overpower",
+        "24": "Pacifier",
+        "25": "Rage",
+        "26": "Ragehunter",
+        "27": "Sharpened",
+        "28": "Acidic",
+        "29": "Adrenaline",
+        "30": "Barbed",
+        "31": "Bladestorm",
+        "32": "Cunning",
+        "33": "Evasive Fury",
+        "34": "Merciless",
+        "35": "Molten",
+        "36": "Predator",
+        "37": "Savagery",
+        "38": "Weighted Strikes",
+        "39": "Wild Frenzy",
+        "40": "Aetherborne",
+        "41": "Aetheric Attunement",
+        "42": "Aetheric Frenzy",
+        "43": "Conduit",
+        "44": "Energized",
+        "45": "Lucent",
+        "46": "Medic",
+        "47": "Stunning Vigour",
+        "48": "Vampiric"
+    }
+}

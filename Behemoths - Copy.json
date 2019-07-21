@@ -1,0 +1,169 @@
+{
+	"Charrogg": {
+		"Strong": "Blaze",
+		"Weak": "Frost",
+		"Prefix": "Firebrand",
+		"Dye": "Smoulder",
+		"Threat Level Range": "4-13",
+		"Power Level Range": "150-425"
+	},
+	"Embermane": {
+		"Strong": "Blaze",
+		"Weak": "Frost",
+		"Prefix": "Bloodfire",
+		"Dye": "Bloodfire",
+		"Threat Level Range": "1-15",
+		"Power Level Range": "50-475"
+	},
+	"Hellion": {
+		"Strong": "Blaze",
+		"Weak": "Frost",
+		"Prefix": "Scorchstone",
+		"Dye": "Wildfire",
+		"Threat Level Range": "12-16",
+		"Power Level Range": "400-500"
+	},
+	"Boreus": {
+		"Strong": "Frost",
+		"Weak": "Blaze",
+		"Prefix": "Dreadfrost",
+		"Dye": "Dominion",
+		"Threat Level Range": "3-15",
+		"Power Level Range": "100-475"
+	},
+	"Pangar": {
+		"Strong": "Frost",
+		"Weak": "Blaze",
+		"Prefix": "Frostback",
+		"Dye": "Subzero",
+		"Threat Level Range": "7-15",
+		"Power Level Range": "275-475"
+	},
+	"Skraev": {
+		"Strong": "Frost",
+		"Weak": "Blaze",
+		"Prefix": "Winterhorn",
+		"Dye": "Sagacity",
+		"Threat Level Range": "4",
+		"Power Level Range": "150"
+	},
+	"Drask": {
+		"Strong": "Shock",
+		"Weak": "Terra",
+		"Prefix": "Thunderdeep",
+		"Dye": "Virtuoso",
+		"Threat Level Range": "2-14",
+		"Power Level Range": "75-450"
+	},
+	"Nayzaga": {
+		"Strong": "Shock",
+		"Weak": "Terra",
+		"Prefix": "Shockjaw",
+		"Dye": "Rockstar",
+		"Threat Level Range": "11-15",
+		"Power Level Range": "375-475"
+	},
+	"Stormclaw": {
+		"Strong": "Shock",
+		"Weak": "Terra",
+		"Prefix": "Dynamo",
+		"Dye": "Scintilla",
+		"Threat Level Range": "6",
+		"Power Level Range": "250"
+	},
+	"Kharabak": {
+		"Strong": "Terra",
+		"Weak": "Shock",
+		"Prefix": "Razorwing",
+		"Dye": "Progenitor",
+		"Threat Level Range": "10-14",
+		"Power Level Range": "350-450"
+	},
+	"Koshai": {
+		"Strong": "Terra",
+		"Weak": "Shock",
+		"Prefix": "Thorn Sovereign",
+		"Dye": "Sovereign",
+		"Threat Level Range": "10-17",
+		"Power Level Range": "350-550"
+	},
+	"Skarn": {
+		"Strong": "Terra",
+		"Weak": "Shock",
+		"Prefix": "Rockfall",
+		"Dye": "Unbreakable",
+		"Threat Level Range": "8-13",
+		"Power Level Range": "300-425"
+	},
+	"Gnasher": {
+		"Strong": "Neutral",
+		"Weak": "Neutral",
+		"Prefix": "Ragetail",
+		"Dye": "Grievance",
+		"Threat Level Range": "1-14",
+		"Power Level Range": "50-450"
+	},
+	"Quillshot": {
+		"Strong": "Neutral",
+		"Weak": "Neutral",
+		"Prefix": "Deadeye",
+		"Dye": "Vicious",
+		"Threat Level Range": "12-14",
+		"Power Level Range": "400-450"
+	},
+	"Shrike": {
+		"Strong": "Neutral",
+		"Weak": "Neutral",
+		"Prefix": "Moonreaver",
+		"Dye": "Plume",
+		"Threat Level Range": "9-14",
+		"Power Level Range": "325-450"
+	},
+	"Shrowd": {
+		"Strong": "Umbral",
+		"Weak": "Radiant",
+		"Prefix": "Enigmatic",
+		"Dye": "Eclipse",
+		"Threat Level Range": "8-16",
+		"Power Level Range": "300-500"
+	},
+	"Riftstalker": {
+		"Strong": "Umbral",
+		"Weak": "Radiant",
+		"Prefix": "Shadowy ",
+		"Dye": "Riftborn",
+		"Threat Level Range": "9-16",
+		"Power Level Range": "325-500"
+	},
+	"Rezakiri": {
+		"Strong": "Radiant",
+		"Weak": "Umbral",
+		"Prefix": "Radiant",
+		"Dye": "Supernova",
+		"Threat Level Range": "17",
+		"Power Level Range": "550"
+	},
+	"Valomyr": {
+		"Strong": "Radiant",
+		"Weak": "Umbral",
+		"Prefix": "Dazzling",
+		"Dye": "Opalescence",
+		"Threat Level Range": "8-16",
+		"Power Level Range": "300-500",
+		"Drops": {
+			"Valomyr Hide": ["Common", "Dire", "All"],
+			"Fractal Hide": ["Rare", "Dire", "All"],
+			"Galactic Shard": ["Epic", "Dire", "All"],
+			"Apocalypse Horn": ["Common", "Dire", "Horns"],
+			"Volatile Horn": ["Rare", "Dire", "Horns"],
+			"Protean Fang": ["Common", "Dire", "Head"],
+			"Fractal Fang": ["Rare", "Dire", "Head"],
+			"Radiant Dewclaw": ["Common", "Dire", "Legs"],
+			"Volatile Claw": ["Rare", "Dire", "Legs"],
+			"Unstable Tailspike": ["Common", "Dire", "Tail"],
+			"Unstable Spike": ["Rare", "Dire", "Tail"],
+			"Protean Spike": ["Epic", "Dire", "Tail"]
+		}
+
+	}
+}

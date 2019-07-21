@@ -1,0 +1,469 @@
+cell2int:
+    Acidic: {0: 28, 1: 1004}
+    Adrenaline: {0: 29, 1: 1004}
+    Aetherborne: {0: 40, 1: 1005}
+    Aetherhunter: {0: 20, 1: 1003}
+    Aetheric Attunement: {0: 41, 1: 1005}
+    Aetheric Frenzy: {0: 42, 1: 1005}
+    Agility: {0: 13, 1: 1002}
+    Assassin's Vigour: {0: 1, 1: 1001}
+    Barbed: {0: 30, 1: 1004}
+    Bladestorm: {0: 31, 1: 1004}
+    Bloodless: {0: 2, 1: 1001}
+    Conditioning: {0: 14, 1: 1002}
+    Conduit: {0: 43, 1: 1005}
+    Cunning: {0: 32, 1: 1004}
+    Deconstruction: {0: 21, 1: 1003}
+    Endurance: {0: 15, 1: 1002}
+    Energized: {0: 44, 1: 1005}
+    Evasion: {0: 16, 1: 1002}
+    Evasive Fury: {0: 33, 1: 1004}
+    Fireproof: {0: 3, 1: 1001}
+    Fleet Footed: {0: 17, 1: 1002}
+    Fortress: {0: 4, 1: 1001}
+    Guardian: {0: 5, 1: 1001}
+    Iceborne: {0: 6, 1: 1001}
+    Insulated: {0: 7, 1: 1001}
+    Knockout King: {0: 22, 1: 1003}
+    Lucent: {0: 45, 1: 1005}
+    Medic: {0: 46, 1: 1005}
+    Merciless: {0: 34, 1: 1004}
+    Molten: {0: 35, 1: 1004}
+    Nimble: {0: 18, 1: 1002}
+    Nine Lives: {0: 8, 1: 1001}
+    None: 0
+    Overpower: {0: 23, 1: 1003}
+    Pacifier: {0: 24, 1: 1003}
+    Predator: {0: 36, 1: 1004}
+    Rage: {0: 25, 1: 1003}
+    Ragehunter: {0: 26, 1: 1003}
+    Savagery: {0: 37, 1: 1004}
+    Sharpened: {0: 27, 1: 1003}
+    Shellshock Resist: {0: 9, 1: 1001}
+    Stunning Vigour: {0: 47, 1: 1005}
+    Sturdy: {0: 10, 1: 1001}
+    Swift: {0: 19, 1: 1002}
+    Tough: {0: 11, 1: 1001}
+    Vampiric: {0: 48, 1: 1005}
+    Warmth: {0: 12, 1: 1001}
+    Weighted Strikes: {0: 38, 1: 1004}
+    Wild Frenzy: {0: 39, 1: 1004}
+ct2int: {Defence: 1001, Mobility: 1002, None: 0, Power: 1003, Technique: 1004, Utility: 1005}
+gear2int:
+    Boreus Axe: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 35, Innate Cell: 14,
+        Innate Cell Type: 1002, Region: 8}
+    Boreus Chainblades: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 34,
+        Innate Cell: 14, Innate Cell Type: 1002, Region: 7}
+    Boreus Chest: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 29, Innate Cell: 25,
+        Innate Cell Type: 1003, Region: 2}
+    Boreus Hammer: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 33, Innate Cell: 14,
+        Innate Cell Type: 1002, Region: 6}
+    Boreus Hands: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 31, Innate Cell: 25,
+        Innate Cell Type: 1003, Region: 4}
+    Boreus Head: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 28, Innate Cell: 14,
+        Innate Cell Type: 1002, Region: 1}
+    Boreus Legs: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 30, Innate Cell: 6,
+        Innate Cell Type: 1001, Region: 3}
+    Boreus Sword: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 32, Innate Cell: 14,
+        Innate Cell Type: 1002, Region: 5}
+    Boreus War Pike: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 36,
+        Innate Cell: 14, Innate Cell Type: 1002, Region: 9}
+    Charrogg Axe: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 8, Innate Cell: 20,
+        Innate Cell Type: 1003, Region: 8}
+    Charrogg Chainblades: {Cell Slot One Type: 1001, Cell Slot Two Type: 1004, ID: 7,
+        Innate Cell: 20, Innate Cell Type: 1003, Region: 7}
+    Charrogg Chest: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 2, Innate Cell: 20,
+        Innate Cell Type: 1003, Region: 2}
+    Charrogg Exotic Helm: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 172,
+        Innate Cell: 0, Innate Cell Type: 0, Region: 1}
+    Charrogg Exotic Weapon: {Cell Slot One Type: 1003, Cell Slot Two Type: 1001, ID: 173,
+        Innate Cell: 0, Innate Cell Type: 0, Region: 6}
+    Charrogg Hammer: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 6, Innate Cell: 20,
+        Innate Cell Type: 1003, Region: 6}
+    Charrogg Hands: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 4, Innate Cell: 25,
+        Innate Cell Type: 1003, Region: 4}
+    Charrogg Head: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 1, Innate Cell: 3,
+        Innate Cell Type: 1001, Region: 1}
+    Charrogg Legs: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 3, Innate Cell: 25,
+        Innate Cell Type: 1003, Region: 3}
+    Charrogg Sword: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 5, Innate Cell: 20,
+        Innate Cell Type: 1003, Region: 5}
+    Charrogg War Pike: {Cell Slot One Type: 1001, Cell Slot Two Type: 1004, ID: 9,
+        Innate Cell: 20, Innate Cell Type: 1003, Region: 9}
+    Drask Axe: {Cell Slot One Type: 1003, Cell Slot Two Type: 1001, ID: 62, Innate Cell: 41,
+        Innate Cell Type: 1005, Region: 8}
+    Drask Chainblades: {Cell Slot One Type: 1003, Cell Slot Two Type: 1004, ID: 61,
+        Innate Cell: 41, Innate Cell Type: 1005, Region: 7}
+    Drask Chest: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 56, Innate Cell: 41,
+        Innate Cell Type: 1005, Region: 2}
+    Drask Hammer: {Cell Slot One Type: 1003, Cell Slot Two Type: 1001, ID: 60, Innate Cell: 41,
+        Innate Cell Type: 1005, Region: 6}
+    Drask Hands: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 58, Innate Cell: 27,
+        Innate Cell Type: 1003, Region: 4}
+    Drask Head: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 55, Innate Cell: 41,
+        Innate Cell Type: 1005, Region: 1}
+    Drask Legs: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 57, Innate Cell: 17,
+        Innate Cell Type: 1002, Region: 3}
+    Drask Sword: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 59, Innate Cell: 41,
+        Innate Cell Type: 1005, Region: 5}
+    Drask War Pike: {Cell Slot One Type: 1003, Cell Slot Two Type: 1004, ID: 63, Innate Cell: 41,
+        Innate Cell Type: 1005, Region: 9}
+    Embermane Axe: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 17, Innate Cell: 33,
+        Innate Cell Type: 1004, Region: 8}
+    Embermane Chainblades: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 16,
+        Innate Cell: 33, Innate Cell Type: 1004, Region: 7}
+    Embermane Chest: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 11, Innate Cell: 33,
+        Innate Cell Type: 1004, Region: 2}
+    Embermane Hammer: {Cell Slot One Type: 1002, Cell Slot Two Type: 1003, ID: 15,
+        Innate Cell: 33, Innate Cell Type: 1004, Region: 6}
+    Embermane Hands: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 13, Innate Cell: 3,
+        Innate Cell Type: 1001, Region: 4}
+    Embermane Head: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 10, Innate Cell: 33,
+        Innate Cell Type: 1004, Region: 1}
+    Embermane Legs: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 12, Innate Cell: 16,
+        Innate Cell Type: 1002, Region: 3}
+    Embermane Sword: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 14,
+        Innate Cell: 33, Innate Cell Type: 1004, Region: 5}
+    Embermane War Pike: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 18,
+        Innate Cell: 33, Innate Cell Type: 1004, Region: 9}
+    Gnasher Axe: {Cell Slot One Type: 1005, Cell Slot Two Type: 1003, ID: 116, Innate Cell: 26,
+        Innate Cell Type: 1003, Region: 8}
+    Gnasher Chainblades: {Cell Slot One Type: 1005, Cell Slot Two Type: 1004, ID: 115,
+        Innate Cell: 26, Innate Cell Type: 1003, Region: 7}
+    Gnasher Chest: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 110, Innate Cell: 11,
+        Innate Cell Type: 1001, Region: 2}
+    Gnasher Hammer: {Cell Slot One Type: 1005, Cell Slot Two Type: 1005, ID: 114,
+        Innate Cell: 26, Innate Cell Type: 1003, Region: 6}
+    Gnasher Hands: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 112, Innate Cell: 26,
+        Innate Cell Type: 1003, Region: 4}
+    Gnasher Head: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 109, Innate Cell: 2,
+        Innate Cell Type: 1001, Region: 1}
+    Gnasher Legs: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 111, Innate Cell: 11,
+        Innate Cell Type: 1001, Region: 3}
+    Gnasher Sword: {Cell Slot One Type: 1005, Cell Slot Two Type: 1001, ID: 113, Innate Cell: 26,
+        Innate Cell Type: 1003, Region: 5}
+    Gnasher War Pike: {Cell Slot One Type: 1005, Cell Slot Two Type: 1001, ID: 117,
+        Innate Cell: 26, Innate Cell Type: 1003, Region: 9}
+    Hellion Axe: {Cell Slot One Type: 1003, Cell Slot Two Type: 1003, ID: 26, Innate Cell: 23,
+        Innate Cell Type: 1003, Region: 8}
+    Hellion Chainblades: {Cell Slot One Type: 1003, Cell Slot Two Type: 1003, ID: 25,
+        Innate Cell: 23, Innate Cell Type: 1003, Region: 7}
+    Hellion Chest: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 20, Innate Cell: 35,
+        Innate Cell Type: 1004, Region: 2}
+    Hellion Hammer: {Cell Slot One Type: 1003, Cell Slot Two Type: 1003, ID: 24, Innate Cell: 23,
+        Innate Cell Type: 1003, Region: 6}
+    Hellion Hands: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 22, Innate Cell: 35,
+        Innate Cell Type: 1004, Region: 4}
+    Hellion Head: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 19, Innate Cell: 26,
+        Innate Cell Type: 1003, Region: 1}
+    Hellion Legs: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 21, Innate Cell: 4,
+        Innate Cell Type: 1001, Region: 3}
+    Hellion Sword: {Cell Slot One Type: 1003, Cell Slot Two Type: 1003, ID: 23, Innate Cell: 23,
+        Innate Cell Type: 1003, Region: 5}
+    Hellion War Pike: {Cell Slot One Type: 1003, Cell Slot Two Type: 1003, ID: 27,
+        Innate Cell: 23, Innate Cell Type: 1003, Region: 9}
+    Kharabak Axe: {Cell Slot One Type: 1004, Cell Slot Two Type: 1003, ID: 89, Innate Cell: 21,
+        Innate Cell Type: 1003, Region: 8}
+    Kharabak Chainblades: {Cell Slot One Type: 1004, Cell Slot Two Type: 1002, ID: 88,
+        Innate Cell: 31, Innate Cell Type: 1004, Region: 7}
+    Kharabak Chest: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 83, Innate Cell: 31,
+        Innate Cell Type: 1004, Region: 2}
+    Kharabak Hammer: {Cell Slot One Type: 1004, Cell Slot Two Type: 1003, ID: 87,
+        Innate Cell: 21, Innate Cell Type: 1003, Region: 6}
+    Kharabak Hands: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 85, Innate Cell: 14,
+        Innate Cell Type: 1002, Region: 4}
+    Kharabak Head: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 82, Innate Cell: 9,
+        Innate Cell Type: 1001, Region: 1}
+    Kharabak Legs: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 84, Innate Cell: 14,
+        Innate Cell Type: 1002, Region: 3}
+    Kharabak Sword: {Cell Slot One Type: 1004, Cell Slot Two Type: 1002, ID: 86, Innate Cell: 31,
+        Innate Cell Type: 1004, Region: 5}
+    Kharabak War Pike: {Cell Slot One Type: 1004, Cell Slot Two Type: 1002, ID: 90,
+        Innate Cell: 31, Innate Cell Type: 1004, Region: 9}
+    Koshai Axe: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 98, Innate Cell: 27,
+        Innate Cell Type: 1003, Region: 8}
+    Koshai Chainblades: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 97,
+        Innate Cell: 27, Innate Cell Type: 1003, Region: 7}
+    Koshai Chest: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 92, Innate Cell: 36,
+        Innate Cell Type: 1004, Region: 2}
+    Koshai Hammer: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 96, Innate Cell: 27,
+        Innate Cell Type: 1003, Region: 6}
+    Koshai Hands: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 94, Innate Cell: 33,
+        Innate Cell Type: 1004, Region: 4}
+    Koshai Head: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 91, Innate Cell: 13,
+        Innate Cell Type: 1002, Region: 1}
+    Koshai Legs: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 93, Innate Cell: 36,
+        Innate Cell Type: 1004, Region: 3}
+    Koshai Sword: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 95, Innate Cell: 27,
+        Innate Cell Type: 1003, Region: 5}
+    Koshai War Pike: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 99,
+        Innate Cell: 27, Innate Cell Type: 1003, Region: 9}
+    Nayzaga Axe: {Cell Slot One Type: 1005, Cell Slot Two Type: 1003, ID: 71, Innate Cell: 37,
+        Innate Cell Type: 1004, Region: 8}
+    Nayzaga Chainblades: {Cell Slot One Type: 1005, Cell Slot Two Type: 1004, ID: 70,
+        Innate Cell: 30, Innate Cell Type: 1004, Region: 7}
+    Nayzaga Chest: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 65, Innate Cell: 46,
+        Innate Cell Type: 1005, Region: 2}
+    Nayzaga Hammer: {Cell Slot One Type: 1005, Cell Slot Two Type: 1003, ID: 69, Innate Cell: 37,
+        Innate Cell Type: 1004, Region: 6}
+    Nayzaga Hands: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 67, Innate Cell: 41,
+        Innate Cell Type: 1005, Region: 4}
+    Nayzaga Head: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 64, Innate Cell: 46,
+        Innate Cell Type: 1005, Region: 1}
+    Nayzaga Legs: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 66, Innate Cell: 7,
+        Innate Cell Type: 1001, Region: 3}
+    Nayzaga Sword: {Cell Slot One Type: 1005, Cell Slot Two Type: 1002, ID: 68, Innate Cell: 30,
+        Innate Cell Type: 1004, Region: 5}
+    Nayzaga War Pike: {Cell Slot One Type: 1005, Cell Slot Two Type: 1004, ID: 72,
+        Innate Cell: 30, Innate Cell Type: 1004, Region: 9}
+    None: 0
+    Pangar Axe: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 44, Innate Cell: 22,
+        Innate Cell Type: 1003, Region: 8}
+    Pangar Chainblades: {Cell Slot One Type: 1001, Cell Slot Two Type: 1004, ID: 43,
+        Innate Cell: 38, Innate Cell Type: 1004, Region: 7}
+    Pangar Chest: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 38, Innate Cell: 4,
+        Innate Cell Type: 1001, Region: 2}
+    Pangar Hammer: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 42, Innate Cell: 22,
+        Innate Cell Type: 1003, Region: 6}
+    Pangar Hands: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 40, Innate Cell: 22,
+        Innate Cell Type: 1003, Region: 4}
+    Pangar Head: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 37, Innate Cell: 22,
+        Innate Cell Type: 1003, Region: 1}
+    Pangar Legs: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 39, Innate Cell: 12,
+        Innate Cell Type: 1001, Region: 3}
+    Pangar Sword: {Cell Slot One Type: 1001, Cell Slot Two Type: 1004, ID: 41, Innate Cell: 22,
+        Innate Cell Type: 1003, Region: 5}
+    Pangar War Pike: {Cell Slot One Type: 1001, Cell Slot Two Type: 1004, ID: 45,
+        Innate Cell: 38, Innate Cell Type: 1004, Region: 9}
+    Quillshot Axe: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 125, Innate Cell: 28,
+        Innate Cell Type: 1004, Region: 8}
+    Quillshot Chainblades: {Cell Slot One Type: 1001, Cell Slot Two Type: 1004, ID: 124,
+        Innate Cell: 28, Innate Cell Type: 1004, Region: 7}
+    Quillshot Chest: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 119, Innate Cell: 37,
+        Innate Cell Type: 1004, Region: 2}
+    Quillshot Hammer: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 123,
+        Innate Cell: 28, Innate Cell Type: 1004, Region: 6}
+    Quillshot Hands: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 121, Innate Cell: 30,
+        Innate Cell Type: 1004, Region: 4}
+    Quillshot Head: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 118, Innate Cell: 37,
+        Innate Cell Type: 1004, Region: 1}
+    Quillshot Legs: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 120, Innate Cell: 9,
+        Innate Cell Type: 1001, Region: 3}
+    Quillshot Sword: {Cell Slot One Type: 1001, Cell Slot Two Type: 1004, ID: 122,
+        Innate Cell: 28, Innate Cell Type: 1004, Region: 5}
+    Quillshot War Pike: {Cell Slot One Type: 1001, Cell Slot Two Type: 1004, ID: 126,
+        Innate Cell: 28, Innate Cell Type: 1004, Region: 9}
+    Repeaters: {Cell Slot One Type: 1004, Cell Slot Two Type: 1002, ID: 178, Innate Cell: 0,
+        Innate Cell Type: 0, Region: 10}
+    Rezakiri Axe: {Cell Slot One Type: 1003, Cell Slot Two Type: 1002, ID: 161, Innate Cell: 32,
+        Innate Cell Type: 1004, Region: 8}
+    Rezakiri Chainblades: {Cell Slot One Type: 1004, Cell Slot Two Type: 1003, ID: 160,
+        Innate Cell: 32, Innate Cell Type: 1004, Region: 7}
+    Rezakiri Chest: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 155, Innate Cell: 32,
+        Innate Cell Type: 1004, Region: 2}
+    Rezakiri Exotic Helm: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 176,
+        Innate Cell: 0, Innate Cell Type: 0, Region: 1}
+    Rezakiri Exotic Weapon: {Cell Slot One Type: 1004, Cell Slot Two Type: 1002, ID: 177,
+        Innate Cell: 0, Innate Cell Type: 0, Region: 9}
+    Rezakiri Hammer: {Cell Slot One Type: 1003, Cell Slot Two Type: 1002, ID: 159,
+        Innate Cell: 32, Innate Cell Type: 1004, Region: 6}
+    Rezakiri Hands: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 157, Innate Cell: 43,
+        Innate Cell Type: 1005, Region: 4}
+    Rezakiri Head: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 154, Innate Cell: 43,
+        Innate Cell Type: 1005, Region: 1}
+    Rezakiri Legs: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 156, Innate Cell: 13,
+        Innate Cell Type: 1002, Region: 3}
+    Rezakiri Sword: {Cell Slot One Type: 1004, Cell Slot Two Type: 1005, ID: 158,
+        Innate Cell: 32, Innate Cell Type: 1004, Region: 5}
+    Rezakiri War Pike: {Cell Slot One Type: 1004, Cell Slot Two Type: 1003, ID: 162,
+        Innate Cell: 32, Innate Cell Type: 1004, Region: 9}
+    Riftstalker Axe: {Cell Slot One Type: 1004, Cell Slot Two Type: 1005, ID: 152,
+        Innate Cell: 39, Innate Cell Type: 1004, Region: 8}
+    Riftstalker Chainblades: {Cell Slot One Type: 1004, Cell Slot Two Type: 1005,
+        ID: 151, Innate Cell: 39, Innate Cell Type: 1004, Region: 7}
+    Riftstalker Chest: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 146,
+        Innate Cell: 43, Innate Cell Type: 1005, Region: 2}
+    Riftstalker Hammer: {Cell Slot One Type: 1004, Cell Slot Two Type: 1005, ID: 150,
+        Innate Cell: 39, Innate Cell Type: 1004, Region: 6}
+    Riftstalker Hands: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 148,
+        Innate Cell: 16, Innate Cell Type: 1002, Region: 4}
+    Riftstalker Head: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 145, Innate Cell: 41,
+        Innate Cell Type: 1005, Region: 1}
+    Riftstalker Legs: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 147, Innate Cell: 43,
+        Innate Cell Type: 1005, Region: 3}
+    Riftstalker Sword: {Cell Slot One Type: 1004, Cell Slot Two Type: 1005, ID: 149,
+        Innate Cell: 39, Innate Cell Type: 1004, Region: 5}
+    Riftstalker War Pike: {Cell Slot One Type: 1004, Cell Slot Two Type: 1005, ID: 153,
+        Innate Cell: 39, Innate Cell Type: 1004, Region: 9}
+    Shrike Axe: {Cell Slot One Type: 1002, Cell Slot Two Type: 1003, ID: 134, Innate Cell: 14,
+        Innate Cell Type: 1002, Region: 8}
+    Shrike Chainblades: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 133,
+        Innate Cell: 14, Innate Cell Type: 1002, Region: 7}
+    Shrike Chest: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 128, Innate Cell: 16,
+        Innate Cell Type: 1002, Region: 2}
+    Shrike Hammer: {Cell Slot One Type: 1002, Cell Slot Two Type: 1003, ID: 132, Innate Cell: 14,
+        Innate Cell Type: 1002, Region: 6}
+    Shrike Hands: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 130, Innate Cell: 38,
+        Innate Cell Type: 1004, Region: 4}
+    Shrike Head: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 127, Innate Cell: 16,
+        Innate Cell Type: 1002, Region: 1}
+    Shrike Legs: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 129, Innate Cell: 2,
+        Innate Cell Type: 1001, Region: 3}
+    Shrike Sword: {Cell Slot One Type: 1002, Cell Slot Two Type: 1002, ID: 131, Innate Cell: 14,
+        Innate Cell Type: 1002, Region: 5}
+    Shrike War Pike: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 135,
+        Innate Cell: 14, Innate Cell Type: 1002, Region: 9}
+    Shrowd Axe: {Cell Slot One Type: 1005, Cell Slot Two Type: 1003, ID: 143, Innate Cell: 32,
+        Innate Cell Type: 1004, Region: 8}
+    Shrowd Chainblades: {Cell Slot One Type: 1005, Cell Slot Two Type: 1003, ID: 142,
+        Innate Cell: 32, Innate Cell Type: 1004, Region: 7}
+    Shrowd Chest: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 137, Innate Cell: 25,
+        Innate Cell Type: 1003, Region: 2}
+    Shrowd Exotic Helm: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 174,
+        Innate Cell: 0, Innate Cell Type: 0, Region: 1}
+    Shrowd Exotic Weapon: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 175,
+        Innate Cell: 0, Innate Cell Type: 0, Region: 5}
+    Shrowd Hammer: {Cell Slot One Type: 1005, Cell Slot Two Type: 1003, ID: 141, Innate Cell: 32,
+        Innate Cell Type: 1004, Region: 6}
+    Shrowd Hands: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 139, Innate Cell: 46,
+        Innate Cell Type: 1005, Region: 4}
+    Shrowd Head: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 136, Innate Cell: 25,
+        Innate Cell Type: 1003, Region: 1}
+    Shrowd Legs: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 138, Innate Cell: 8,
+        Innate Cell Type: 1001, Region: 3}
+    Shrowd Sword: {Cell Slot One Type: 1005, Cell Slot Two Type: 1004, ID: 140, Innate Cell: 32,
+        Innate Cell Type: 1004, Region: 5}
+    Shrowd War Pike: {Cell Slot One Type: 1005, Cell Slot Two Type: 1004, ID: 144,
+        Innate Cell: 32, Innate Cell Type: 1004, Region: 9}
+    Skarn Axe: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 107, Innate Cell: 22,
+        Innate Cell Type: 1003, Region: 8}
+    Skarn Chainblades: {Cell Slot One Type: 1001, Cell Slot Two Type: 1004, ID: 106,
+        Innate Cell: 38, Innate Cell Type: 1004, Region: 7}
+    Skarn Chest: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 101, Innate Cell: 5,
+        Innate Cell Type: 1001, Region: 2}
+    Skarn Hammer: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 105, Innate Cell: 22,
+        Innate Cell Type: 1003, Region: 6}
+    Skarn Hands: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 103, Innate Cell: 4,
+        Innate Cell Type: 1001, Region: 4}
+    Skarn Head: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 100, Innate Cell: 11,
+        Innate Cell Type: 1001, Region: 1}
+    Skarn Legs: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 102, Innate Cell: 5,
+        Innate Cell Type: 1001, Region: 3}
+    Skarn Sword: {Cell Slot One Type: 1001, Cell Slot Two Type: 1003, ID: 104, Innate Cell: 22,
+        Innate Cell Type: 1003, Region: 5}
+    Skarn War Pike: {Cell Slot One Type: 1001, Cell Slot Two Type: 1004, ID: 108,
+        Innate Cell: 38, Innate Cell Type: 1004, Region: 9}
+    Skraev Axe: {Cell Slot One Type: 1002, Cell Slot Two Type: 1003, ID: 53, Innate Cell: 18,
+        Innate Cell Type: 1002, Region: 8}
+    Skraev Chainblades: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 52,
+        Innate Cell: 18, Innate Cell Type: 1002, Region: 7}
+    Skraev Chest: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 47, Innate Cell: 29,
+        Innate Cell Type: 1004, Region: 2}
+    Skraev Hammer: {Cell Slot One Type: 1002, Cell Slot Two Type: 1003, ID: 51, Innate Cell: 18,
+        Innate Cell Type: 1002, Region: 6}
+    Skraev Hands: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 49, Innate Cell: 12,
+        Innate Cell Type: 1001, Region: 4}
+    Skraev Head: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 46, Innate Cell: 17,
+        Innate Cell Type: 1002, Region: 1}
+    Skraev Legs: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 48, Innate Cell: 29,
+        Innate Cell Type: 1004, Region: 3}
+    Skraev Sword: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 50, Innate Cell: 18,
+        Innate Cell Type: 1002, Region: 5}
+    Skraev War Pike: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 54,
+        Innate Cell: 18, Innate Cell Type: 1002, Region: 9}
+    Stormclaw Axe: {Cell Slot One Type: 1002, Cell Slot Two Type: 1003, ID: 80, Innate Cell: 44,
+        Innate Cell Type: 1005, Region: 8}
+    Stormclaw Chainblades: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 79,
+        Innate Cell: 44, Innate Cell Type: 1005, Region: 7}
+    Stormclaw Chest: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 74, Innate Cell: 44,
+        Innate Cell Type: 1005, Region: 2}
+    Stormclaw Hammer: {Cell Slot One Type: 1002, Cell Slot Two Type: 1003, ID: 78,
+        Innate Cell: 41, Innate Cell Type: 1005, Region: 6}
+    Stormclaw Hands: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 76, Innate Cell: 7,
+        Innate Cell Type: 1001, Region: 4}
+    Stormclaw Head: {Cell Slot One Type: 1004, Cell Slot Two Type: 0, ID: 73, Innate Cell: 44,
+        Innate Cell Type: 1005, Region: 1}
+    Stormclaw Legs: {Cell Slot One Type: 1002, Cell Slot Two Type: 0, ID: 75, Innate Cell: 42,
+        Innate Cell Type: 1005, Region: 3}
+    Stormclaw Sword: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 77,
+        Innate Cell: 44, Innate Cell Type: 1005, Region: 5}
+    Stormclaw War Pike: {Cell Slot One Type: 1002, Cell Slot Two Type: 1004, ID: 81,
+        Innate Cell: 44, Innate Cell Type: 1005, Region: 9}
+    Valomyr Axe: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 170, Innate Cell: 20,
+        Innate Cell Type: 1003, Region: 8}
+    Valomyr Chainblades: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 169,
+        Innate Cell: 20, Innate Cell Type: 1003, Region: 7}
+    Valomyr Chest: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 164, Innate Cell: 8,
+        Innate Cell Type: 1001, Region: 2}
+    Valomyr Hammer: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 168,
+        Innate Cell: 20, Innate Cell Type: 1003, Region: 6}
+    Valomyr Hands: {Cell Slot One Type: 1001, Cell Slot Two Type: 0, ID: 166, Innate Cell: 45,
+        Innate Cell Type: 1005, Region: 4}
+    Valomyr Head: {Cell Slot One Type: 1003, Cell Slot Two Type: 0, ID: 163, Innate Cell: 45,
+        Innate Cell Type: 1005, Region: 1}
+    Valomyr Legs: {Cell Slot One Type: 1005, Cell Slot Two Type: 0, ID: 165, Innate Cell: 20,
+        Innate Cell Type: 1003, Region: 3}
+    Valomyr Sword: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 167, Innate Cell: 20,
+        Innate Cell Type: 1003, Region: 5}
+    Valomyr War Pike: {Cell Slot One Type: 1003, Cell Slot Two Type: 1005, ID: 171,
+        Innate Cell: 20, Innate Cell Type: 1003, Region: 9}
+gt2int: {Axe: 8, Chainblades: 7, Chest: 2, Hammer: 6, Hands: 4, Head: 1, Legs: 3,
+    None: 0, Repeaters: 10, Sword: 5, War Pike: 9}
+int2cell: {0: None, 1: Assassin's Vigour, 2: Bloodless, 3: Fireproof, 4: Fortress,
+    5: Guardian, 6: Iceborne, 7: Insulated, 8: Nine Lives, 9: Shellshock Resist, 10: Sturdy,
+    11: Tough, 12: Warmth, 13: Agility, 14: Conditioning, 15: Endurance, 16: Evasion,
+    17: Fleet Footed, 18: Nimble, 19: Swift, 20: Aetherhunter, 21: Deconstruction,
+    22: Knockout King, 23: Overpower, 24: Pacifier, 25: Rage, 26: Ragehunter, 27: Sharpened,
+    28: Acidic, 29: Adrenaline, 30: Barbed, 31: Bladestorm, 32: Cunning, 33: Evasive
+        Fury, 34: Merciless, 35: Molten, 36: Predator, 37: Savagery, 38: Weighted
+        Strikes, 39: Wild Frenzy, 40: Aetherborne, 41: Aetheric Attunement, 42: Aetheric
+        Frenzy, 43: Conduit, 44: Energized, 45: Lucent, 46: Medic, 47: Stunning Vigour,
+    48: Vampiric}
+int2ct: {0: None, 1001: Defence, 1002: Mobility, 1003: Power, 1004: Technique, 1005: Utility}
+int2gear: {0: None, 1: Charrogg Head, 2: Charrogg Chest, 3: Charrogg Legs, 4: Charrogg
+        Hands, 5: Charrogg Sword, 6: Charrogg Hammer, 7: Charrogg Chainblades, 8: Charrogg
+        Axe, 9: Charrogg War Pike, 10: Embermane Head, 11: Embermane Chest, 12: Embermane
+        Legs, 13: Embermane Hands, 14: Embermane Sword, 15: Embermane Hammer, 16: Embermane
+        Chainblades, 17: Embermane Axe, 18: Embermane War Pike, 19: Hellion Head,
+    20: Hellion Chest, 21: Hellion Legs, 22: Hellion Hands, 23: Hellion Sword, 24: Hellion
+        Hammer, 25: Hellion Chainblades, 26: Hellion Axe, 27: Hellion War Pike, 28: Boreus
+        Head, 29: Boreus Chest, 30: Boreus Legs, 31: Boreus Hands, 32: Boreus Sword,
+    33: Boreus Hammer, 34: Boreus Chainblades, 35: Boreus Axe, 36: Boreus War Pike,
+    37: Pangar Head, 38: Pangar Chest, 39: Pangar Legs, 40: Pangar Hands, 41: Pangar
+        Sword, 42: Pangar Hammer, 43: Pangar Chainblades, 44: Pangar Axe, 45: Pangar
+        War Pike, 46: Skraev Head, 47: Skraev Chest, 48: Skraev Legs, 49: Skraev Hands,
+    50: Skraev Sword, 51: Skraev Hammer, 52: Skraev Chainblades, 53: Skraev Axe, 54: Skraev
+        War Pike, 55: Drask Head, 56: Drask Chest, 57: Drask Legs, 58: Drask Hands,
+    59: Drask Sword, 60: Drask Hammer, 61: Drask Chainblades, 62: Drask Axe, 63: Drask
+        War Pike, 64: Nayzaga Head, 65: Nayzaga Chest, 66: Nayzaga Legs, 67: Nayzaga
+        Hands, 68: Nayzaga Sword, 69: Nayzaga Hammer, 70: Nayzaga Chainblades, 71: Nayzaga
+        Axe, 72: Nayzaga War Pike, 73: Stormclaw Head, 74: Stormclaw Chest, 75: Stormclaw
+        Legs, 76: Stormclaw Hands, 77: Stormclaw Sword, 78: Stormclaw Hammer, 79: Stormclaw
+        Chainblades, 80: Stormclaw Axe, 81: Stormclaw War Pike, 82: Kharabak Head,
+    83: Kharabak Chest, 84: Kharabak Legs, 85: Kharabak Hands, 86: Kharabak Sword,
+    87: Kharabak Hammer, 88: Kharabak Chainblades, 89: Kharabak Axe, 90: Kharabak
+        War Pike, 91: Koshai Head, 92: Koshai Chest, 93: Koshai Legs, 94: Koshai Hands,
+    95: Koshai Sword, 96: Koshai Hammer, 97: Koshai Chainblades, 98: Koshai Axe, 99: Koshai
+        War Pike, 100: Skarn Head, 101: Skarn Chest, 102: Skarn Legs, 103: Skarn Hands,
+    104: Skarn Sword, 105: Skarn Hammer, 106: Skarn Chainblades, 107: Skarn Axe, 108: Skarn
+        War Pike, 109: Gnasher Head, 110: Gnasher Chest, 111: Gnasher Legs, 112: Gnasher
+        Hands, 113: Gnasher Sword, 114: Gnasher Hammer, 115: Gnasher Chainblades,
+    116: Gnasher Axe, 117: Gnasher War Pike, 118: Quillshot Head, 119: Quillshot Chest,
+    120: Quillshot Legs, 121: Quillshot Hands, 122: Quillshot Sword, 123: Quillshot
+        Hammer, 124: Quillshot Chainblades, 125: Quillshot Axe, 126: Quillshot War
+        Pike, 127: Shrike Head, 128: Shrike Chest, 129: Shrike Legs, 130: Shrike Hands,
+    131: Shrike Sword, 132: Shrike Hammer, 133: Shrike Chainblades, 134: Shrike Axe,
+    135: Shrike War Pike, 136: Shrowd Head, 137: Shrowd Chest, 138: Shrowd Legs, 139: Shrowd
+        Hands, 140: Shrowd Sword, 141: Shrowd Hammer, 142: Shrowd Chainblades, 143: Shrowd
+        Axe, 144: Shrowd War Pike, 145: Riftstalker Head, 146: Riftstalker Chest,
+    147: Riftstalker Legs, 148: Riftstalker Hands, 149: Riftstalker Sword, 150: Riftstalker
+        Hammer, 151: Riftstalker Chainblades, 152: Riftstalker Axe, 153: Riftstalker
+        War Pike, 154: Rezakiri Head, 155: Rezakiri Chest, 156: Rezakiri Legs, 157: Rezakiri
+        Hands, 158: Rezakiri Sword, 159: Rezakiri Hammer, 160: Rezakiri Chainblades,
+    161: Rezakiri Axe, 162: Rezakiri War Pike, 163: Valomyr Head, 164: Valomyr Chest,
+    165: Valomyr Legs, 166: Valomyr Hands, 167: Valomyr Sword, 168: Valomyr Hammer,
+    169: Valomyr Chainblades, 170: Valomyr Axe, 171: Valomyr War Pike, 172: Charrogg
+        Exotic Helm, 173: Charrogg Exotic Weapon, 174: Shrowd Exotic Helm, 175: Shrowd
+        Exotic Weapon, 176: Rezakiri Exotic Helm, 177: Rezakiri Exotic Weapon, 178: Repeaters}
+int2gt: {0: None, 1: Head, 2: Chest, 3: Legs, 4: Hands, 5: Sword, 6: Hammer, 7: Chainblades,
+    8: Axe, 9: War Pike, 10: Repeaters}

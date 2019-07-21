@@ -1,0 +1,179 @@
+Item,Simple,Base,+5 To +6,+9 To +10
+,Charrogg Head,{},{},{}
+,Charrogg Chest,{},{},{}
+,Charrogg Legs,{},{},{}
+,Charrogg Hands,{},{},{}
+,Charrogg Sword,{},{},{}
+,Charrogg Hammer,{},{},{}
+,Charrogg Chainblades,{},{},{}
+,Charrogg Axe,{},{},{}
+,Charrogg War Pike,{},{},{}
+,Embermane Head,{},{},{}
+,Embermane Chest,{},{},{}
+,Embermane Legs,{},{},{}
+,Embermane Hands,{},{},{}
+,Embermane Sword,{},{},{}
+,Embermane Hammer,{},{},{}
+,Embermane Chainblades,{},{},{}
+,Embermane Axe,{},{},{}
+,Embermane War Pike,{},{},{}
+,Hellion Head,{},{},{}
+,Hellion Chest,{},{},{}
+,Hellion Legs,{},{},{}
+,Hellion Hands,{},{},{}
+,Hellion Sword,{},{},{}
+,Hellion Hammer,{},{},{}
+,Hellion Chainblades,{},{},{}
+,Hellion Axe,{},{},{}
+,Hellion War Pike,{},{},{}
+,Boreus Head,{},{},{}
+,Boreus Chest,{},{},{}
+,Boreus Legs,{},{},{}
+,Boreus Hands,{},{},{}
+,Boreus Sword,{},{},{}
+,Boreus Hammer,{},{},{}
+,Boreus Chainblades,{},{},{}
+,Boreus Axe,{},{},{}
+,Boreus War Pike,{},{},{}
+,Pangar Head,{},{},{}
+,Pangar Chest,{},{},{}
+,Pangar Legs,{},{},{}
+,Pangar Hands,{},{},{}
+,Pangar Sword,{},{},{}
+,Pangar Hammer,{},{},{}
+,Pangar Chainblades,{},{},{}
+,Pangar Axe,{},{},{}
+,Pangar War Pike,{},{},{}
+,Skraev Head,{},{},{}
+,Skraev Chest,{},{},{}
+,Skraev Legs,{},{},{}
+,Skraev Hands,{},{},{}
+,Skraev Sword,{},{},{}
+,Skraev Hammer,{},{},{}
+,Skraev Chainblades,{},{},{}
+,Skraev Axe,{},{},{}
+,Skraev War Pike,{},{},{}
+,Drask Head,{},{},{}
+,Drask Chest,{},{},{}
+,Drask Legs,{},{},{}
+,Drask Hands,{},{},{}
+,Drask Sword,{},{},{}
+,Drask Hammer,{},{},{}
+,Drask Chainblades,{},{},{}
+,Drask Axe,{},{},{}
+,Drask War Pike,{},{},{}
+,Nayzaga Head,{},{},{}
+,Nayzaga Chest,{},{},{}
+,Nayzaga Legs,{},{},{}
+,Nayzaga Hands,{},{},{}
+,Nayzaga Sword,{},{},{}
+,Nayzaga Hammer,{},{},{}
+,Nayzaga Chainblades,{},{},{}
+,Nayzaga Axe,{},{},{}
+,Nayzaga War Pike,{},{},{}
+,Stormclaw Head,{},{},{}
+,Stormclaw Chest,{},{},{}
+,Stormclaw Legs,{},{},{}
+,Stormclaw Hands,{},{},{}
+,Stormclaw Sword,{},{},{}
+,Stormclaw Hammer,{},{},{}
+,Stormclaw Chainblades,{},{},{}
+,Stormclaw Axe,{},{},{}
+,Stormclaw War Pike,{},{},{}
+,Kharabak Head,{},{},{}
+,Kharabak Chest,{},{},{}
+,Kharabak Legs,{},{},{}
+,Kharabak Hands,{},{},{}
+,Kharabak Sword,{},{},{}
+,Kharabak Hammer,{},{},{}
+,Kharabak Chainblades,{},{},{}
+,Kharabak Axe,{},{},{}
+,Kharabak War Pike,{},{},{}
+,Koshai Head,{},{},{}
+,Koshai Chest,{},{},{}
+,Koshai Legs,{},{},{}
+,Koshai Hands,{},{},{}
+,Koshai Sword,{},{},{}
+,Koshai Hammer,{},{},{}
+,Koshai Chainblades,{},{},{}
+,Koshai Axe,{},{},{}
+,Koshai War Pike,{},{},{}
+,Skarn Head,{},{},{}
+,Skarn Chest,{},{},{}
+,Skarn Legs,{},{},{}
+,Skarn Hands,{},{},{}
+,Skarn Sword,{},{},{}
+,Skarn Hammer,{},{},{}
+,Skarn Chainblades,{},{},{}
+,Skarn Axe,{},{},{}
+,Skarn War Pike,{},{},{}
+,Gnasher Head,{},{},{}
+,Gnasher Chest,{},{},{}
+,Gnasher Legs,{},{},{}
+,Gnasher Hands,{},{},{}
+,Gnasher Sword,{},{},{}
+,Gnasher Hammer,{},{},{}
+,Gnasher Chainblades,{},{},{}
+,Gnasher Axe,{},{},{}
+,Gnasher War Pike,{},{},{}
+,Quillshot Head,{},{},{}
+,Quillshot Chest,{},{},{}
+,Quillshot Legs,{},{},{}
+,Quillshot Hands,{},{},{}
+,Quillshot Sword,{},{},{}
+,Quillshot Hammer,{},{},{}
+,Quillshot Chainblades,{},{},{}
+,Quillshot Axe,{},{},{}
+,Quillshot War Pike,{},{},{}
+,Shrike Head,{},{},{}
+,Shrike Chest,{},{},{}
+,Shrike Legs,{},{},{}
+,Shrike Hands,{},{},{}
+,Shrike Sword,{},{},{}
+,Shrike Hammer,{},{},{}
+,Shrike Chainblades,{},{},{}
+,Shrike Axe,{},{},{}
+,Shrike War Pike,{},{},{}
+,Shrowd Head,{},{},{}
+,Shrowd Chest,{},{},{}
+,Shrowd Legs,{},{},{}
+,Shrowd Hands,{},{},{}
+,Shrowd Sword,{},{},{}
+,Shrowd Hammer,{},{},{}
+,Shrowd Chainblades,{},{},{}
+,Shrowd Axe,{},{},{}
+,Shrowd War Pike,{},{},{}
+,Riftstalker Head,{},{},{}
+,Riftstalker Chest,{},{},{}
+,Riftstalker Legs,{},{},{}
+,Riftstalker Hands,{},{},{}
+,Riftstalker Sword,{},{},{}
+,Riftstalker Hammer,{},{},{}
+,Riftstalker Chainblades,{},{},{}
+,Riftstalker Axe,{},{},{}
+,Riftstalker War Pike,{},{},{}
+,Rezakiri Head,{},{},{}
+,Rezakiri Chest,{},{},{}
+,Rezakiri Legs,{},{},{}
+,Rezakiri Hands,{},{},{}
+,Rezakiri Sword,{},{},{}
+,Rezakiri Hammer,{},{},{}
+,Rezakiri Chainblades,{},{},{}
+,Rezakiri Axe,{},{},{}
+,Rezakiri War Pike,{},{},{}
+,Valomyr Head,{},{},{}
+,Valomyr Chest,{},{},{}
+,Valomyr Legs,{},{},{}
+,Valomyr Hands,{},{},{}
+,Valomyr Sword,{},{},{}
+,Valomyr Hammer,{},{},{}
+,Valomyr Chainblades,{},{},{}
+,Valomyr Axe,{},{},{}
+,Valomyr War Pike,{},{},{}
+,Charrogg Exotic Helm,{},{},{}
+,Charrogg Exotic Weapon,{},{},{}
+,Shrowd Exotic Helm,{},{},{}
+,Shrowd Exotic Weapon,{},{},{}
+,Rezakiri Exotic Helm,{},{},{}
+,Rezakiri Exotic Weapon,{},{},{}
+,Repeaters,{},{},{}

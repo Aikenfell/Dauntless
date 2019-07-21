@@ -1,0 +1,291 @@
+cell2int:
+    Acidic: {0: 28, 1: 1004}
+    Adrenaline: {0: 29, 1: 1004}
+    Aetherborne: {0: 40, 1: 1005}
+    Aetherhunter: {0: 20, 1: 1003}
+    Aetheric Attunement: {0: 41, 1: 1005}
+    Aetheric Frenzy: {0: 42, 1: 1005}
+    Agility: {0: 13, 1: 1002}
+    Assassin's Vigour: {0: 1, 1: 1001}
+    Barbed: {0: 30, 1: 1004}
+    Bladestorm: {0: 31, 1: 1004}
+    Bloodless: {0: 2, 1: 1001}
+    Conditioning: {0: 14, 1: 1002}
+    Conduit: {0: 43, 1: 1005}
+    Cunning: {0: 32, 1: 1004}
+    Deconstruction: {0: 21, 1: 1003}
+    Endurance: {0: 15, 1: 1002}
+    Energized: {0: 44, 1: 1005}
+    Evasion: {0: 16, 1: 1002}
+    Evasive Fury: {0: 33, 1: 1004}
+    Fireproof: {0: 3, 1: 1001}
+    Fleet Footed: {0: 17, 1: 1002}
+    Fortress: {0: 4, 1: 1001}
+    Guardian: {0: 5, 1: 1001}
+    Iceborne: {0: 6, 1: 1001}
+    Insulated: {0: 7, 1: 1001}
+    Knockout King: {0: 22, 1: 1003}
+    Lucent: {0: 45, 1: 1005}
+    Medic: {0: 46, 1: 1005}
+    Merciless: {0: 34, 1: 1004}
+    Molten: {0: 35, 1: 1004}
+    Nimble: {0: 18, 1: 1002}
+    Nine Lives: {0: 8, 1: 1001}
+    None: 0
+    Overpower: {0: 23, 1: 1003}
+    Pacifier: {0: 24, 1: 1003}
+    Predator: {0: 36, 1: 1004}
+    Rage: {0: 25, 1: 1003}
+    Ragehunter: {0: 26, 1: 1003}
+    Savagery: {0: 37, 1: 1004}
+    Sharpened: {0: 27, 1: 1003}
+    Shellshock Resist: {0: 9, 1: 1001}
+    Stunning Vigour: {0: 47, 1: 1005}
+    Sturdy: {0: 10, 1: 1001}
+    Swift: {0: 19, 1: 1002}
+    Tough: {0: 11, 1: 1001}
+    Vampiric: {0: 48, 1: 1005}
+    Warmth: {0: 12, 1: 1001}
+    Weighted Strikes: {0: 38, 1: 1004}
+    Wild Frenzy: {0: 39, 1: 1004}
+ct2int: {Defence: 1001, Mobility: 1002, None: 0, Power: 1003, Technique: 1004, Utility: 1005}
+gear2int:
+    Boreus Axe: {0: 36, 1: 1001, 2: 1003, 3: 14}
+    Boreus Chainblades: {0: 35, 1: 1001, 2: 1003, 3: 14}
+    Boreus Chest: {0: 30, 1: 1001, 2: 0, 3: 25}
+    Boreus Hammer: {0: 34, 1: 1001, 2: 1003, 3: 14}
+    Boreus Hands: {0: 32, 1: 1003, 2: 0, 3: 25}
+    Boreus Head: {0: 29, 1: 1005, 2: 0, 3: 14}
+    Boreus Legs: {0: 31, 1: 1004, 2: 0, 3: 6}
+    Boreus Sword: {0: 33, 1: 1001, 2: 1003, 3: 14}
+    Boreus War Pike: {0: 37, 1: 1001, 2: 1003, 3: 14}
+    Charrogg Axe: {0: 9, 1: 1001, 2: 1003, 3: 20}
+    Charrogg Chainblades: {0: 8, 1: 1001, 2: 1004, 3: 20}
+    Charrogg Chest: {0: 3, 1: 1005, 2: 0, 3: 20}
+    Charrogg Exotic Helm: {0: 173, 1: 1001, 2: 0, 3: 0}
+    Charrogg Exotic Weapon: {0: 174, 1: 1003, 2: 1001, 3: 0}
+    Charrogg Hammer: {0: 7, 1: 1001, 2: 1003, 3: 20}
+    Charrogg Hands: {0: 5, 1: 1005, 2: 0, 3: 25}
+    Charrogg Head: {0: 2, 1: 1001, 2: 0, 3: 3}
+    Charrogg Legs: {0: 4, 1: 1003, 2: 0, 3: 25}
+    Charrogg Sword: {0: 6, 1: 1001, 2: 1003, 3: 20}
+    Charrogg War Pike: {0: 10, 1: 1001, 2: 1004, 3: 20}
+    Drask Axe: {0: 63, 1: 1003, 2: 1001, 3: 41}
+    Drask Chainblades: {0: 62, 1: 1003, 2: 1004, 3: 41}
+    Drask Chest: {0: 57, 1: 1003, 2: 0, 3: 41}
+    Drask Hammer: {0: 61, 1: 1003, 2: 1001, 3: 41}
+    Drask Hands: {0: 59, 1: 1005, 2: 0, 3: 27}
+    Drask Head: {0: 56, 1: 1003, 2: 0, 3: 41}
+    Drask Legs: {0: 58, 1: 1005, 2: 0, 3: 17}
+    Drask Sword: {0: 60, 1: 1003, 2: 1005, 3: 41}
+    Drask War Pike: {0: 64, 1: 1003, 2: 1004, 3: 41}
+    Embermane Axe: {0: 18, 1: 1002, 2: 1004, 3: 33}
+    Embermane Chainblades: {0: 17, 1: 1002, 2: 1004, 3: 33}
+    Embermane Chest: {0: 12, 1: 1002, 2: 0, 3: 33}
+    Embermane Hammer: {0: 16, 1: 1002, 2: 1003, 3: 33}
+    Embermane Hands: {0: 14, 1: 1004, 2: 0, 3: 3}
+    Embermane Head: {0: 11, 1: 1002, 2: 0, 3: 33}
+    Embermane Legs: {0: 13, 1: 1001, 2: 0, 3: 16}
+    Embermane Sword: {0: 15, 1: 1002, 2: 1004, 3: 33}
+    Embermane War Pike: {0: 19, 1: 1002, 2: 1004, 3: 33}
+    Gnasher Axe: {0: 117, 1: 1005, 2: 1003, 3: 26}
+    Gnasher Chainblades: {0: 116, 1: 1005, 2: 1004, 3: 26}
+    Gnasher Chest: {0: 111, 1: 1001, 2: 0, 3: 11}
+    Gnasher Hammer: {0: 115, 1: 1005, 2: 1005, 3: 26}
+    Gnasher Hands: {0: 113, 1: 1003, 2: 0, 3: 26}
+    Gnasher Head: {0: 110, 1: 1001, 2: 0, 3: 2}
+    Gnasher Legs: {0: 112, 1: 1003, 2: 0, 3: 11}
+    Gnasher Sword: {0: 114, 1: 1005, 2: 1001, 3: 26}
+    Gnasher War Pike: {0: 118, 1: 1005, 2: 1001, 3: 26}
+    Hellion Axe: {0: 27, 1: 1003, 2: 1003, 3: 23}
+    Hellion Chainblades: {0: 26, 1: 1003, 2: 1003, 3: 23}
+    Hellion Chest: {0: 21, 1: 1004, 2: 0, 3: 35}
+    Hellion Hammer: {0: 25, 1: 1003, 2: 1003, 3: 23}
+    Hellion Hands: {0: 23, 1: 1003, 2: 0, 3: 35}
+    Hellion Head: {0: 20, 1: 1004, 2: 0, 3: 26}
+    Hellion Legs: {0: 22, 1: 1003, 2: 0, 3: 4}
+    Hellion Sword: {0: 24, 1: 1003, 2: 1003, 3: 23}
+    Hellion War Pike: {0: 28, 1: 1003, 2: 1003, 3: 23}
+    Kharabak Axe: {0: 90, 1: 1004, 2: 1003, 3: 21}
+    Kharabak Chainblades: {0: 89, 1: 1004, 2: 1002, 3: 31}
+    Kharabak Chest: {0: 84, 1: 1004, 2: 0, 3: 31}
+    Kharabak Hammer: {0: 88, 1: 1004, 2: 1003, 3: 21}
+    Kharabak Hands: {0: 86, 1: 1002, 2: 0, 3: 14}
+    Kharabak Head: {0: 83, 1: 1002, 2: 0, 3: 9}
+    Kharabak Legs: {0: 85, 1: 1003, 2: 0, 3: 14}
+    Kharabak Sword: {0: 87, 1: 1004, 2: 1002, 3: 31}
+    Kharabak War Pike: {0: 91, 1: 1004, 2: 1002, 3: 31}
+    Koshai Axe: {0: 99, 1: 1003, 2: 1005, 3: 27}
+    Koshai Chainblades: {0: 98, 1: 1003, 2: 1005, 3: 27}
+    Koshai Chest: {0: 93, 1: 1005, 2: 0, 3: 36}
+    Koshai Hammer: {0: 97, 1: 1003, 2: 1005, 3: 27}
+    Koshai Hands: {0: 95, 1: 1003, 2: 0, 3: 33}
+    Koshai Head: {0: 92, 1: 1004, 2: 0, 3: 13}
+    Koshai Legs: {0: 94, 1: 1005, 2: 0, 3: 36}
+    Koshai Sword: {0: 96, 1: 1003, 2: 1005, 3: 27}
+    Koshai War Pike: {0: 100, 1: 1003, 2: 1005, 3: 27}
+    Nayzaga Axe: {0: 72, 1: 1005, 2: 1003, 3: 37}
+    Nayzaga Chainblades: {0: 71, 1: 1005, 2: 1004, 3: 30}
+    Nayzaga Chest: {0: 66, 1: 1001, 2: 0, 3: 46}
+    Nayzaga Hammer: {0: 70, 1: 1005, 2: 1003, 3: 37}
+    Nayzaga Hands: {0: 68, 1: 1005, 2: 0, 3: 41}
+    Nayzaga Head: {0: 65, 1: 1005, 2: 0, 3: 46}
+    Nayzaga Legs: {0: 67, 1: 1001, 2: 0, 3: 7}
+    Nayzaga Sword: {0: 69, 1: 1005, 2: 1002, 3: 30}
+    Nayzaga War Pike: {0: 73, 1: 1005, 2: 1004, 3: 30}
+    None: 0
+    Pangar Axe: {0: 45, 1: 1001, 2: 1003, 3: 22}
+    Pangar Chainblades: {0: 44, 1: 1001, 2: 1004, 3: 38}
+    Pangar Chest: {0: 39, 1: 1003, 2: 0, 3: 4}
+    Pangar Hammer: {0: 43, 1: 1001, 2: 1003, 3: 22}
+    Pangar Hands: {0: 41, 1: 1001, 2: 0, 3: 22}
+    Pangar Head: {0: 38, 1: 1003, 2: 0, 3: 22}
+    Pangar Legs: {0: 40, 1: 1001, 2: 0, 3: 12}
+    Pangar Sword: {0: 42, 1: 1001, 2: 1004, 3: 22}
+    Pangar War Pike: {0: 46, 1: 1001, 2: 1004, 3: 38}
+    Quillshot Axe: {0: 126, 1: 1001, 2: 1003, 3: 28}
+    Quillshot Chainblades: {0: 125, 1: 1001, 2: 1004, 3: 28}
+    Quillshot Chest: {0: 120, 1: 1004, 2: 0, 3: 37}
+    Quillshot Hammer: {0: 124, 1: 1001, 2: 1003, 3: 28}
+    Quillshot Hands: {0: 122, 1: 1004, 2: 0, 3: 30}
+    Quillshot Head: {0: 119, 1: 1001, 2: 0, 3: 37}
+    Quillshot Legs: {0: 121, 1: 1004, 2: 0, 3: 9}
+    Quillshot Sword: {0: 123, 1: 1001, 2: 1004, 3: 28}
+    Quillshot War Pike: {0: 127, 1: 1001, 2: 1004, 3: 28}
+    Repeaters: {0: 179, 1: 1004, 2: 1002, 3: 0}
+    Rezakiri Axe: {0: 162, 1: 1003, 2: 1002, 3: 32}
+    Rezakiri Chainblades: {0: 161, 1: 1004, 2: 1003, 3: 32}
+    Rezakiri Chest: {0: 156, 1: 1005, 2: 0, 3: 32}
+    Rezakiri Exotic Helm: {0: 177, 1: 1004, 2: 0, 3: 0}
+    Rezakiri Exotic Weapon: {0: 178, 1: 1004, 2: 1002, 3: 0}
+    Rezakiri Hammer: {0: 160, 1: 1003, 2: 1002, 3: 32}
+    Rezakiri Hands: {0: 158, 1: 1004, 2: 0, 3: 43}
+    Rezakiri Head: {0: 155, 1: 1004, 2: 0, 3: 43}
+    Rezakiri Legs: {0: 157, 1: 1002, 2: 0, 3: 13}
+    Rezakiri Sword: {0: 159, 1: 1004, 2: 1005, 3: 32}
+    Rezakiri War Pike: {0: 163, 1: 1004, 2: 1003, 3: 32}
+    Riftstalker Axe: {0: 153, 1: 1004, 2: 1005, 3: 39}
+    Riftstalker Chainblades: {0: 152, 1: 1004, 2: 1005, 3: 39}
+    Riftstalker Chest: {0: 147, 1: 1005, 2: 0, 3: 43}
+    Riftstalker Hammer: {0: 151, 1: 1004, 2: 1005, 3: 39}
+    Riftstalker Hands: {0: 149, 1: 1002, 2: 0, 3: 16}
+    Riftstalker Head: {0: 146, 1: 1005, 2: 0, 3: 41}
+    Riftstalker Legs: {0: 148, 1: 1002, 2: 0, 3: 43}
+    Riftstalker Sword: {0: 150, 1: 1004, 2: 1005, 3: 39}
+    Riftstalker War Pike: {0: 154, 1: 1004, 2: 1005, 3: 39}
+    Shrike Axe: {0: 135, 1: 1002, 2: 1003, 3: 14}
+    Shrike Chainblades: {0: 134, 1: 1002, 2: 1004, 3: 14}
+    Shrike Chest: {0: 129, 1: 1002, 2: 0, 3: 16}
+    Shrike Hammer: {0: 133, 1: 1002, 2: 1003, 3: 14}
+    Shrike Hands: {0: 131, 1: 1002, 2: 0, 3: 38}
+    Shrike Head: {0: 128, 1: 1004, 2: 0, 3: 16}
+    Shrike Legs: {0: 130, 1: 1002, 2: 0, 3: 2}
+    Shrike Sword: {0: 132, 1: 1002, 2: 1002, 3: 14}
+    Shrike War Pike: {0: 136, 1: 1002, 2: 1004, 3: 14}
+    Shrowd Axe: {0: 144, 1: 1005, 2: 1003, 3: 32}
+    Shrowd Chainblades: {0: 143, 1: 1005, 2: 1003, 3: 32}
+    Shrowd Chest: {0: 138, 1: 1003, 2: 0, 3: 25}
+    Shrowd Exotic Helm: {0: 175, 1: 1003, 2: 0, 3: 0}
+    Shrowd Exotic Weapon: {0: 176, 1: 1003, 2: 1005, 3: 0}
+    Shrowd Hammer: {0: 142, 1: 1005, 2: 1003, 3: 32}
+    Shrowd Hands: {0: 140, 1: 1005, 2: 0, 3: 46}
+    Shrowd Head: {0: 137, 1: 1003, 2: 0, 3: 25}
+    Shrowd Legs: {0: 139, 1: 1005, 2: 0, 3: 8}
+    Shrowd Sword: {0: 141, 1: 1005, 2: 1004, 3: 32}
+    Shrowd War Pike: {0: 145, 1: 1005, 2: 1004, 3: 32}
+    Skarn Axe: {0: 108, 1: 1001, 2: 1003, 3: 22}
+    Skarn Chainblades: {0: 107, 1: 1001, 2: 1004, 3: 38}
+    Skarn Chest: {0: 102, 1: 1001, 2: 0, 3: 5}
+    Skarn Hammer: {0: 106, 1: 1001, 2: 1003, 3: 22}
+    Skarn Hands: {0: 104, 1: 1001, 2: 0, 3: 4}
+    Skarn Head: {0: 101, 1: 1001, 2: 0, 3: 11}
+    Skarn Legs: {0: 103, 1: 1001, 2: 0, 3: 5}
+    Skarn Sword: {0: 105, 1: 1001, 2: 1003, 3: 22}
+    Skarn War Pike: {0: 109, 1: 1001, 2: 1004, 3: 38}
+    Skraev Axe: {0: 54, 1: 1002, 2: 1003, 3: 18}
+    Skraev Chainblades: {0: 53, 1: 1002, 2: 1004, 3: 18}
+    Skraev Chest: {0: 48, 1: 1002, 2: 0, 3: 29}
+    Skraev Hammer: {0: 52, 1: 1002, 2: 1003, 3: 18}
+    Skraev Hands: {0: 50, 1: 1002, 2: 0, 3: 12}
+    Skraev Head: {0: 47, 1: 1002, 2: 0, 3: 17}
+    Skraev Legs: {0: 49, 1: 1005, 2: 0, 3: 29}
+    Skraev Sword: {0: 51, 1: 1002, 2: 1004, 3: 18}
+    Skraev War Pike: {0: 55, 1: 1002, 2: 1004, 3: 18}
+    Stormclaw Axe: {0: 81, 1: 1002, 2: 1003, 3: 44}
+    Stormclaw Chainblades: {0: 80, 1: 1002, 2: 1004, 3: 44}
+    Stormclaw Chest: {0: 75, 1: 1002, 2: 0, 3: 44}
+    Stormclaw Hammer: {0: 79, 1: 1002, 2: 1003, 3: 41}
+    Stormclaw Hands: {0: 77, 1: 1002, 2: 0, 3: 7}
+    Stormclaw Head: {0: 74, 1: 1004, 2: 0, 3: 44}
+    Stormclaw Legs: {0: 76, 1: 1002, 2: 0, 3: 42}
+    Stormclaw Sword: {0: 78, 1: 1002, 2: 1004, 3: 44}
+    Stormclaw War Pike: {0: 82, 1: 1002, 2: 1004, 3: 44}
+    Valomyr Axe: {0: 171, 1: 1003, 2: 1005, 3: 20}
+    Valomyr Chainblades: {0: 170, 1: 1003, 2: 1005, 3: 20}
+    Valomyr Chest: {0: 165, 1: 1003, 2: 0, 3: 8}
+    Valomyr Hammer: {0: 169, 1: 1003, 2: 1005, 3: 20}
+    Valomyr Hands: {0: 167, 1: 1001, 2: 0, 3: 45}
+    Valomyr Head: {0: 164, 1: 1003, 2: 0, 3: 45}
+    Valomyr Legs: {0: 166, 1: 1005, 2: 0, 3: 20}
+    Valomyr Sword: {0: 168, 1: 1003, 2: 1005, 3: 20}
+    Valomyr War Pike: {0: 172, 1: 1003, 2: 1005, 3: 20}
+gt2int: {Axe: 8, Chainblades: 7, Chest: 2, Hammer: 6, Hands: 4, Head: 1, Legs: 3,
+    None: 0, Repeaters: 10, Sword: 5, War Pike: 9}
+int2cell: {0: None, 1: Assassin's Vigour, 2: Bloodless, 3: Fireproof, 4: Fortress,
+    5: Guardian, 6: Iceborne, 7: Insulated, 8: Nine Lives, 9: Shellshock Resist, 10: Sturdy,
+    11: Tough, 12: Warmth, 13: Agility, 14: Conditioning, 15: Endurance, 16: Evasion,
+    17: Fleet Footed, 18: Nimble, 19: Swift, 20: Aetherhunter, 21: Deconstruction,
+    22: Knockout King, 23: Overpower, 24: Pacifier, 25: Rage, 26: Ragehunter, 27: Sharpened,
+    28: Acidic, 29: Adrenaline, 30: Barbed, 31: Bladestorm, 32: Cunning, 33: Evasive
+        Fury, 34: Merciless, 35: Molten, 36: Predator, 37: Savagery, 38: Weighted
+        Strikes, 39: Wild Frenzy, 40: Aetherborne, 41: Aetheric Attunement, 42: Aetheric
+        Frenzy, 43: Conduit, 44: Energized, 45: Lucent, 46: Medic, 47: Stunning Vigour,
+    48: Vampiric}
+int2ct: {0: None, 1001: Defence, 1002: Mobility, 1003: Power, 1004: Technique, 1005: Utility}
+int2gear: {0: None, 1: Charrogg Head, 2: Charrogg Chest, 3: Charrogg Legs, 4: Charrogg
+        Hands, 5: Charrogg Sword, 6: Charrogg Hammer, 7: Charrogg Chainblades, 8: Charrogg
+        Axe, 9: Charrogg War Pike, 10: Embermane Head, 11: Embermane Chest, 12: Embermane
+        Legs, 13: Embermane Hands, 14: Embermane Sword, 15: Embermane Hammer, 16: Embermane
+        Chainblades, 17: Embermane Axe, 18: Embermane War Pike, 19: Hellion Head,
+    20: Hellion Chest, 21: Hellion Legs, 22: Hellion Hands, 23: Hellion Sword, 24: Hellion
+        Hammer, 25: Hellion Chainblades, 26: Hellion Axe, 27: Hellion War Pike, 28: Boreus
+        Head, 29: Boreus Chest, 30: Boreus Legs, 31: Boreus Hands, 32: Boreus Sword,
+    33: Boreus Hammer, 34: Boreus Chainblades, 35: Boreus Axe, 36: Boreus War Pike,
+    37: Pangar Head, 38: Pangar Chest, 39: Pangar Legs, 40: Pangar Hands, 41: Pangar
+        Sword, 42: Pangar Hammer, 43: Pangar Chainblades, 44: Pangar Axe, 45: Pangar
+        War Pike, 46: Skraev Head, 47: Skraev Chest, 48: Skraev Legs, 49: Skraev Hands,
+    50: Skraev Sword, 51: Skraev Hammer, 52: Skraev Chainblades, 53: Skraev Axe, 54: Skraev
+        War Pike, 55: Drask Head, 56: Drask Chest, 57: Drask Legs, 58: Drask Hands,
+    59: Drask Sword, 60: Drask Hammer, 61: Drask Chainblades, 62: Drask Axe, 63: Drask
+        War Pike, 64: Nayzaga Head, 65: Nayzaga Chest, 66: Nayzaga Legs, 67: Nayzaga
+        Hands, 68: Nayzaga Sword, 69: Nayzaga Hammer, 70: Nayzaga Chainblades, 71: Nayzaga
+        Axe, 72: Nayzaga War Pike, 73: Stormclaw Head, 74: Stormclaw Chest, 75: Stormclaw
+        Legs, 76: Stormclaw Hands, 77: Stormclaw Sword, 78: Stormclaw Hammer, 79: Stormclaw
+        Chainblades, 80: Stormclaw Axe, 81: Stormclaw War Pike, 82: Kharabak Head,
+    83: Kharabak Chest, 84: Kharabak Legs, 85: Kharabak Hands, 86: Kharabak Sword,
+    87: Kharabak Hammer, 88: Kharabak Chainblades, 89: Kharabak Axe, 90: Kharabak
+        War Pike, 91: Koshai Head, 92: Koshai Chest, 93: Koshai Legs, 94: Koshai Hands,
+    95: Koshai Sword, 96: Koshai Hammer, 97: Koshai Chainblades, 98: Koshai Axe, 99: Koshai
+        War Pike, 100: Skarn Head, 101: Skarn Chest, 102: Skarn Legs, 103: Skarn Hands,
+    104: Skarn Sword, 105: Skarn Hammer, 106: Skarn Chainblades, 107: Skarn Axe, 108: Skarn
+        War Pike, 109: Gnasher Head, 110: Gnasher Chest, 111: Gnasher Legs, 112: Gnasher
+        Hands, 113: Gnasher Sword, 114: Gnasher Hammer, 115: Gnasher Chainblades,
+    116: Gnasher Axe, 117: Gnasher War Pike, 118: Quillshot Head, 119: Quillshot Chest,
+    120: Quillshot Legs, 121: Quillshot Hands, 122: Quillshot Sword, 123: Quillshot
+        Hammer, 124: Quillshot Chainblades, 125: Quillshot Axe, 126: Quillshot War
+        Pike, 127: Shrike Head, 128: Shrike Chest, 129: Shrike Legs, 130: Shrike Hands,
+    131: Shrike Sword, 132: Shrike Hammer, 133: Shrike Chainblades, 134: Shrike Axe,
+    135: Shrike War Pike, 136: Shrowd Head, 137: Shrowd Chest, 138: Shrowd Legs, 139: Shrowd
+        Hands, 140: Shrowd Sword, 141: Shrowd Hammer, 142: Shrowd Chainblades, 143: Shrowd
+        Axe, 144: Shrowd War Pike, 145: Riftstalker Head, 146: Riftstalker Chest,
+    147: Riftstalker Legs, 148: Riftstalker Hands, 149: Riftstalker Sword, 150: Riftstalker
+        Hammer, 151: Riftstalker Chainblades, 152: Riftstalker Axe, 153: Riftstalker
+        War Pike, 154: Rezakiri Head, 155: Rezakiri Chest, 156: Rezakiri Legs, 157: Rezakiri
+        Hands, 158: Rezakiri Sword, 159: Rezakiri Hammer, 160: Rezakiri Chainblades,
+    161: Rezakiri Axe, 162: Rezakiri War Pike, 163: Valomyr Head, 164: Valomyr Chest,
+    165: Valomyr Legs, 166: Valomyr Hands, 167: Valomyr Sword, 168: Valomyr Hammer,
+    169: Valomyr Chainblades, 170: Valomyr Axe, 171: Valomyr War Pike, 172: Charrogg
+        Exotic Helm, 173: Charrogg Exotic Weapon, 174: Shrowd Exotic Helm, 175: Shrowd
+        Exotic Weapon, 176: Rezakiri Exotic Helm, 177: Rezakiri Exotic Weapon, 178: Repeaters}
+int2gt: {0: None, 1: Head, 2: Chest, 3: Legs, 4: Hands, 5: Sword, 6: Hammer, 7: Chainblades,
+    8: Axe, 9: War Pike, 10: Repeaters}

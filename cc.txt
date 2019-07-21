@@ -1,0 +1,1413 @@
+['Riftstalker Axe', 'Gnasher Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Bloodless': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Shroud Hammer', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Cunning': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask War Pike', 'Shroud Head', 'Skarn Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask War Pike', 'Boreus Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Conditioning': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Koshai Sword', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Sharpened': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Sword', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Lucent': 1, 'Defence': 1}]
+
+['Pangar Chainblades', 'Drask Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion Sword', 'Charrogg Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Fireproof': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Riftstalker Hammer', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Pangar Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Knockout King': 1}]
+
+['Quillshot War Pike', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Shroud Chest', 'Embermane Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Evasion': 1}]
+
+['Pangar Hammer', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Knockout King': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Axe', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Hammer', 'Shroud Head', 'Hellion Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Molten': 1, 'Technique': 2, 'Iceborne': 1}]
+
+['Nayzaga Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Barbed': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Riftstalker War Pike', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Skarn Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 2, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Conduit': 1}]
+
+['Drask Hammer', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Quillshot Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Barbed': 1}]
+
+['Hellion Chainblades', 'Rezakiri Head', 'Gnasher Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Sword', 'Rezakiri Head', 'Gnasher Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Hellion Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Ragehunter': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Charrogg Chainblades', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Valomyr Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Lucent': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Gnasher Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Skarn War Pike', 'Drask Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Axe', 'Shroud Head', 'Boreus Chest', 'Skarn Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Guardian': 1, 'Aetheric Attunement': 1}]
+
+['Skarn Hammer', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Skarn Chainblades', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask War Pike', 'Rezakiri Head', 'Boreus Chest', 'Embermane Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1}]
+
+['Charrogg Chainblades', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Hellion Axe', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Lucent': 1, 'Defence': 1}]
+
+['Charrogg Chainblades', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Conduit': 1, 'Iceborne': 1}]
+
+['Charrogg Hammer', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Sword', 'Stormclaw Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 1, 'Power': 1, 'Energized': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Hellion War Pike', 'Rezakiri Head', 'Skarn Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Pangar Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Fortress': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion Sword', 'Rezakiri Head', 'Gnasher Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Drask Head', 'Gnasher Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Quillshot Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Barbed': 1}]
+
+['Charrogg War Pike', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Conduit': 1, 'Iceborne': 1}]
+
+['Pangar Sword', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion War Pike', 'Riftstalker Head', 'Skarn Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Sword', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Hellion Sword', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Hellion Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Iceborne': 1, 'Molten': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Hellion Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Ragehunter': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Stormclaw Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Energized': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Rezakiri Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Cunning': 1, 'Technique': 2, 'Power': 2, 'Aetheric Attunement': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask War Pike', 'Drask Head', 'Boreus Chest', 'Embermane Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 2, 'Evasion': 1, 'Conduit': 1}]
+
+['Pangar War Pike', 'Drask Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion Hammer', 'Charrogg Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Fireproof': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Riftstalker War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask War Pike', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Riftstalker War Pike', 'Shroud Head', 'Boreus Chest', 'Embermane Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Evasion': 1, 'Aetheric Attunement': 1}]
+
+['Hellion Sword', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Rezakiri War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Cunning': 1, 'Technique': 2, 'Power': 2, 'Aetheric Attunement': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Riftstalker Chainblades', 'Charrogg Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Fireproof': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Charrogg Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Fireproof': 1, 'Defence': 1, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Rezakiri Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Power': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Riftstalker Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Embermane Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1, 'Power': 1}]
+
+['Hellion Hammer', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Hellion War Pike', 'Quillshot Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Savagery': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Riftstalker Hammer', 'Shroud Head', 'Boreus Chest', 'Embermane Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Evasion': 1, 'Aetheric Attunement': 1}]
+
+['Hellion Axe', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Knockout King': 1, 'Defence': 1}]
+
+['Valomyr Hammer', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Charrogg Axe', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask Axe', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Riftstalker Hammer', 'Drask Head', 'Boreus Chest', 'Embermane Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1}]
+
+['Hellion Chainblades', 'Riftstalker Head', 'Skarn Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Boreus Chest', 'Nayzaga Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 2, 'Insulated': 1, 'Conduit': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Shroud Chest', 'Skarn Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Guardian': 1}]
+
+['Hellion Chainblades', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Knockout King': 1, 'Defence': 1}]
+
+['Drask Axe', 'Shroud Head', 'Koshai Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Predator': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker War Pike', 'Skarn Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Tough': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Skarn War Pike', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 2, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask Chainblades', 'Charrogg Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Fireproof': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Sword', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Koshai Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Evasive Fury': 1}]
+
+['Drask Sword', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Nayzaga Hammer', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Savagery': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Quillshot Hammer', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Pangar War Pike', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Drask Sword', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Hellion Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Molten': 1}]
+
+['Drask Axe', 'Drask Head', 'Boreus Chest', 'Quillshot Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 2, 'Rage': 1, 'Shellshock Resist': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 3, 'Conduit': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Valomyr Axe', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Pangar Sword', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Knockout King': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Riftstalker War Pike', 'Shroud Head', 'Boreus Chest', 'Skarn Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Guardian': 1, 'Aetheric Attunement': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Koshai Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Predator': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Skarn War Pike', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 2, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Conduit': 1}]
+
+['Drask War Pike', 'Skarn Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Koshai Axe', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Sharpened': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Pangar Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1}]
+
+['Quillshot Sword', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 2, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Conduit': 1}]
+
+['Gnasher Sword', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Ragehunter': 1, 'Defence': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Boreus Axe', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Axe', 'Koshai Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Agility': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Hammer', 'Valomyr Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Lucent': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Axe', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 3, 'Power': 3, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Valomyr War Pike', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetherhunter': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Quillshot Hammer', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Defence': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Iceborne': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Nayzaga Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Medic': 1, 'Rage': 1}]
+
+['Quillshot Chainblades', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Drask Sword', 'Charrogg Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Fireproof': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Rezakiri Sword', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Charrogg Axe', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Sword', 'Valomyr Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Lucent': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Axe', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Boreus Chainblades', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Koshai Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Sharpened': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Sword', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Fortress': 1, 'Defence': 1}]
+
+['Charrogg Hammer', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Skarn Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Boreus Sword', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion Axe', 'Rezakiri Head', 'Nayzaga Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Charrogg Hammer', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Gnasher Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Tough': 1, 'Rage': 1}]
+
+['Drask Axe', 'Riftstalker Head', 'Hellion Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Molten': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Skarn Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1}]
+
+['Riftstalker Hammer', 'Gnasher Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Bloodless': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker Axe', 'Charrogg Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Fireproof': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Hellion Hammer', 'Gnasher Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Bloodless': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Riftstalker Chainblades', 'Drask Head', 'Boreus Chest', 'Pangar Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1}]
+
+['Drask Hammer', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Pangar Sword', 'Drask Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Boreus Chainblades', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Conditioning': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Charrogg Hammer', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Riftstalker Hammer', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Skarn Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Fortress': 1}]
+
+['Shroud Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Cunning': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Hammer', 'Drask Head', 'Boreus Chest', 'Nayzaga Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1}]
+
+['Gnasher War Pike', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Ragehunter': 1, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Riftstalker Sword', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Pangar Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Knockout King': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Chainblades', 'Shroud Head', 'Boreus Chest', 'Embermane Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Evasion': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Drask Head', 'Nayzaga Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Quillshot Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Conduit': 1, 'Iceborne': 1, 'Technique': 2, 'Barbed': 1}]
+
+['Drask Axe', 'Shroud Head', 'Rezakiri Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Cunning': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Shroud Chest', 'Nayzaga Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Insulated': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Boreus Chest', 'Pangar Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 2, 'Warmth': 1, 'Conduit': 1}]
+
+['Riftstalker War Pike', 'Shroud Head', 'Boreus Chest', 'Nayzaga Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Insulated': 1, 'Aetheric Attunement': 1}]
+
+['Gnasher War Pike', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Ragehunter': 1, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 2, 'Power': 1}]
+
+['Gnasher Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Ragehunter': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Iceborne': 1}]
+
+['Boreus War Pike', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask Axe', 'Shroud Head', 'Kharabak Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Bladestorm': 1, 'Technique': 2, 'Iceborne': 1}]
+
+['Drask War Pike', 'Pangar Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Knockout King': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask War Pike', 'Drask Head', 'Skarn Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Gnasher Hammer', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Ragehunter': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Drask Hammer', 'Shrike Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Evasion': 1, 'Technique': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Quillshot Chainblades', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Conduit': 1, 'Iceborne': 1}]
+
+['Stormclaw Hammer', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Mobility': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 2}]
+
+['Shroud War Pike', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Boreus War Pike', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Conditioning': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Hammer', 'Nayzaga Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Medic': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Boreus Chest', 'Skarn Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 2, 'Guardian': 1, 'Conduit': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Boreus Chest', 'Hellion Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Fortress': 1}]
+
+['Charrogg War Pike', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Hellion Chainblades', 'Riftstalker Head', 'Nayzaga Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker War Pike', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker Sword', 'Drask Head', 'Boreus Chest', 'Pangar Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1}]
+
+['Skarn Axe', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Koshai Sword', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Sharpened': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Chainblades', 'Shroud Head', 'Boreus Chest', 'Skarn Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Guardian': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker Sword', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Skarn Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Fortress': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Skarn Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Guardian': 1, 'Rage': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Lucent': 1, 'Defence': 1}]
+
+['Drask Hammer', 'Shroud Head', 'Charrogg Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Aetherhunter': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Nayzaga Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion Sword', 'Skarn Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Tough': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Quillshot Hammer', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Quillshot War Pike', 'Drask Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion Chainblades', 'Skarn Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Tough': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Pangar War Pike', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Pangar Axe', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Pangar Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Knockout King': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Skarn Hammer', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Skarn Sword', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Boreus Axe', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker War Pike', 'Charrogg Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Fireproof': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Koshai War Pike', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Sharpened': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Drask Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Sharpened': 1}]
+
+['Drask War Pike', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 3, 'Conduit': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Nayzaga Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Nayzaga Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Medic': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Defence': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Iceborne': 1}]
+
+['Drask Axe', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Quillshot Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Conduit': 1, 'Iceborne': 1, 'Technique': 2, 'Barbed': 1}]
+
+['Riftstalker Hammer', 'Riftstalker Head', 'Boreus Chest', 'Embermane Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1, 'Power': 1}]
+
+['Riftstalker Hammer', 'Drask Head', 'Boreus Chest', 'Pangar Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1}]
+
+['Shroud Sword', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Riftstalker Sword', 'Gnasher Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Bloodless': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Shroud Sword', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Skarn Hammer', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Pangar Axe', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Boreus Chest', 'Quillshot Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Defence': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Shellshock Resist': 1}]
+
+['Drask Sword', 'Rezakiri Head', 'Skarn Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Nayzaga War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Barbed': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Sword', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Quillshot Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Barbed': 1}]
+
+['Nayzaga Chainblades', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Barbed': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Shroud Chest', 'Embermane Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Evasion': 1}]
+
+['Drask Chainblades', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Conduit': 1, 'Iceborne': 1, 'Fortress': 1, 'Defence': 1}]
+
+['Skarn Axe', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Knockout King': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Gnasher Sword', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Ragehunter': 1, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 2, 'Power': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Koshai Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Iceborne': 1, 'Evasive Fury': 1}]
+
+['Skarn Chainblades', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Conduit': 1, 'Iceborne': 1}]
+
+['Shroud War Pike', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Pangar Sword', 'Riftstalker Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Hammer', 'Shroud Head', 'Boreus Chest', 'Skarn Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Guardian': 1, 'Aetheric Attunement': 1}]
+
+['Gnasher War Pike', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Ragehunter': 1, 'Defence': 1, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Shroud Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Cunning': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Shroud Chest', 'Skarn Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Guardian': 1}]
+
+['Charrogg Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Charrogg Hammer', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion Axe', 'Rezakiri Head', 'Gnasher Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Charrogg Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 2, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Conduit': 1}]
+
+['Pangar Chainblades', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Conduit': 1, 'Iceborne': 1}]
+
+['Charrogg Sword', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Sword', 'Drask Head', 'Boreus Chest', 'Nayzaga Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1}]
+
+['Valomyr Sword', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetherhunter': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Pangar War Pike', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 2, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Quillshot Chainblades', 'Drask Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Riftstalker Head', 'Quillshot Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Savagery': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Pangar Hammer', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Hammer', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Koshai War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Sharpened': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Charrogg Axe', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 2, 'Power': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Riftstalker Chainblades', 'Shroud Head', 'Boreus Chest', 'Nayzaga Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Insulated': 1, 'Aetheric Attunement': 1}]
+
+['Hellion Hammer', 'Rezakiri Head', 'Skarn Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Charrogg Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 2, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Hellion Axe', 'Riftstalker Head', 'Skarn Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion War Pike', 'Rezakiri Head', 'Nayzaga Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Valomyr Sword', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Hammer', 'Drask Head', 'Boreus Chest', 'Quillshot Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 2, 'Rage': 1, 'Shellshock Resist': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Pangar War Pike', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 2, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Conduit': 1}]
+
+['Drask Sword', 'Pangar Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Knockout King': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Kharabak Hammer', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Deconstruction': 1, 'Technique': 2, 'Power': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Hellion Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Gnasher Hammer', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 3, 'Ragehunter': 1, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion Hammer', 'Rezakiri Head', 'Gnasher Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker War Pike', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Skarn Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Fortress': 1}]
+
+['Riftstalker Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Skarn Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1, 'Power': 1}]
+
+['Drask Hammer', 'Shroud Head', 'Koshai Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Predator': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Nayzaga Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1, 'Power': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Stormclaw Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Energized': 1, 'Technique': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Drask Head', 'Hellion Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Molten': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Axe', 'Riftstalker Head', 'Boreus Chest', 'Embermane Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1, 'Power': 1}]
+
+['Riftstalker Sword', 'Shroud Head', 'Boreus Chest', 'Embermane Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Evasion': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker Axe', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Pangar Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Knockout King': 1}]
+
+['Riftstalker War Pike', 'Riftstalker Head', 'Boreus Chest', 'Skarn Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1, 'Power': 1}]
+
+['Hellion Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Pangar Axe', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Fortress': 1, 'Defence': 1}]
+
+['Pangar Sword', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Knockout King': 1, 'Defence': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Conduit': 1, 'Iceborne': 1}]
+
+['Riftstalker Axe', 'Shroud Head', 'Boreus Chest', 'Pangar Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Warmth': 1, 'Aetheric Attunement': 1}]
+
+['Drask Sword', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Embermane Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Fireproof': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Drask Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Sharpened': 1}]
+
+['Pangar Sword', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Hellion Sword', 'Riftstalker Head', 'Skarn Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Iceborne': 1}]
+
+['Hellion Chainblades', 'Rezakiri Head', 'Nayzaga Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Gnasher Sword', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Ragehunter': 1, 'Defence': 1, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Boreus Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Boreus Chest', 'Gnasher Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Tough': 1}]
+
+['Drask Axe', 'Riftstalker Head', 'Quillshot Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Savagery': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Sword', 'Koshai Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 1, 'Power': 1, 'Agility': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Chainblades', 'Skarn Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion War Pike', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 2}]
+
+['Drask Axe', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion Sword', 'Rezakiri Head', 'Nayzaga Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Valomyr Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Nine Lives': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Boreus Hammer', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Charrogg Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Aetherhunter': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Chainblades', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Conduit': 1, 'Iceborne': 1, 'Knockout King': 1, 'Defence': 1}]
+
+['Skarn Chainblades', 'Riftstalker Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Skarn Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Fortress': 1}]
+
+['Hellion Sword', 'Riftstalker Head', 'Gnasher Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Pangar Axe', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Knockout King': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Hellion Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Molten': 1}]
+
+['Hellion Axe', 'Charrogg Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Fireproof': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Riftstalker War Pike', 'Shroud Head', 'Boreus Chest', 'Pangar Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Warmth': 1, 'Aetheric Attunement': 1}]
+
+['Charrogg War Pike', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 2, 'Iceborne': 1}]
+
+['Boreus Hammer', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Sword', 'Drask Head', 'Boreus Chest', 'Skarn Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1}]
+
+['Boreus Sword', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Nayzaga Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Medic': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Boreus Hammer', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Skarn Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 2, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Shroud Chest', 'Pangar Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Warmth': 1}]
+
+['Drask Hammer', 'Shrike Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Evasion': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion Chainblades', 'Gnasher Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Bloodless': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Koshai Hammer', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Sharpened': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Riftstalker Axe', 'Drask Head', 'Boreus Chest', 'Nayzaga Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1}]
+
+['Quillshot Axe', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Pangar Chainblades', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Shroud Sword', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Hellion Sword', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Fortress': 1, 'Defence': 1}]
+
+['Riftstalker Hammer', 'Riftstalker Head', 'Boreus Chest', 'Pangar Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1, 'Power': 1}]
+
+['Drask Sword', 'Quillshot Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Savagery': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Nayzaga Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Medic': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Quillshot Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Shroud Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Medic': 1}]
+
+['Gnasher Sword', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Ragehunter': 1, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Riftstalker Hammer', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Valomyr Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Lucent': 1}]
+
+['Skarn Axe', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Pangar Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Knockout King': 1}]
+
+['Quillshot Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 2, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Conduit': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Shroud Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Medic': 1}]
+
+['Boreus Sword', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Koshai Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Agility': 1, 'Technique': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Shroud War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Hellion Hammer', 'Riftstalker Head', 'Nayzaga Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Lucent': 1, 'Defence': 1}]
+
+['Riftstalker Axe', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Boreus Axe', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Boreus Chest', 'Kharabak Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Conditioning': 1}]
+
+['Hellion War Pike', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Boreus Hammer', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Conditioning': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion War Pike', 'Charrogg Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Fireproof': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Hellion Sword', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Knockout King': 1, 'Defence': 1}]
+
+['Boreus Sword', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Conditioning': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Sword', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Drask Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Sharpened': 1}]
+
+['Shroud Axe', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Cunning': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Sword', 'Shroud Head', 'Boreus Chest', 'Pangar Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Warmth': 1, 'Aetheric Attunement': 1}]
+
+['Drask Axe', 'Shrike Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Evasion': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Sword', 'Shroud Head', 'Skarn Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Rage': 1, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Boreus War Pike', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion War Pike', 'Riftstalker Head', 'Gnasher Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Sword', 'Riftstalker Head', 'Boreus Chest', 'Skarn Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1, 'Power': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Rezakiri Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Cunning': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Nayzaga Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Medic': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Charrogg Chainblades', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 2, 'Iceborne': 1}]
+
+['Drask Sword', 'Skarn Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Tough': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker War Pike', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Valomyr Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Lucent': 1}]
+
+['Riftstalker Axe', 'Riftstalker Head', 'Boreus Chest', 'Pangar Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1, 'Power': 1}]
+
+['Hellion Hammer', 'Riftstalker Head', 'Gnasher Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion Axe', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Rezakiri Head', 'Boreus Chest', 'Nayzaga Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Koshai Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Evasive Fury': 1}]
+
+['Riftstalker Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Pangar Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1, 'Power': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Boreus Chest', 'Gnasher Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Tough': 1}]
+
+['Charrogg Axe', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetherhunter': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Axe', 'Shroud Head', 'Quillshot Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Savagery': 1, 'Technique': 2, 'Iceborne': 1}]
+
+['Riftstalker Axe', 'Drask Head', 'Boreus Chest', 'Embermane Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1}]
+
+['Hellion Hammer', 'Rezakiri Head', 'Nayzaga Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker War Pike', 'Quillshot Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Savagery': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask Axe', 'Koshai Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Agility': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Charrogg Chainblades', 'Riftstalker Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Quillshot Sword', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Conduit': 1, 'Iceborne': 1}]
+
+['Drask Hammer', 'Shroud Head', 'Rezakiri Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Cunning': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask War Pike', 'Charrogg Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Fireproof': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Valomyr Axe', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetherhunter': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Quillshot War Pike', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Conduit': 1, 'Iceborne': 1}]
+
+['Charrogg Sword', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Pangar Hammer', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Pangar Chainblades', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Hellion Hammer', 'Riftstalker Head', 'Skarn Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Koshai Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Evasive Fury': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Hammer', 'Koshai Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Agility': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Skarn Sword', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Boreus Chainblades', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Gnasher Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Ragehunter': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Boreus War Pike', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion Sword', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Lucent': 1, 'Defence': 1}]
+
+['Gnasher Axe', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Ragehunter': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Skarn Chainblades', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 2, 'Iceborne': 1}]
+
+['Riftstalker Sword', 'Skarn Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Tough': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Skarn Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Guardian': 1, 'Rage': 1}]
+
+['Rezakiri War Pike', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Power': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Riftstalker Hammer', 'Shroud Head', 'Boreus Chest', 'Nayzaga Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Insulated': 1, 'Aetheric Attunement': 1}]
+
+['Pangar War Pike', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Conduit': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Drask Head', 'Valomyr Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Nine Lives': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Hammer', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Quillshot Sword', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Pangar War Pike', 'Riftstalker Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Hellion Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Ragehunter': 1, 'Technique': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion Sword', 'Gnasher Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Bloodless': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask Sword', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Shroud Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Medic': 1}]
+
+['Boreus Axe', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Conditioning': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Valomyr War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Nayzaga Axe', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Savagery': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Charrogg Hammer', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetherhunter': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Fortress': 1, 'Defence': 1}]
+
+['Charrogg War Pike', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Drask War Pike', 'Drask Head', 'Boreus Chest', 'Skarn Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 2, 'Guardian': 1, 'Conduit': 1}]
+
+['Quillshot Axe', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Hellion Hammer', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Fortress': 1, 'Defence': 1}]
+
+['Valomyr Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetherhunter': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Nayzaga Axe', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Savagery': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Embermane Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Fireproof': 1}]
+
+['Hellion Axe', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion War Pike', 'Riftstalker Head', 'Nayzaga Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion Axe', 'Riftstalker Head', 'Gnasher Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Axe', 'Skarn Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Tough': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Quillshot Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Savagery': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1}]
+
+['Riftstalker Sword', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Drask Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Sharpened': 1}]
+
+['Riftstalker Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Gnasher Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Ragehunter': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Rezakiri Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Cunning': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Sword', 'Shroud Head', 'Gnasher Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Rage': 1, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Skarn Chainblades', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Hellion Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Ragehunter': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Hellion Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Molten': 1}]
+
+['Pangar Sword', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Technique': 2, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 2, 'Iceborne': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Gnasher Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Iceborne': 1, 'Ragehunter': 1}]
+
+['Riftstalker Axe', 'Riftstalker Head', 'Boreus Chest', 'Skarn Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1, 'Power': 1}]
+
+['Shroud Hammer', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Cunning': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Charrogg Sword', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker War Pike', 'Drask Head', 'Boreus Chest', 'Embermane Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1}]
+
+['Drask War Pike', 'Gnasher Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Bloodless': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1}]
+
+['Riftstalker Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Valomyr Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Lucent': 1}]
+
+['Drask Axe', 'Shroud Head', 'Charrogg Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Aetherhunter': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion Hammer', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Sword', 'Shroud Head', 'Nayzaga Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Rage': 1, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Skarn Hammer', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Knockout King': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Knockout King': 1, 'Defence': 1}]
+
+['Kharabak Hammer', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Deconstruction': 1, 'Technique': 2, 'Power': 2, 'Aetheric Attunement': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Charrogg Chainblades', 'Drask Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Embermane Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Fireproof': 1}]
+
+['Drask Hammer', 'Drask Head', 'Valomyr Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Nine Lives': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker War Pike', 'Drask Head', 'Boreus Chest', 'Skarn Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1}]
+
+['Pangar War Pike', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 2, 'Iceborne': 1}]
+
+['Drask Hammer', 'Shrike Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Evasion': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Quillshot Hammer', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Hammer', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Drask Hammer', 'Shroud Head', 'Kharabak Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Bladestorm': 1, 'Technique': 2, 'Iceborne': 1}]
+
+['Drask War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 3, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Hellion Chainblades', 'Rezakiri Head', 'Skarn Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Gnasher Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Chainblades', 'Gnasher Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Bloodless': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1}]
+
+['Quillshot Hammer', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Quillshot Sword', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Nayzaga Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Hellion Chainblades', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Fortress': 1, 'Defence': 1}]
+
+['Drask Chainblades', 'Skarn Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Chainblades', 'Pangar Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Knockout King': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Chainblades', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Conduit': 1, 'Iceborne': 1, 'Lucent': 1, 'Defence': 1}]
+
+['Drask Hammer', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Embermane Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Conduit': 1, 'Iceborne': 1, 'Technique': 2, 'Fireproof': 1}]
+
+['Drask Axe', 'Shrike Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Evasion': 1, 'Technique': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Quillshot Sword', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 2, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Gnasher Chainblades', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Ragehunter': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Chainblades', 'Shroud Head', 'Nayzaga Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Medic': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Hellion Chainblades', 'Quillshot Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Savagery': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Hellion Axe', 'Quillshot Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Savagery': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask Hammer', 'Stormclaw Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Energized': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask War Pike', 'Shroud Head', 'Nayzaga Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Medic': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Nayzaga Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Hellion Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Iceborne': 1, 'Molten': 1}]
+
+['Drask Sword', 'Shrike Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 1, 'Power': 1, 'Evasion': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Boreus Chainblades', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Drask Head', 'Quillshot Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Savagery': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Skarn Sword', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Hammer', 'Hellion Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Ragehunter': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Pangar Hammer', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Skarn Sword', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask Hammer', 'Drask Head', 'Quillshot Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Savagery': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Boreus Chest', 'Hellion Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Fortress': 1}]
+
+['Riftstalker Chainblades', 'Gnasher Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Bloodless': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Hellion War Pike', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Lucent': 1, 'Defence': 1}]
+
+['Pangar Sword', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 2, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Pangar War Pike', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Stormclaw Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Energized': 1, 'Technique': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Chainblades', 'Quillshot Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Savagery': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Rezakiri Sword', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Boreus War Pike', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Chainblades', 'Valomyr Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Lucent': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Shroud Axe', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Cunning': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Hellion Hammer', 'Quillshot Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Savagery': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Riftstalker War Pike', 'Drask Head', 'Boreus Chest', 'Pangar Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1}]
+
+['Drask Axe', 'Drask Head', 'Pangar Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Fortress': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 3, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Conduit': 1}]
+
+['Pangar Sword', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 2, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Conduit': 1}]
+
+['Drask War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Shroud Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Medic': 1}]
+
+['Skarn War Pike', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Koshai Axe', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Sharpened': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Skarn War Pike', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Riftstalker War Pike', 'Drask Head', 'Boreus Chest', 'Nayzaga Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1}]
+
+['Drask War Pike', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Conduit': 1, 'Iceborne': 1, 'Lucent': 1, 'Defence': 1}]
+
+['Hellion Chainblades', 'Riftstalker Head', 'Gnasher Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Quillshot Axe', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Hammer', 'Boreus Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conditioning': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Quillshot War Pike', 'Riftstalker Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Sword', 'Riftstalker Head', 'Boreus Chest', 'Embermane Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1, 'Power': 1}]
+
+['Riftstalker Axe', 'Quillshot Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Savagery': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Gnasher Sword', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Ragehunter': 1, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Skarn Chainblades', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Drask Sword', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Gnasher Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Ragehunter': 1}]
+
+['Hellion Axe', 'Gnasher Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Bloodless': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask War Pike', 'Skarn Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Quillshot War Pike', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 2, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Conduit': 1}]
+
+['Drask Chainblades', 'Gnasher Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Bloodless': 1, 'Defence': 1, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 2, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask War Pike', 'Rezakiri Head', 'Boreus Chest', 'Skarn Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1}]
+
+['Pangar Hammer', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask Axe', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 2, 'Technique': 3, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Gnasher Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Charrogg War Pike', 'Riftstalker Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Chainblades', 'Drask Head', 'Boreus Chest', 'Nayzaga Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1}]
+
+['Hellion Chainblades', 'Charrogg Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Fireproof': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask Axe', 'Boreus Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conditioning': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Boreus Chainblades', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Quillshot Sword', 'Drask Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Sword', 'Gnasher Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Bloodless': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Pangar Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Fortress': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Sword', 'Riftstalker Head', 'Boreus Chest', 'Pangar Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1, 'Power': 1}]
+
+['Drask Hammer', 'Hellion Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Ragehunter': 1, 'Technique': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Chainblades', 'Drask Head', 'Boreus Chest', 'Embermane Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1}]
+
+['Riftstalker Sword', 'Shroud Head', 'Boreus Chest', 'Nayzaga Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Insulated': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Pangar Axe', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask Hammer', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 2, 'Technique': 3, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Boreus Chest', 'Quillshot Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Defence': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Shellshock Resist': 1}]
+
+['Quillshot War Pike', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Quillshot War Pike', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Hellion Axe', 'Riftstalker Head', 'Nayzaga Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Chainblades', 'Skarn Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Tough': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Boreus Chest', 'Embermane Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 2, 'Evasion': 1, 'Conduit': 1}]
+
+['Drask Hammer', 'Drask Head', 'Hellion Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Molten': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Charrogg War Pike', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 2, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Gnasher Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Bloodless': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Nayzaga War Pike', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Barbed': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker Axe', 'Shroud Head', 'Boreus Chest', 'Nayzaga Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Insulated': 1, 'Aetheric Attunement': 1}]
+
+['Skarn War Pike', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 2, 'Iceborne': 1}]
+
+['Valomyr Hammer', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetherhunter': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Hammer', 'Drask Head', 'Pangar Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Fortress': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion Hammer', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Lucent': 1, 'Defence': 1}]
+
+['Skarn Axe', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Quillshot Sword', 'Riftstalker Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask War Pike', 'Quillshot Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Savagery': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Quillshot Axe', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker War Pike', 'Gnasher Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Bloodless': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker Hammer', 'Quillshot Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Savagery': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Koshai Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Iceborne': 1, 'Evasive Fury': 1}]
+
+['Drask Chainblades', 'Skarn Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Stormclaw Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Energized': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Riftstalker Sword', 'Drask Head', 'Boreus Chest', 'Embermane Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1}]
+
+['Hellion Axe', 'Skarn Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Tough': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask Hammer', 'Rezakiri Head', 'Koshai Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Predator': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Koshai Hammer', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Sharpened': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Quillshot Axe', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Acidic': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion Sword', 'Quillshot Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Savagery': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask War Pike', 'Quillshot Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Savagery': 1, 'Defence': 1, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Chainblades', 'Shroud Head', 'Skarn Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Boreus Chainblades', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Quillshot Chainblades', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Charrogg Sword', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetherhunter': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Axe', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Valomyr Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Lucent': 1}]
+
+['Boreus Hammer', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask War Pike', 'Drask Head', 'Boreus Chest', 'Pangar Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 2, 'Warmth': 1, 'Conduit': 1}]
+
+['Riftstalker Sword', 'Riftstalker Head', 'Boreus Chest', 'Nayzaga Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1, 'Power': 1}]
+
+['Boreus Sword', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 3, 'Power': 3, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Axe', 'Stormclaw Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Energized': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Axe', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Skarn Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Fortress': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Valomyr Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Nine Lives': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Chainblades', 'Boreus Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Conditioning': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Sword', 'Rezakiri Head', 'Nayzaga Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Drask Head', 'Kharabak Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Bladestorm': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker War Pike', 'Riftstalker Head', 'Boreus Chest', 'Embermane Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1, 'Power': 1}]
+
+['Skarn Sword', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Knockout King': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Skarn Hammer', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Charrogg Chainblades', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Iceborne': 1}]
+
+['Gnasher War Pike', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Ragehunter': 1, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Charrogg War Pike', 'Drask Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Skarn Axe', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask War Pike', 'Rezakiri Head', 'Boreus Chest', 'Pangar Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1}]
+
+['Hellion War Pike', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Fortress': 1, 'Defence': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Gnasher Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Tough': 1, 'Rage': 1}]
+
+['Quillshot War Pike', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 2, 'Iceborne': 1}]
+
+['Pangar Chainblades', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Charrogg War Pike', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 2, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Conduit': 1}]
+
+['Drask Sword', 'Hellion Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 1, 'Power': 1, 'Ragehunter': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Nayzaga War Pike', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Barbed': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Drask Axe', 'Shrike Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Evasion': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask War Pike', 'Drask Head', 'Boreus Chest', 'Nayzaga Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 2, 'Insulated': 1, 'Conduit': 1}]
+
+['Hellion Sword', 'Riftstalker Head', 'Nayzaga Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Medic': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Sword', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Knockout King': 1, 'Defence': 1}]
+
+['Kharabak Axe', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Deconstruction': 1, 'Technique': 2, 'Power': 2, 'Aetheric Attunement': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Skarn War Pike', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Koshai Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Agility': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Chainblades', 'Shroud Head', 'Gnasher Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Tough': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Quillshot Chainblades', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Gnasher Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Iceborne': 1, 'Ragehunter': 1}]
+
+['Charrogg Sword', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Hellion Axe', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Fortress': 1, 'Defence': 1}]
+
+['Quillshot Chainblades', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 2, 'Iceborne': 1}]
+
+['Drask War Pike', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Conduit': 1, 'Iceborne': 1, 'Knockout King': 1, 'Defence': 1}]
+
+['Drask Chainblades', 'Charrogg Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Fireproof': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1}]
+
+['Riftstalker Axe', 'Riftstalker Head', 'Boreus Chest', 'Nayzaga Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1, 'Power': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Shroud Chest', 'Nayzaga Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Insulated': 1}]
+
+['Drask Chainblades', 'Gnasher Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Bloodless': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Pangar Hammer', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Skarn Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask War Pike', 'Shroud Head', 'Gnasher Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Tough': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Gnasher Axe', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Ragehunter': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Hellion War Pike', 'Gnasher Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Bloodless': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Drask Axe', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Embermane Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Conduit': 1, 'Iceborne': 1, 'Technique': 2, 'Fireproof': 1}]
+
+['Pangar Chainblades', 'Riftstalker Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Hammer', 'Drask Head', 'Boreus Chest', 'Skarn Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1}]
+
+['Drask Axe', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Pangar Chainblades', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 2, 'Iceborne': 1}]
+
+['Riftstalker Sword', 'Shroud Head', 'Boreus Chest', 'Skarn Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Guardian': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker Sword', 'Charrogg Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Fireproof': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Riftstalker War Pike', 'Riftstalker Head', 'Boreus Chest', 'Pangar Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1, 'Power': 1}]
+
+['Drask Chainblades', 'Quillshot Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Savagery': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1}]
+
+['Charrogg War Pike', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Axe', 'Drask Head', 'Boreus Chest', 'Pangar Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Warmth': 1}]
+
+['Boreus Hammer', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Charrogg Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Aetherhunter': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Kharabak Axe', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Deconstruction': 1, 'Technique': 2, 'Power': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Skarn Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Koshai Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Sharpened': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Boreus Chest', 'Kharabak Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Conditioning': 1}]
+
+['Skarn Sword', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Quillshot Hammer', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Acidic': 1, 'Defence': 1, 'Power': 3, 'Aetheric Attunement': 2, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Valomyr Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Chainblades', 'Shroud Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Axe', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 2, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Boreus Axe', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Hellion War Pike', 'Skarn Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Tough': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Riftstalker Chainblades', 'Drask Head', 'Boreus Chest', 'Skarn Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1}]
+
+['Drask Hammer', 'Pangar Head', 'Drask Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Knockout King': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask War Pike', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Skarn Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Conduit': 1, 'Iceborne': 1, 'Fortress': 1, 'Defence': 1}]
+
+['Drask Hammer', 'Riftstalker Head', 'Kharabak Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Bladestorm': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Stormclaw Hammer', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Mobility': 1, 'Power': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Sword', 'Quillshot Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Savagery': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 3, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Conduit': 1}]
+
+['Riftstalker Hammer', 'Riftstalker Head', 'Boreus Chest', 'Nayzaga Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1, 'Power': 1}]
+
+['Hellion War Pike', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Knockout King': 1, 'Defence': 1}]
+
+['Drask Hammer', 'Riftstalker Head', 'Hellion Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Molten': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Sword', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1, 'Power': 1}]
+
+['Drask Chainblades', 'Quillshot Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Savagery': 1, 'Defence': 1, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker War Pike', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Pangar Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Knockout King': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Nayzaga Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Barbed': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Nayzaga Hammer', 'Rezakiri Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Savagery': 1, 'Power': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Riftstalker Axe', 'Shroud Head', 'Boreus Chest', 'Embermane Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Evasion': 1, 'Aetheric Attunement': 1}]
+
+['Drask Axe', 'Drask Head', 'Kharabak Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Bladestorm': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Chainblades', 'Shroud Head', 'Boreus Chest', 'Pangar Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Warmth': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Valomyr Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Lucent': 1, 'Rage': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Rezakiri Head', 'Shroud Chest', 'Pangar Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 2, 'Conduit': 2, 'Technique': 2, 'Rage': 1, 'Warmth': 1}]
+
+['Skarn Chainblades', 'Drask Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Shroud Head', 'Quillshot Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Savagery': 1, 'Technique': 2, 'Iceborne': 1}]
+
+['Pangar Axe', 'Rezakiri Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Quillshot Chainblades', 'Riftstalker Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Hammer', 'Riftstalker Head', 'Boreus Chest', 'Skarn Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1, 'Power': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Gnasher Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Ragehunter': 1}]
+
+['Riftstalker Hammer', 'Shroud Head', 'Boreus Chest', 'Pangar Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Rage': 2, 'Power': 1, 'Defence': 2, 'Warmth': 1, 'Aetheric Attunement': 1}]
+
+['Skarn Hammer', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Knockout King': 1, 'Defence': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Chainblades', 'Charrogg Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Fireproof': 1, 'Defence': 1, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Riftstalker Hammer', 'Skarn Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Tough': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Hellion War Pike', 'Rezakiri Head', 'Gnasher Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Embermane Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Defence': 2, 'Evasion': 1}]
+
+['Hellion Sword', 'Rezakiri Head', 'Skarn Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Quillshot Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 2, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Hellion Axe', 'Rezakiri Head', 'Skarn Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 1, 'Technique': 2, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Aetheric Attunement': 1}]
+
+['Drask Chainblades', 'Quillshot Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Savagery': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Hammer', 'Rezakiri Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Conduit': 1, 'Technique': 2, 'Rage': 1, 'Iceborne': 1}]
+
+['Charrogg Axe', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask War Pike', 'Charrogg Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Fireproof': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1}]
+
+['Drask Axe', 'Koshai Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Agility': 1, 'Technique': 2, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Skarn War Pike', 'Riftstalker Head', 'Drask Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Shroud Head', 'Hellion Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Molten': 1, 'Technique': 2, 'Iceborne': 1}]
+
+['Drask War Pike', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Chainblades', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 3, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Rage': 1, 'Iceborne': 1, 'Knockout King': 1, 'Defence': 1}]
+
+['Drask War Pike', 'Riftstalker Head', 'Skarn Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Guardian': 1, 'Defence': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Pangar Chainblades', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 2, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask Sword', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Rage': 1, 'Defence': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask War Pike', 'Gnasher Head', 'Riftstalker Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Technique': 2, 'Bloodless': 1, 'Defence': 1, 'Conduit': 1, 'Iceborne': 1, 'Rage': 1}]
+
+['Drask Axe', 'Riftstalker Head', 'Kharabak Chest', 'Boreus Legs', 'Boreus Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Defence': 1, 'Bladestorm': 1, 'Technique': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Gnasher War Pike', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Ragehunter': 1, 'Defence': 1, 'Aetheric Attunement': 1, 'Power': 2, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Boreus War Pike', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Riftstalker Axe', 'Drask Head', 'Boreus Chest', 'Skarn Legs', 'Charrogg Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 2, 'Guardian': 1}]
+
+['Boreus Sword', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Conditioning': 1, 'Defence': 1, 'Power': 2, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Quillshot Sword', 'Drask Head', 'Drask Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Iceborne': 1, 'Rage': 1}]
+
+['Quillshot Sword', 'Shroud Head', 'Drask Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 1, 'Technique': 2, 'Rage': 1, 'Power': 2, 'Aetheric Attunement': 2, 'Iceborne': 1}]
+
+['Hellion Chainblades', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Valomyr Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Lucent': 1, 'Defence': 1}]
+
+['Riftstalker War Pike', 'Riftstalker Head', 'Boreus Chest', 'Nayzaga Legs', 'Boreus Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Insulated': 1, 'Power': 1}]
+
+['Hellion Hammer', 'Rezakiri Head', 'Riftstalker Chest', 'Boreus Legs', 'Pangar Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Conduit': 2, 'Technique': 2, 'Iceborne': 1, 'Knockout King': 1, 'Defence': 1}]
+
+['Quillshot War Pike', 'Rezakiri Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 2, 'Acidic': 1, 'Defence': 2, 'Technique': 2, 'Conduit': 1, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask War Pike', 'Skarn Head', 'Shroud Chest', 'Boreus Legs', 'Nayzaga Hands', {'Utility': 2, 'Aetheric Attunement': 2, 'Power': 2, 'Technique': 2, 'Tough': 1, 'Defence': 1, 'Rage': 1, 'Iceborne': 1}]
+
+['Charrogg Sword', 'Riftstalker Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetherhunter': 1, 'Defence': 1, 'Power': 2, 'Aetheric Attunement': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Drask Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Aetheric Attunement': 2, 'Power': 1, 'Technique': 2, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Riftstalker Sword', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Valomyr Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Aetheric Attunement': 1, 'Rage': 2, 'Defence': 2, 'Power': 1, 'Lucent': 1}]
+
+['Skarn War Pike', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Weighted Strikes': 1, 'Defence': 1, 'Technique': 2, 'Rage': 2, 'Power': 1, 'Conduit': 1, 'Iceborne': 1}]
+
+['Riftstalker Hammer', 'Charrogg Head', 'Boreus Chest', 'Charrogg Legs', 'Nayzaga Hands', {'Utility': 3, 'Wild Frenzy': 1, 'Technique': 1, 'Fireproof': 1, 'Defence': 2, 'Rage': 2, 'Power': 1, 'Aetheric Attunement': 1}]
+
+['Drask Hammer', 'Drask Head', 'Shroud Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 1, 'Aetheric Attunement': 2, 'Power': 3, 'Defence': 1, 'Rage': 1, 'Iceborne': 1, 'Technique': 2, 'Conduit': 1}]
+
+['Rezakiri Sword', 'Drask Head', 'Boreus Chest', 'Boreus Legs', 'Charrogg Hands', {'Utility': 3, 'Cunning': 1, 'Technique': 2, 'Aetheric Attunement': 1, 'Power': 1, 'Rage': 2, 'Defence': 1, 'Iceborne': 1}]
+
+['Drask Hammer', 'Shroud Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Aetheric Attunement': 1, 'Power': 2, 'Defence': 1, 'Rage': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Hellion Hammer', 'Skarn Head', 'Riftstalker Chest', 'Boreus Legs', 'Rezakiri Hands', {'Utility': 2, 'Overpower': 1, 'Power': 2, 'Tough': 1, 'Defence': 1, 'Conduit': 2, 'Iceborne': 1, 'Technique': 2}]
+
+['Pangar Chainblades', 'Riftstalker Head', 'Boreus Chest', 'Charrogg Legs', 'Rezakiri Hands', {'Utility': 2, 'Weighted Strikes': 1, 'Defence': 2, 'Technique': 2, 'Aetheric Attunement': 1, 'Rage': 2, 'Power': 1, 'Conduit': 1}]

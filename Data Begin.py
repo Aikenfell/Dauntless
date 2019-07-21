@@ -193,9 +193,9 @@ def mats():
                 Gear[item]["Levels"]["5"]["Mats"] = {"Rams" : 40 , Gear[item]["Resists"]+" Orbs" : 2}
                 Gear[item]["Levels"]["6"]["Mats"] = {"Rams" : 55 , Gear[item]["Resists"]+" Orbs" : 3 , "Dull Arcstone" : 3}
                 Gear[item]["Levels"]["7"]["Mats"] = {"Rams" : 60 , Gear[item]["Resists"]+" Orbs" : 4 , "Dull Arcstone" : 4}
-                Gear[item]["Levels"]["8"]["Mats"] = {"Rams" : 75 , Gear[item]["Resists"]+" Orbs" : 5 , "Dull Arcstone" : 5 , "Shining Arcstone" : 20}
-                Gear[item]["Levels"]["9"]["Mats"] = {"Rams" : 90 , Gear[item]["Resists"]+" Orbs" : 6 , "Dull Arcstone" : 6 , "Shining Arcstone" : 40}
-                Gear[item]["Levels"]["10"]["Mats"] = {"Rams" : 100 , Gear[item]["Resists"]+" Orbs" : 7 , "Dull Arcstone" : 7 , "Shining Arcstone" : 60}
+                Gear[item]["Levels"]["8"]["Mats"] = {"Rams" : 75 , Gear[item]["Resists"]+" Orbs" : 5 , "Dull Arcstone" : 5 , "Shining Arcstone" : 5}
+                Gear[item]["Levels"]["9"]["Mats"] = {"Rams" : 90 , Gear[item]["Resists"]+" Orbs" : 6 , "Dull Arcstone" : 6 , "Shining Arcstone" : 10}
+                Gear[item]["Levels"]["10"]["Mats"] = {"Rams" : 100 , Gear[item]["Resists"]+" Orbs" : 7 , "Dull Arcstone" : 7 , "Shining Arcstone" : 15}
                 Gear[item]["Levels"]["11"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 5}
                 Gear[item]["Levels"]["12"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 6}
                 Gear[item]["Levels"]["13"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 7}
@@ -218,16 +218,16 @@ def mats():
                 Gear[item]["Levels"]["13"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 7}
                 Gear[item]["Levels"]["14"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 8}
                 Gear[item]["Levels"]["15"]["Mats"] = {"Rams" : 150 , "Peerless Arcstone" : 9}
-            Gear[item]["Levels"]["0"]["Power"] = 15
-            Gear[item]["Levels"]["1"]["Power"] = 25
-            Gear[item]["Levels"]["2"]["Power"] = 35
-            Gear[item]["Levels"]["3"]["Power"] = 45
-            Gear[item]["Levels"]["4"]["Power"] = 55
-            Gear[item]["Levels"]["5"]["Power"] = 65
-            Gear[item]["Levels"]["6"]["Power"] = 75
-            Gear[item]["Levels"]["7"]["Power"] = 85
-            Gear[item]["Levels"]["8"]["Power"] = 95
-            Gear[item]["Levels"]["9"]["Power"] = 105
+            Gear[item]["Levels"]["0"]["Power"] = 25
+            Gear[item]["Levels"]["1"]["Power"] = 35
+            Gear[item]["Levels"]["2"]["Power"] = 45
+            Gear[item]["Levels"]["3"]["Power"] = 55
+            Gear[item]["Levels"]["4"]["Power"] = 65
+            Gear[item]["Levels"]["5"]["Power"] = 75
+            Gear[item]["Levels"]["6"]["Power"] = 85
+            Gear[item]["Levels"]["7"]["Power"] = 95
+            Gear[item]["Levels"]["8"]["Power"] = 105
+            Gear[item]["Levels"]["9"]["Power"] = 115
             Gear[item]["Levels"]["10"]["Power"] = 125
             Gear[item]["Levels"]["11"]["Power"] = 127.5
             Gear[item]["Levels"]["12"]["Power"] = 130
@@ -293,6 +293,55 @@ def cells(item):
     cell = ["None", "Defence", "Mobility", "Power", "Technique", "Utility"]
     item = str(cell.index(item))
     return(item)
+
+def cellexport():
+    with open("CellsV2.json") as f:
+        Data = json.load(f)
+
+    with open('Cell Data.csv', 'w', newline="\n") as csvfile:
+        fieldnames = ["Name", "Description", "Type", "T1D", "T1B", "T2D", "T2B", "T3D", "T3B", "T4D", "T4B", "T5D", "T5B", "T6D", "T6B"]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        
+        for item in Data:
+            writer.writerow({
+                'Name': item,
+                "Description": Data[item]["Description"],
+                "Type": Data[item]["Type"],
+                "T1D": Data[item]["Tier 1"]["Description"],
+                "T1B": Data[item]["Tier 1"]["Buffs"],
+                "T2D": Data[item]["Tier 2"]["Description"],
+                "T2B": Data[item]["Tier 2"]["Buffs"],
+                "T3D": Data[item]["Tier 3"]["Description"],
+                "T3B": Data[item]["Tier 3"]["Buffs"],
+                "T4D": Data[item]["Tier 4"]["Description"],
+                "T4B": Data[item]["Tier 4"]["Buffs"],
+                "T5D": Data[item]["Tier 5"]["Description"],
+                "T5B": Data[item]["Tier 5"]["Buffs"],
+                "T6D": Data[item]["Tier 6"]["Description"],
+                "T6B": Data[item]["Tier 6"]["Buffs"]
+                })
+
+def cellupdate():
+    with open("CellsV2.json") as f:
+        Data = json.load(f)
+    for item in Data:
+        Data[item].update({"Weapons" : [] ,"Armors" : []})
+
+    with open("EquipsV2.json") as f:
+        Gear = json.load(f)
+    for piece in Gear:
+        if Gear[piece]["Equip Type"] == "Weapon":
+            if Gear[piece]["Cell"] != "None":
+                Data[Gear[piece]["Cell"]]["Weapons"].append(piece)
+        else:
+            if Gear[piece]["Cell"] != "None":
+                Data[Gear[piece]["Cell"]]["Armors"].append(piece)
+
+    with open("CellsV2"+".json", "w") as filez:
+        json.dump(Data, filez, indent=4)
+
+
 def split():
     with open("Equips.json") as f:
         Gear = json.load(f)
@@ -301,6 +350,7 @@ def split():
         Behemoths = json.load(b)
 
     with open('Weapons.csv', 'w', newline="\n") as csvfile:
+        
         fieldnames = ["Swords", "Hammers", "Chainblades", "Axes","War Pikes"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -319,13 +369,59 @@ def split():
         fieldnames = ["Heads", "Chest", "Gloves", "Legs"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
-
         for item in Behemoths:
                 writer.writerow({'Heads': Gear[item+" "+"Head"]["Ingame Name"], 'Chest': Gear[item+" "+"Chest"]["Ingame Name"], 'Gloves': Gear[item+" "+"Hands"]["Ingame Name"], 'Legs': Gear[item+" "+"Legs"]["Ingame Name"]})
 
-#split()
-##initdata()
+def behemupdate():
+    with open("EquipsV2.json") as f:
+        Gear = json.load(f)
+
+    with open("Behemoths.json") as b:
+        Behemoths = json.load(b)
+
+    for item in Behemoths:
+        Behemoths[item].update({"Gear" : []})
+    for item in Gear:
+        if Gear[item]["Source Behemoth"] != "None":
+            Behemoths[Gear[item]["Source Behemoth"]]["Gear"].append(item)
+
+    with open("Behemoths.json", "w") as filez:
+        json.dump(Behemoths, filez, indent=4)
+
+
+def partcsv():
+    with open("EquipsV2.json") as f:
+        Gear = json.load(f)
+    with open('Parts.csv', 'w', newline="\n") as csvfile:
+        fieldnames = ["Item", "Simple", "Base", "+5 To +6", "+9 To +10"]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for item in Gear:
+            v1 = {}
+            v2 = {}
+            v3 = {}
+            for mat in Gear[item]["Levels"]["0"]["Mats"]:
+                if mat not in ["Rams","Peerless Arcstone","Shining Arcstone","Dull Arcstone","Blaze Orbs","Frost Orbs","Terra Orbs","Shock Orbs","Neutral Orbs"]:
+                    v1.update({mat : Gear[item]["Levels"]["0"]["Mats"][mat]})
+
+            for mat in Gear[item]["Levels"]["6"]["Mats"]:
+                if mat not in ["Rams","Peerless Arcstone","Shining Arcstone","Dull Arcstone","Blaze Orbs","Frost Orbs","Terra Orbs","Shock Orbs","Neutral Orbs"]:
+                    v2.update({mat : Gear[item]["Levels"]["6"]["Mats"][mat]})
+
+            for mat in Gear[item]["Levels"]["10"]["Mats"]:
+                if mat not in ["Rams","Peerless Arcstone","Shining Arcstone","Dull Arcstone","Blaze Orbs","Frost Orbs","Terra Orbs","Shock Orbs","Neutral Orbs"]:
+                    v3.update({mat : Gear[item]["Levels"]["10"]["Mats"][mat]})
+
+
+                
+            writer.writerow({'Item': Gear[item]["Ingame Name"], 'Simple': item, 'Base': v1, '+5 To +6': v2, '+9 To +10': v3,})
+
+initdata()
 ##fromexcel()
 ##elements()
 ##mats()
 ##cellsV2()
+##cellexport()
+##cellupdate()
+##behemupdate()
+partcsv()

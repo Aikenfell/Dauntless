@@ -90,7 +90,9 @@
                     "Rams": 100,
                     "Blaze Orbs": 7,
                     "Dull Arcstone": 7,
-                    "Shining Arcstone": 60
+                    "Shining Arcstone": 60,
+                    "Lumbering Flamesoul Shard": 1,
+                    "Smouldering Tailspike": 2
                 }
             },
             "11": {
@@ -1252,7 +1254,9 @@
                 "Mats": {
                     "Rams": 55,
                     "Blaze Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Smouldering Bloodhide": 2,
+                    "Smoked Dewclaw": 2
                 }
             },
             "7": {
@@ -1518,7 +1522,9 @@
                 "Mats": {
                     "Rams": 55,
                     "Blaze Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Smouldering Bloodhide": 2,
+                    "Burning Tailspike": 1
                 }
             },
             "7": {
@@ -1686,7 +1692,9 @@
                     "Rams": 100,
                     "Blaze Orbs": 7,
                     "Dull Arcstone": 7,
-                    "Shining Arcstone": 60
+                    "Shining Arcstone": 60,
+                    "Bloodsoul Shard": 1,
+                    "Smoked Dewclaw": 3
                 }
             },
             "11": {
@@ -2449,7 +2457,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Blaze Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Scorchscale": 3
                 }
             },
             "7": {
@@ -2617,7 +2626,9 @@
                     "Rams": 100,
                     "Blaze Orbs": 7,
                     "Dull Arcstone": 7,
-                    "Shining Arcstone": 60
+                    "Shining Arcstone": 60,
+                    "Hellstone Shard": 1,
+                    "Scorchscale": 4
                 }
             },
             "11": {
@@ -2715,7 +2726,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Blaze Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Scorchscale": 3
                 }
             },
             "7": {
@@ -3646,7 +3658,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Frost Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Psionic Scale": 2
                 }
             },
             "7": {
@@ -3779,7 +3792,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Frost Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Psionic Scale": 2
                 }
             },
             "7": {
@@ -4045,7 +4059,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Frost Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Psionic Scale": 2
                 }
             },
             "7": {
@@ -4976,7 +4991,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Frost Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Icy Frostback Scale": 3
                 }
             },
             "7": {
@@ -5109,7 +5125,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Frost Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Icy Frostback Scale": 3
                 }
             },
             "7": {
@@ -6263,7 +6280,9 @@
             "0": {
                 "Power": 15,
                 "Mats": {
-                    "Rams": 40
+                    "Rams": 40,
+                    "Skraev Feather": 2,
+                    "Shattered Frostbeak": 1
                 }
             },
             "1": {
@@ -6396,7 +6415,9 @@
             "0": {
                 "Power": 15,
                 "Mats": {
-                    "Rams": 40
+                    "Rams": 40,
+                    "Skraev Feather": 40,
+                    "Skraev Tailfeather": 40
                 }
             },
             "1": {
@@ -7237,7 +7258,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Shock Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Thundering Scale": 2
                 }
             },
             "7": {
@@ -7370,7 +7392,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Shock Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Thundering Scale": 2
                 }
             },
             "7": {
@@ -7503,7 +7526,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Shock Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Thundering Scale": 2
                 }
             },
             "7": {
@@ -7636,7 +7660,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Shock Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Thundering Scale": 2
                 }
             },
             "7": {
@@ -8657,7 +8682,9 @@
             "0": {
                 "Power": 15,
                 "Mats": {
-                    "Rams": 40
+                    "Rams": 40,
+                    "Nayzaga Chitin": 2,
+                    "Sparkspine": 1
                 }
             },
             "1": {
@@ -9631,7 +9658,9 @@
                 "Mats": {
                     "Rams": 55,
                     "Shock Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Voltscale": 3,
+                    "Volthoof": 3
                 }
             },
             "7": {
@@ -9799,7 +9828,9 @@
                     "Rams": 100,
                     "Shock Orbs": 7,
                     "Dull Arcstone": 7,
-                    "Shining Arcstone": 60
+                    "Shining Arcstone": 60,
+                    "Stormheart Shard": 1,
+                    "Volthoof": 3
                 }
             },
             "11": {
@@ -9932,7 +9963,9 @@
                     "Rams": 100,
                     "Shock Orbs": 7,
                     "Dull Arcstone": 7,
-                    "Shining Arcstone": 60
+                    "Shining Arcstone": 60,
+                    "Stormheart Shard": 1,
+                    "Glinttooth": 2
                 }
             },
             "11": {
@@ -10065,7 +10098,9 @@
                     "Rams": 100,
                     "Shock Orbs": 7,
                     "Dull Arcstone": 7,
-                    "Shining Arcstone": 60
+                    "Shining Arcstone": 60,
+                    "Voltscale": 3,
+                    "Glinttooth": 1
                 }
             },
             "11": {
@@ -10828,7 +10863,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Terra Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Sleek Razorwing Chitin": 3
                 }
             },
             "7": {
@@ -11051,7 +11087,9 @@
             "0": {
                 "Power": 15,
                 "Mats": {
-                    "Rams": 40
+                    "Rams": 40,
+                    "Kharabak Chitin": 2,
+                    "Claw Shell Fragment": 3
                 }
             },
             "1": {
@@ -11227,7 +11265,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Terra Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Sleek Razorwing Chitin": 3
                 }
             },
             "7": {
@@ -13355,7 +13394,9 @@
                 "Mats": {
                     "Rams": 55,
                     "Terra Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Adamantine Scale": 2,
+                    "Stone Fragments": 4
                 }
             },
             "7": {
@@ -13488,7 +13529,9 @@
                 "Mats": {
                     "Rams": 55,
                     "Terra Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Adamantine Scale": 2,
+                    "Browscale": 1
                 }
             },
             "7": {
@@ -14685,7 +14728,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Neutral Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Furious Ragescale": 3
                 }
             },
             "7": {
@@ -14818,7 +14862,8 @@
                 "Mats": {
                     "Rams": 55,
                     "Neutral Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Furious Ragescale": 3
                 }
             },
             "7": {
@@ -15616,7 +15661,9 @@
                 "Mats": {
                     "Rams": 55,
                     "Neutral Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Deadeye Spinehide": 2,
+                    "Quillshard": 4
                 }
             },
             "7": {
@@ -15706,7 +15753,9 @@
             "0": {
                 "Power": 15,
                 "Mats": {
-                    "Rams": 40
+                    "Rams": 40,
+                    "Quillshot Hide": 1,
+                    "Jagged Tailspike": 1
                 }
             },
             "1": {
@@ -15882,7 +15931,9 @@
                 "Mats": {
                     "Rams": 55,
                     "Neutral Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Deadeye Spinehide": 2,
+                    "Dewspine": 2
                 }
             },
             "7": {
@@ -16015,7 +16066,9 @@
                 "Mats": {
                     "Rams": 55,
                     "Neutral Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Deadeye Spinehide": 2,
+                    "Jagged Tailspike": 1
                 }
             },
             "7": {
@@ -16813,7 +16866,9 @@
                 "Mats": {
                     "Rams": 55,
                     "Neutral Orbs": 3,
-                    "Dull Arcstone": 3
+                    "Dull Arcstone": 3,
+                    "Pristine Moonfeather": 2,
+                    "Shrike Bladefeather": 2
                 }
             },
             "7": {
@@ -19110,7 +19165,7 @@
         "Cell": "Aetheric Attunement",
         "Slot": "Utility",
         "Unique": "",
-        "Ingame Name": "Visage of the Rift",
+        "Ingame Name": "Guise of the Rift",
         "Description": "",
         "Equip Type": "Armor",
         "Region": "Head",
@@ -19320,7 +19375,9 @@
                 "Mats": {
                     "Rams": 100,
                     "Dull Arcstone": 5,
-                    "Shining Arcstone": 20
+                    "Shining Arcstone": 20,
+                    "Riftsoul Shard": 1,
+                    "Unstable Nullhide": 4
                 }
             },
             "11": {
@@ -19448,7 +19505,9 @@
                 "Mats": {
                     "Rams": 100,
                     "Dull Arcstone": 5,
-                    "Shining Arcstone": 20
+                    "Shining Arcstone": 20,
+                    "Riftsoul Shard": 1,
+                    "Rifthide": 4
                 }
             },
             "11": {
@@ -19494,7 +19553,7 @@
         "Cell": "Evasion",
         "Slot": "Mobility",
         "Unique": "",
-        "Ingame Name": "Embrace of the Rift",
+        "Ingame Name": "Hands of the Rift",
         "Description": "",
         "Equip Type": "Armor",
         "Region": "Hands",
@@ -19503,7 +19562,9 @@
             "0": {
                 "Power": 15,
                 "Mats": {
-                    "Rams": 40
+                    "Rams": 40,
+                    "Rifthide": 2,
+                    "Rending Voidclaw": 3
                 }
             },
             "1": {
@@ -21496,7 +21557,9 @@
                 "Mats": {
                     "Rams": 100,
                     "Dull Arcstone": 5,
-                    "Shining Arcstone": 20
+                    "Shining Arcstone": 20,
+                    "Galactic Shard": 1,
+                    "Apocalypse Horn": 2
                 }
             },
             "11": {
@@ -21624,7 +21687,9 @@
                 "Mats": {
                     "Rams": 100,
                     "Dull Arcstone": 5,
-                    "Shining Arcstone": 20
+                    "Shining Arcstone": 20,
+                    "Galactic Shard": 1,
+                    "Unstable Tailspike": 2
                 }
             },
             "11": {
@@ -23349,6 +23414,7 @@
         "Description": "",
         "Equip Type": "Weapon",
         "Region": "Repeaters",
+        "Source Behemoth": "None",
         "Levels": {
             "0": {
                 "Power": 0,
